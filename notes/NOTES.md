@@ -22,10 +22,6 @@
   - Looking up `Contact form to email` services seems like a good direction. Examples... <https://web3forms.com>, <https://www.formspark.io>, <https://www.smtp2go.com/pricing/>
   - [Nodemailer](https://nodemailer.com/) might be a useful thing to look at
 
-### Test TinaCMS
-
-- Had a multi-deployment setup at some point... will probably make sense to do that again?
-
 ### Mailing list
 
 - [ ] Investigate what mailing list tool P3 London is using
@@ -58,7 +54,35 @@ Notes from a couple years ago...
 - [ ] Continue work on page implementation
   - Once first cut is shared, may as well get ahead of it. Start with what you feel most sure of.
 
-#### Blog post changes needed
+## Done
+
+### General
+
+- [x] Fix `/admin` redirect loop
+- [x] Update `README.md`, with notes on deployment strategy
+- [x] Add custom domain
+  - I've purchased `pollinatorpathwaysproject.ca` on NameCheap
+  - Going forward, could redirect `pollinatorpathwaysproject.com` to `.ca`
+  - Alternately, if it's an option, could transfer `pollinatorpathwaysproject.com` to some custom P3 account that I could make in NameCheap. Would also transfer `pollinatorpathwaysproject.ca` to that account.
+- [x] Ensure custom domain actually works
+  - `pollinatorpathwaysproject.ca` should function as expected
+- [x] Ensure non-editable build works as static pages, editable is editable
+  - Can test this locally
+  - Or, should be able to go to `pollinatorpathwaysproject.ca/admin`, and be redirected
+
+### Connect page
+
+- [x] Build out functional contact form
+  - Using [Formik](https://formik.org/docs/overview), familiar and I know it works
+  - Next step is to get a submission to val.town working, should send the contact form as an email to myself. Can later update this to be a pollinator pathways email... but that will come WAY later.
+
+### Navigation editing
+
+- [x] Test out wiring up the navigation to be editable
+
+### Blog post migration
+
+Changes needed before migration:
 
 - [x] Model support for "cover image"
 - [x] Model support for "author" (exists on current blog, even if unused)
@@ -69,10 +93,6 @@ Notes from a couple years ago...
 - [x] Render "category" (link to category pages?)
 - [x] Model support for "date"
 - [x] Render "date"
-
-### Blog post migration
-
-Goal is to _download_ content, not to get the whole blog working.
 
 #### Blog post download process
 
@@ -129,13 +149,13 @@ Download status: 33 / 33
 
 #### Blog post migration process
 
-- [ ] Open existing old blog post to compare as you go
-- [ ] For images, create new folder in `public/uploads/Blog Posts`, and move all images into the folder
-- [ ] Fix all image links within the markdown, to point to the images in the newly created folder
-- [ ] Add YAML front-matter to the markdown. Match the structure of an existing blog post
-- [ ] Skim through the markdown content and fix any other issues
-- [ ] Run the project locally in order to test the page's appearance. 
-- [ ] Compare the locally running post to the existing old blog post, to double-check everything looks right
+- Open existing old blog post to compare as you go
+- For images, create new folder in `public/uploads/Blog Posts`, and move all images into the folder
+- Fix all image links within the markdown, to point to the images in the newly created folder
+- Add YAML front-matter to the markdown. Match the structure of an existing blog post
+- Skim through the markdown content and fix any other issues
+- Run the project locally in order to test the page's appearance. 
+- Compare the locally running post to the existing old blog post, to double-check everything looks right
 
 #### Blog post migration list
 
@@ -187,32 +207,6 @@ Download status: 20 / 33
 - [x] <https://www.pollinatorpathwaysproject.com/post/bee-hotels-back-to-nature>
 - [x] <https://www.pollinatorpathwaysproject.com/post/the-importance-of-water-in-a-pollinator-garden>
 
-- [ ] <https://www.pollinatorpathwaysproject.com/post/how-to-start-a-pollinator-garden>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/so-what-are-pollinator-pathways-anyway>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/community-engaged-learning-project>
-
-## Done
-
-### General
-
-- [x] Fix `/admin` redirect loop
-- [x] Update `README.md`, with notes on deployment strategy
-- [x] Add custom domain
-  - I've purchased `pollinatorpathwaysproject.ca` on NameCheap
-  - Going forward, could redirect `pollinatorpathwaysproject.com` to `.ca`
-  - Alternately, if it's an option, could transfer `pollinatorpathwaysproject.com` to some custom P3 account that I could make in NameCheap. Would also transfer `pollinatorpathwaysproject.ca` to that account.
-- [x] Ensure custom domain actually works
-  - `pollinatorpathwaysproject.ca` should function as expected
-- [x] Ensure non-editable build works as static pages, editable is editable
-  - Can test this locally
-  - Or, should be able to go to `pollinatorpathwaysproject.ca/admin`, and be redirected
-
-### Connect page
-
-- [x] Build out functional contact form
-  - Using [Formik](https://formik.org/docs/overview), familiar and I know it works
-  - Next step is to get a submission to val.town working, should send the contact form as an email to myself. Can later update this to be a pollinator pathways email... but that will come WAY later.
-
-### Navigation editing
-
-- [x] Test out wiring up the navigation to be editable
+- [x] <https://www.pollinatorpathwaysproject.com/post/how-to-start-a-pollinator-garden>
+- [x] <https://www.pollinatorpathwaysproject.com/post/so-what-are-pollinator-pathways-anyway>
+- [x] <https://www.pollinatorpathwaysproject.com/post/community-engaged-learning-project>
