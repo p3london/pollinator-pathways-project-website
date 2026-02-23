@@ -18,64 +18,67 @@
 } */
 
 .metadata {
-	display: flex;
-	gap: 8px;
-	align-items: center;
-	max-width: var(--content-max-width);
-	margin: 0 auto;
-	justify-content: center;
-	padding: 3rem 1rem 0 1rem;
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  justify-content: center;
+  padding: 3rem 1rem 0 1rem;
 }
 
 .metadataDivider {
-	color: var(--green-medium);
+  color: var(--green-medium);
 }
 
 .author {
-	display: flex;
-	gap: 8px;
-	align-items: center;
+  display: flex;
+  gap: 8px;
+  align-items: center;
 }
 
 .authorIcon {
-	display: block;
-	width: 32px;
-	height: 32px;
-	/* border: 1px solid #b4d095; */
-	/* background: var(--green-faded); */
-	background: var(--green-medium);
-	overflow: hidden;
-	font-size: 1.6rem;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	padding-top: 4px;
-	border-radius: 50%;
+  display: block;
+  width: 32px;
+  height: 32px;
+  /* border: 1px solid #b4d095; */
+  /* background: var(--green-faded); */
+  background: var(--green-medium);
+  overflow: hidden;
+  font-size: 1.6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 4px;
+  border-radius: 50%;
 }
 
 .pageTitle {
-	text-align: center;
-	padding: 0.5rem 1rem 0 1rem;
-	font-size: 3rem;
-	font-family: var(--font-display);
+  text-align: center;
+  padding: 0.5rem 1rem 0 1rem;
+  font-size: 3rem;
+  font-family: var(--font-display);
+  line-height: 1;
+  max-width: 20em;
+  margin: 0 auto;
 }
 
 .coverImage {
-	display: block;
-	margin: 0 auto;
-	padding-top: 1rem;
-	max-width: var(--content-max-width);
+  display: block;
+  margin: 0 auto;
+  padding-top: 1rem;
+  max-width: var(--content-max-width);
 }
 
 .blogBody {
-	max-width: 40em;
-	font-size: 18px;
-	line-height: 1.7;
-	color: #444;
-	font-weight: 300;
-	margin: 0 auto;
-	padding: 2rem 0 8rem 0;
-	& p {
-		margin: 1.2em 0;
-	}
+  max-width: 40em;
+  font-size: 18px;
+  line-height: 1.7;
+  color: #444;
+  font-weight: 300;
+  margin: 0 auto;
+  padding: 2rem 0 8rem 0;
+  & p {
+    margin: 1.2em 0;
+  }
 }

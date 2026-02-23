@@ -139,7 +139,7 @@ Download status: 33 / 33
 
 #### Blog post migration list
 
-Download status: 11 / 33
+Download status: 16 / 33
 
 - [x] <https://www.pollinatorpathwaysproject.com/post/program-overview-central-london-pathway>
 - [x] <https://www.pollinatorpathwaysproject.com/post/earth-day-is-everyday>
@@ -153,11 +153,11 @@ Download status: 11 / 33
 - [x] <https://www.pollinatorpathwaysproject.com/post/sowing-your-seeds-in-the-winter>
 - [x] <https://www.pollinatorpathwaysproject.com/post/getting-to-know-pollinators>
 
-- [ ] <https://www.pollinatorpathwaysproject.com/post/pollinator-in-a-box-an-environmentally-friendly-holiday-gift>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/winterizing-your-garden>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/eco-mimicry-an-alternative-to-blandscaping>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/pollination-with-purpose>
+- [x] <https://www.pollinatorpathwaysproject.com/post/pollinator-in-a-box-an-environmentally-friendly-holiday-gift>
+- [x] <https://www.pollinatorpathwaysproject.com/post/winterizing-your-garden>
+- [x] <https://www.pollinatorpathwaysproject.com/post/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee>
+- [x] <https://www.pollinatorpathwaysproject.com/post/eco-mimicry-an-alternative-to-blandscaping>
+- [x] <https://www.pollinatorpathwaysproject.com/post/pollination-with-purpose>
 
 - [ ] <https://www.pollinatorpathwaysproject.com/post/pollinator-pathways-take-ecosystem-scientist-down-a-new-path>
 - [ ] <https://www.pollinatorpathwaysproject.com/post/growing-a-community-withthe-pollinator-pathways-project>
