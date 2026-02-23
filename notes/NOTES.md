@@ -175,17 +175,17 @@ Download status: 20 / 33
 - [x] <https://www.pollinatorpathwaysproject.com/post/six-bees-to-look-out-for-this-spring-summer>
 - [x] <https://www.pollinatorpathwaysproject.com/post/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments>
 
-- [ ] <https://www.pollinatorpathwaysproject.com/post/now-hiring-pollinator-pathways-communications-coordinator>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/monarch-butterflies-in-the-city>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/london-ont-group-paving-pollinator-pathways-in-honour-of-world-bee-day>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/8-pollinator-favourite-spring-blooms>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/15-in-season-holiday-recipes>
+- [x] <https://www.pollinatorpathwaysproject.com/post/now-hiring-pollinator-pathways-communications-coordinator>
+- [x] <https://www.pollinatorpathwaysproject.com/post/monarch-butterflies-in-the-city>
+- [x] <https://www.pollinatorpathwaysproject.com/post/london-ont-group-paving-pollinator-pathways-in-honour-of-world-bee-day>
+- [x] <https://www.pollinatorpathwaysproject.com/post/8-pollinator-favourite-spring-blooms>
+- [x] <https://www.pollinatorpathwaysproject.com/post/15-in-season-holiday-recipes>
 
-- [ ] <https://www.pollinatorpathwaysproject.com/post/boycott-plastic-with-these-bees-knees-food-wraps>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/bee-kind-helping-urban-pollinators>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/what-is-a-pollinator-species-how-does-pollination-work>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/bee-hotels-back-to-nature>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/the-importance-of-water-in-a-pollinator-garden>
+- [x] <https://www.pollinatorpathwaysproject.com/post/boycott-plastic-with-these-bees-knees-food-wraps>
+- [x] <https://www.pollinatorpathwaysproject.com/post/bee-kind-helping-urban-pollinators>
+- [x] <https://www.pollinatorpathwaysproject.com/post/what-is-a-pollinator-species-how-does-pollination-work>
+- [x] <https://www.pollinatorpathwaysproject.com/post/bee-hotels-back-to-nature>
+- [x] <https://www.pollinatorpathwaysproject.com/post/the-importance-of-water-in-a-pollinator-garden>
 
 - [ ] <https://www.pollinatorpathwaysproject.com/post/how-to-start-a-pollinator-garden>
 - [ ] <https://www.pollinatorpathwaysproject.com/post/so-what-are-pollinator-pathways-anyway>
