@@ -139,7 +139,17 @@ Download status: 33 / 33
 
 #### Blog post migration list
 
-Download status: 16 / 33
+```yaml
+---
+title: '<TITLE>'
+coverImage: /uploads/Blog Posts/<SLUG>/<COVER-IMAGE>
+date: <YYYYMMDD>T04:00:00.000Z
+author: <AUTHOR>
+category: news
+---
+```
+
+Download status: 20 / 33
 
 - [x] <https://www.pollinatorpathwaysproject.com/post/program-overview-central-london-pathway>
 - [x] <https://www.pollinatorpathwaysproject.com/post/earth-day-is-everyday>
@@ -159,11 +169,11 @@ Download status: 16 / 33
 - [x] <https://www.pollinatorpathwaysproject.com/post/eco-mimicry-an-alternative-to-blandscaping>
 - [x] <https://www.pollinatorpathwaysproject.com/post/pollination-with-purpose>
 
-- [ ] <https://www.pollinatorpathwaysproject.com/post/pollinator-pathways-take-ecosystem-scientist-down-a-new-path>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/growing-a-community-withthe-pollinator-pathways-project>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/london-environmental-network-and-pollinator-pathways-project-are-launching-a-spring-giveaway>
+- [x] <https://www.pollinatorpathwaysproject.com/post/pollinator-pathways-take-ecosystem-scientist-down-a-new-path>
+- [x] <https://www.pollinatorpathwaysproject.com/post/growing-a-community-withthe-pollinator-pathways-project>
+- [x] <https://www.pollinatorpathwaysproject.com/post/london-environmental-network-and-pollinator-pathways-project-are-launching-a-spring-giveaway>
 - [x] <https://www.pollinatorpathwaysproject.com/post/six-bees-to-look-out-for-this-spring-summer>
-- [ ] <https://www.pollinatorpathwaysproject.com/post/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments>
+- [x] <https://www.pollinatorpathwaysproject.com/post/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments>
 
 - [ ] <https://www.pollinatorpathwaysproject.com/post/now-hiring-pollinator-pathways-communications-coordinator>
 - [ ] <https://www.pollinatorpathwaysproject.com/post/monarch-butterflies-in-the-city>
