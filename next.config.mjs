@@ -29,6 +29,9 @@ const nextConfig = {
   images: {
     domains: ["assets.tina.io"],
   },
+  experimental: {
+    outputFileTracingRoot: join(__dirname, "../../"),
+  },
 };
 
 export default nextConfig;
