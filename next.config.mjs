@@ -30,7 +30,7 @@ const nextConfig = {
     domains: ["assets.tina.io"],
   },
   experimental: {
-    outputFileTracingRoot: join(__dirname, "../../"),
+    outputFileTracingRoot: path.join(__dirname, "../../"),
   },
 };
 
