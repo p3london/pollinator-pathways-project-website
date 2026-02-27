@@ -35,8 +35,8 @@
     "permanent": false
   },
   {
-    "source": "/blog",
-    "destination": "/",
+    "source": "/post/:path*",
+    "destination": "/blog/:path*",
     "permanent": false
   },
   {
