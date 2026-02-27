@@ -1,3 +1,10 @@
+const fs = require("fs");
+const path = require("path");
+
+const cwd = process.cwd();
+const redirectsPath = path.join(cwd, "redirects.json");
+const redirects = JSON.parse(fs.readFileSync(redirectsPath, "utf8"));
+
 /** @type {import('next').NextConfig} */
 const isEditable = process.env.NEXT_PUBLIC_EDITABLE === "true";
 
@@ -16,6 +23,7 @@ const nextConfig = {
         permanent: false,
       });
     }
+    redirectEntries.push(...redirects);
     return redirectEntries;
   },
   images: {
