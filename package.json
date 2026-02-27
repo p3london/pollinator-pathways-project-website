@@ -6,7 +6,6 @@
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"next dev\"",
     "dev:reset": "rm -rf tina/__generated__ && rm -rf .next && npm run dev",
     "build": "tinacms build && next build",
-    "postbuild": "next-sitemap",
     "start": "tinacms build && next start",
     "lint": "next lint",
     "tinacms:build": "tinacms build",
