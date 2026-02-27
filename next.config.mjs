@@ -29,9 +29,10 @@ const nextConfig = {
   images: {
     domains: ["assets.tina.io"],
   },
-  experimental: {
-    outputFileTracingRoot: path.join(__dirname, "../../"),
-  },
+  // TODO: figure out TinaCMS 500 errs
+  // experimental: {
+  //   outputFileTracingRoot: path.join(__dirname, "../../"),
+  // },
 };
 
 export default nextConfig;
