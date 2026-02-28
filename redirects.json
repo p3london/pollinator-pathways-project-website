@@ -15,6 +15,11 @@
     "permanent": false
   },
   {
+    "source": "/donate",
+    "destination": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3",
+    "permanent": false
+  },
+  {
     "source": "/start-a-garden",
     "destination": "/",
     "permanent": false
