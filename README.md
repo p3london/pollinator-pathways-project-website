@@ -47,8 +47,15 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to visit t
 
 ### Environment variables
 
-```plaintext
-🚧 TODO: add some notes on environment variables. An example file might be helpful.
+```sh
+# See Tina docs for information on TINA_CLIENT_ID and TINA_TOKEN
+NEXT_PUBLIC_TINA_CLIENT_ID=
+TINA_TOKEN=
+# Set these both to true if you are running the app locally
+NEXT_PUBLIC_EDITABLE=true
+TINA_PUBLIC_IS_LOCAL=true
+# Enables the contact form. Sign up for SendGrid if needed.
+SENDGRID_API_KEY=
 ```
 
 ## How to edit content

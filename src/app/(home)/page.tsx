@@ -23,16 +23,16 @@ import PageComponent from "./page-component";
  * of the production deployment.
  */
 export default async function Page() {
-	const res = await tinaQuery();
-	const { footer } = await getSitewideData();
-	const isEditable = getIsEditableDeployment();
-	return (
-		<LayoutRoot footer={footer} pathname="/">
-			{isEditable ? (
-				<PageWithTinaHook tina={res} />
-			) : (
-				<PageComponent data={res.data} />
-			)}
-		</LayoutRoot>
-	);
+  const res = await tinaQuery();
+  const { nav, footer } = await getSitewideData();
+  const isEditable = getIsEditableDeployment();
+  return (
+    <LayoutRoot footer={footer} pathname="/" navBarItems={nav.items}>
+      {isEditable ? (
+        <PageWithTinaHook tina={res} />
+      ) : (
+        <PageComponent data={res.data} />
+      )}
+    </LayoutRoot>
+  );
 }

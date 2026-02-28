@@ -1,3 +1,8 @@
 .root {
-	text-align: center;
+  text-align: center;
+  font-size: 3rem;
+  font-family: var(--font-display);
+  line-height: 1;
+  max-width: 20em;
+  margin: 0 auto;
 }

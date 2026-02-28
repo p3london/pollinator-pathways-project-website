@@ -10,6 +10,11 @@
         "label": "Connect",
         "href": "/connect",
         "_template": "link"
+      },
+      {
+        "label": "Blog",
+        "href": "/blog",
+        "_template": "link"
       }
     ]
   },

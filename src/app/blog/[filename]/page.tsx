@@ -33,7 +33,7 @@ const RECENT_POSTS = [
  */
 export default async function Page({ params: { filename } }: $TSFixMe) {
   const res = await client.queries.blog({ relativePath: `${filename}.md` });
-  const { footer } = await getSitewideData();
+  const { footer, nav } = await getSitewideData();
   const isPreviewEnabled = getIsEditableDeployment();
 
   /**
@@ -42,7 +42,7 @@ export default async function Page({ params: { filename } }: $TSFixMe) {
   const recentPosts = RECENT_POSTS;
 
   return (
-    <LayoutRoot footer={footer} pathname="/blog">
+    <LayoutRoot footer={footer} navBarItems={nav.items} pathname="/blog">
       {isPreviewEnabled ? (
         <PageClient
           query={res.query}

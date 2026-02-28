@@ -3,10 +3,10 @@ import LayoutRoot from "@/components/layout-root";
 import getSitewideData from "@/lib/get-sitewide-data";
 
 export default async function Page() {
-  const { footer } = await getSitewideData();
+  const { footer, nav } = await getSitewideData();
 
   return (
-    <LayoutRoot footer={footer} pathname="/connect">
+    <LayoutRoot footer={footer} navBarItems={nav.items} pathname="/connect">
       <PageServer />
     </LayoutRoot>
   );

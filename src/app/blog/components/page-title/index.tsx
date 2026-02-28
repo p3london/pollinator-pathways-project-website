@@ -7,15 +7,13 @@ import clsx from "clsx";
 import { Placeholder } from "@/components/placeholder";
 
 export function PageTitle({
-	children,
-	className,
-	...rest
+  children,
+  className,
+  ...rest
 }: HTMLProps<HTMLHeadingElement>) {
-	return (
-		<Placeholder name="<PageTitle />">
-			<h1 className={clsx(s.root, className)} {...rest}>
-				{children}
-			</h1>
-		</Placeholder>
-	);
+  return (
+    <h1 className={clsx(s.root, className)} {...rest}>
+      {children}
+    </h1>
+  );
 }
