@@ -1,10 +1,10 @@
+// Third-party
+import clsx from "clsx";
 // Types
 import React from "react";
 import type { HTMLProps } from "react";
 // Styles
-import s from "./style.module.css";
-import clsx from "clsx";
-import { Placeholder } from "@/components/placeholder";
+import s from "./page-title.module.css";
 
 export function PageTitle({
   children,

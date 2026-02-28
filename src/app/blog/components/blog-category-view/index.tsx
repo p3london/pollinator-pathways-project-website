@@ -1,5 +1,5 @@
 // Components
-import { PageTitle } from "../page-title";
+import { PageTitle } from "@/components/page-title";
 import { BlogEntriesList } from "../blog-entries-list";
 import Spacer from "@/components/spacer";
 

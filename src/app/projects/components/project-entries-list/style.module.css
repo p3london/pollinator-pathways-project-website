@@ -1,0 +1,12 @@
+.noEntries {
+  text-align: center;
+  padding: 1rem;
+  border: 2px solid magenta;
+}
+
+.projectEntriesList {
+  text-align: center;
+  list-style: none;
+  padding: 1rem;
+  border: 2px solid magenta;
+}

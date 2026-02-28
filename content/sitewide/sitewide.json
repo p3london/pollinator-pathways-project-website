@@ -7,13 +7,23 @@
         "_template": "link"
       },
       {
-        "label": "Connect",
-        "href": "/connect",
+        "label": "Projects",
+        "href": "/projects",
         "_template": "link"
       },
       {
         "label": "Blog",
         "href": "/blog",
+        "_template": "link"
+      },
+      {
+        "label": "Connect",
+        "href": "/connect",
+        "_template": "link"
+      },
+      {
+        "label": "Photos",
+        "href": "/photos",
         "_template": "link"
       }
     ]

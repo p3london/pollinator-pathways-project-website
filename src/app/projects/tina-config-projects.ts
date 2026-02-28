@@ -7,10 +7,10 @@ import type { Collection } from "tinacms";
  * Define the shape of this data in the CMS.
  * This is the data that ultimately gets saved to a JSON file.
  */
-export const tinaConfigBlog: Collection = {
-  name: "blog",
-  label: "Blog",
-  path: "content/blog",
+export const tinaConfigProjects: Collection = {
+  name: "project",
+  label: "Projects",
+  path: "content/project",
   fields: [
     {
       type: "string",
@@ -38,45 +38,6 @@ export const tinaConfigBlog: Collection = {
       required: true,
     },
     {
-      type: "string",
-      name: "author",
-      label: "Author",
-      required: true,
-    },
-    {
-      type: "string",
-      name: "categories",
-      list: true,
-      label: "Categories",
-      options: [
-        {
-          value: "pollinators",
-          label: "Pollinators",
-        },
-        {
-          value: "recipes",
-          label: "Recipes",
-        },
-        {
-          value: "gardening",
-          label: "Gardening",
-        },
-        {
-          value: "flowers",
-          label: "Flowers",
-        },
-        {
-          value: "news",
-          label: "News",
-        },
-        {
-          value: "london",
-          label: "London",
-        },
-      ],
-      required: false,
-    },
-    {
       type: "rich-text",
       name: "body",
       label: "Body",
@@ -84,7 +45,7 @@ export const tinaConfigBlog: Collection = {
     },
   ],
   ui: {
-    router: ({ document }) => `/blog/${document._sys.filename}`,
+    router: ({ document }) => `/project/${document._sys.filename}`,
     filename: {
       // Disable slug editing, it causes more confusion than it's worth.
       // If we ever need to change the slug of a post, we can do so

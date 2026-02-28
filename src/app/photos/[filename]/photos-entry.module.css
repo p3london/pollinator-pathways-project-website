@@ -1,0 +1,9 @@
+.pageTitle {
+  border: 1px solid magenta;
+}
+
+.photosBody {
+  max-width: 40em;
+  margin: 0 auto;
+  padding: 2rem 0 8rem 0;
+}
