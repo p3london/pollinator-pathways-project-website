@@ -10,11 +10,6 @@
         "label": "Connect",
         "href": "/connect",
         "_template": "link"
-      },
-      {
-        "label": "Donate",
-        "href": "/donate",
-        "_template": "link"
       }
     ]
   },
