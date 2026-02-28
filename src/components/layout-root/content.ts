@@ -3,7 +3,7 @@ import type { NavItem } from "../nav-bar/types";
 export const NAV_BAR_ITEMS: NavItem[] = [
   { href: "/", label: "Home" },
   { href: "/connect", label: "Connect" },
-  { href: "/donate", label: "Donate" },
+  // { href: "/donate", label: "Donate" },
   // {
   // 	label: "What We Do",
   // 	links: [

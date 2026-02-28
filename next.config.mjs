@@ -5,9 +5,9 @@ const cwd = process.cwd();
 const redirectsPath = path.join(cwd, "redirects.json");
 const redirects = JSON.parse(fs.readFileSync(redirectsPath, "utf8"));
 
-/** @type {import('next').NextConfig} */
 const isEditable = process.env.NEXT_PUBLIC_EDITABLE === "true";
 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
   async redirects() {
     const redirectEntries = [];
