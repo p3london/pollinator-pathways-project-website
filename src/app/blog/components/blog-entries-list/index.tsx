@@ -8,7 +8,6 @@ import { BLOG_CATEGORIES } from "../../../../../constants/blog-categories";
 import Link from "next/link";
 // Styles
 import s from "./style.module.css";
-import { Placeholder } from "@/components/placeholder";
 
 export async function BlogEntriesList({ category }: { category: string }) {
   const allBlogEntries = await fetchBlogList();
@@ -32,7 +31,8 @@ export async function BlogEntriesList({ category }: { category: string }) {
 
   return (
     <>
-      <BlogCategoriesList blogCategories={blogCategories} />
+      {/* Note: removed category display for now, not needed yet */}
+      {/*<BlogCategoryLinks blogCategories={blogCategories} />*/}
       {blogEntries.length > 0 ? (
         <ul className={s.blogEntriesList}>
           {blogEntries.map((entry) => (
@@ -47,33 +47,5 @@ export async function BlogEntriesList({ category }: { category: string }) {
         </p>
       )}
     </>
-  );
-}
-
-/**
- *
- * @param param0
- * @returns
- */
-function BlogCategoriesList({ blogCategories }: { blogCategories: $TSFixMe }) {
-  return (
-    <ul className={s.categoriesList}>
-      {blogCategories.map((category) => (
-        <li key={category.value}>
-          <Link
-            href={
-              category.value === "all"
-                ? `/blog`
-                : `/blog/categories/${category.value}`
-            }
-            className={clsx(s.categoryLink, {
-              [s.isActive]: category.isActive,
-            })}
-          >
-            {category.label}
-          </Link>
-        </li>
-      ))}
-    </ul>
   );
 }

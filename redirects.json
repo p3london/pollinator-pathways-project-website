@@ -31,7 +31,7 @@
   },
   {
     "source": "/blog-new",
-    "destination": "/",
+    "destination": "/blog",
     "permanent": false
   },
   {
@@ -42,6 +42,11 @@
   {
     "source": "/post/:path*",
     "destination": "/blog/:path*",
+    "permanent": false
+  },
+  {
+    "source": "/blog/categories/:path*",
+    "destination": "/blog",
     "permanent": false
   },
   {
