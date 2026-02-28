@@ -1,10 +1,25 @@
-import PagePlaceholder from "@/components/page-placeholder/page";
-import Link from "next/link";
-import { TinaMarkdown } from "tinacms/dist/rich-text";
+// Components
+import { MarkdownContent } from "@/components/markdown-content";
+// Styles
 import s from "./blog-entry.module.css";
-import { Placeholder } from "@/components/placeholder";
+// Types
+import type { TinaMarkdownContent } from "tinacms/dist/rich-text";
 
-export default function PageServer({ data }: { data: $TSFixMe }) {
+export default function PageServer({
+  data,
+}: {
+  data: {
+    blog: {
+      author: string;
+      body: TinaMarkdownContent | TinaMarkdownContent[];
+      category: string;
+      coverImage: string;
+      coverImageDescription: string;
+      date: string;
+      title: string;
+    };
+  };
+}) {
   const {
     author,
     body,
@@ -28,13 +43,6 @@ export default function PageServer({ data }: { data: $TSFixMe }) {
   });
   return (
     <>
-      {/* <Placeholder name="Breadcrumbs">
-				<div className={s.breadcrumbs}>
-					<Link className={s.breadcrumbItemLinked} href={`/blog`}>{`Blog`}</Link>
-					<div className={s.breadcrumbItemDivider}>{`/`}</div>
-					<div className={s.breadcrumbItemUnlinked}>{title}</div>
-				</div>
-			</Placeholder> */}
       <div className={s.metadata}>
         <div className={s.author}>
           <div className={s.authorIcon}>🌻</div>
@@ -58,7 +66,7 @@ export default function PageServer({ data }: { data: $TSFixMe }) {
         />
       ) : null}
       <div className={s.blogBody}>
-        <TinaMarkdown content={body} />
+        <MarkdownContent content={body} />
       </div>
     </>
   );
