@@ -3,7 +3,9 @@ title: 'Dutch Ingenuity Leads the Way Saving Pollinators in Urban Environments'
 coverImage: /uploads/Blog Posts/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments/63d173_7b3c99f758ea4be0b75d9f8b1ae48789~mv2.jpg
 date: 2021-05-19T04:00:00.000Z
 author: Don Whitred
-category: news
+categories:
+  - pollinators
+  - news
 ---
 
 The Dutch, "recognizing the crucial role played by wild bees in the pollination of food crops, especially fruit and vegetable plants, [created] a [national pollinator strategy](https://www.government.nl/documents/reports/2018/02/02/nl-pollinator-strategy-bed--breakfast-for-bees) was announced in 2018, to create increased opportunities for “bed and breakfast for bees”. The strategy. signed by 43 government and non-government partners. includes 70 initiatives aimed at creating more nesting sites for bees and strengthening their food supply, in the process enabling nature and agriculture to coexist."  

@@ -3,7 +3,6 @@ title: New Year New Environmental Actions
 coverImage: /uploads/Blog Posts/new-year-new-environmental-actions/0703f3_cdd7351319b5479aa86e86c73cf838ff~mv2.jpg
 date: 2021-12-31T04:00:00.000Z
 author: Daemon Dias
-category: news
 ---
 
 With the New Year just around the corner, it’s time to get ready to celebrate, connect with loved ones, reflect on what a crazy (and great) year 2021 has been, and use the hashtag "#NewYearNewMe." For myself, this New Year means **reflecting and holding myself accountable for my goals**, one of which is supporting our environment. While there are several ways to support our environment and pollinators, it is sometimes difficult to think of ways to do this in the winter. [One of our latest blog posts](https://www.pollinatorpathwaysproject.com/blog/winterizing-your-garden) described one way to help pollinators by winterizing our gardens. However, not all of us have the opportunity to have gardens. So, below is a list of alternative things we can do to support the environment and our pollinator friends for 2022:

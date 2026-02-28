@@ -3,7 +3,6 @@ title: Sowing Your Seeds...in the Winter?
 coverImage: /uploads/Blog Posts/sowing-your-seeds-in-the-winter/0703f3_38965eba3e9c4f3d88fd2e27b5012ff9~mv2.png
 date: 2021-12-16T04:00:00.000Z
 author: Don Whitred
-category: news
 ---
 
 As Gardeners we have a long down time during the winter... staring out the window, looking at the blanket of snow over our garden, and waiting for spring so we can plant seeds indoors in plant trays.

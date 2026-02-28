@@ -3,7 +3,6 @@ title: 'How to Start a Pollinator Garden'
 coverImage: /uploads/Blog Posts/how-to-start-a-pollinator-garden/63d173_7022eee6660d4e90b4f893ca20d144c8~mv2.jpg
 date: 2020-06-07T04:00:00.000Z
 author: Lori Luscombe
-category: news
 ---
 
 

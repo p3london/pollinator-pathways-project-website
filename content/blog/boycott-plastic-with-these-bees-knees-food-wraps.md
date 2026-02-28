@@ -3,7 +3,6 @@ title: 'Boycott Plastic with these Bees Knees Food Wraps'
 coverImage: /uploads/Blog Posts/boycott-plastic-with-these-bees-knees-food-wraps/11062b_8a85ced4913b420b8ad1ced3d12527d6~mv2_d_6000_4000_s_4_2.jpeg
 date: 2020-11-30T04:00:00.000Z
 author: cmcgrogan9557
-category: news
 ---
 
 My mother and I, both frequent cooks, became fed-up with the wasteful, self-entangling, difficult-to-use plastic cling-wrap. Looking for a sustainable solution, we came across beeswax food wraps at our local grocery store. Although a great solution to our battle with plastic cling wrap, the beeswax wraps were ridiculously expensive. It took only a few google searches before we discovered how simple they would be to make ourselves. Therefore, my mother and I chose to get crafty.

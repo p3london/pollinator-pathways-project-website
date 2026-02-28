@@ -3,7 +3,6 @@ title: Spring is Near… Time to Start Planning Your Garden
 coverImage: /uploads/Blog Posts/spring-is-near-time-to-start-planning-your-garden/0703f3_5716741f72cd4f94aa75ad3c655c1b53~mv2.jpeg
 date: 2022-03-21T04:00:00.000Z
 author: Risto Kniivila
-category: news
 ---
 
 With temperatures ready to climb, we all have thoughts of spring and the exhilarating feeling of everything coming alive. Now is the time to start preparing for spring’s arrival, making a plan of our existing garden or the new one we are going to plant. There are many factors that we should incorporate into the design. Let’s take a quick look into the different aspects we can plan for.

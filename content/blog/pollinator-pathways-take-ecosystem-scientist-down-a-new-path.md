@@ -3,7 +3,8 @@ title: 'Pollinator Pathways Take Ecosystem Scientist Down A New Path'
 coverImage: /uploads/Blog Posts/pollinator-pathways-take-ecosystem-scientist-down-a-new-path/06f857_18f12aa59c0e46adb8a34281fd83b3d5~mv2.jpg
 date: 2021-06-08T04:00:00.000Z
 author: Don Whitred
-category: news
+categories:
+  - news
 ---
 
 "I have immersed myself in my community in London, Ontario and together with some neighbours and friends we have posed the question: Can we turn, or rather, how do we turn an entire city into a pollinator sanctuary?" said Dr. Gabor Sass.

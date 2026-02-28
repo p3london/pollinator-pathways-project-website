@@ -3,7 +3,6 @@ title: 'London Environmental Network and Pollinator Pathways Project are launchi
 coverImage: /uploads/Blog Posts/london-environmental-network-and-pollinator-pathways-project-are-launching-a-spring-giveaway/nsplsh_74462d6646707644685655~mv2_d_4596_3676_s_4_2.jpeg
 date: 2021-05-26T04:00:00.000Z
 author: Don Whitred
-category: news
 ---
 
 ## Do you live in London and enjoying painting or drawing?

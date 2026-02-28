@@ -2,7 +2,6 @@
 title: 'Program Overview: Central London Pathway'
 date: 2024-08-09T04:00:00.000Z
 author: Queen Bee
-category: news
 ---
 
 > **Please Note**: Applications to this program are now closed and this program has been completed. Thank you for your interest!

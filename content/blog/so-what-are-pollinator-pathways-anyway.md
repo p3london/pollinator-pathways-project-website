@@ -3,7 +3,6 @@ title: 'So what are Pollinator Pathways anyway?'
 coverImage: /uploads/Blog Posts/so-what-are-pollinator-pathways-anyway/63d173_69aa2183c5174ea4ba80aa14caa51efb~mv2.jpg
 date: 2020-02-24T04:00:00.000Z
 author: Gabor Sass
-category: news
 ---
 
 As I walk along Forward Avenue, in the beautiful riverside neighbourhood of Kensington Village, I revel in the lush greenery accented with exquisite bouquets of flowers dotting boulevard gardens. Some of these gardens seem to have been planted many moons ago but a lot of them are recent creations, local neighbours taking up the challenge of creating habitat for pollinators. I stoop down at one of the street-side gardens and observe a flurry of insect activity. Bees of all kinds and the occasional butterfly are busy sucking nectar out of flowerheads and quickly propelling up to look for the next landing site. The adage of “_build it and they will come_” definitely rings true here. Although I can’t easily follow the bees with my eyes, it certainly seems like that they are hopping from one garden to the next enjoying meals of sweetness along the emerging Pollinator Pathway.

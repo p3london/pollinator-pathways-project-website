@@ -3,7 +3,6 @@ title: Getting To Know Pollinators
 coverImage: /uploads/Blog Posts/getting-to-know-pollinators/4edd67_d443b1d970c84dd88d430d687081cc7d~mv2.png
 date: 2021-12-09T04:00:00.000Z
 author: Risto Kniivila
-category: news
 ---  
 
 **What are Pollinators?**

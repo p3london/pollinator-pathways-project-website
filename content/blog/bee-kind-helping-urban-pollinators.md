@@ -3,7 +3,6 @@ title: 'Bee Kind: Helping Urban Pollinators'
 coverImage: /uploads/Blog Posts/bee-kind-helping-urban-pollinators/3131de92ba9542638861059233594c72.jpeg
 date: 2020-11-17T04:00:00.000Z
 author: Brittany Cooke
-category: news
 ---
 
 In Ontario, we are fortunate to have many species which assist in the ecosystem service of pollination. Bees, butterflies, hummingbirds, moths, and bats are a few you might find hidden in your garden. Sadly, pollinators have been in decline for several years. Habitat loss, pesticide use, and climate change are among the main reasons for decline. Nearly 7 of our 14 Southern Ontario bee species are under threat and 2 are on the Endangered Species List of Canada.

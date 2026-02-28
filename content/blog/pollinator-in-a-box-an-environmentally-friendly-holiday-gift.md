@@ -3,7 +3,8 @@ title: 'Pollinator-In-A-Box Kits: Now For Sale!'
 coverImage: /uploads/Blog Posts/pollinator-in-a-box-an-environmentally-friendly-holiday-gift/4edd67_844ac6cfe6b44459b59b5c6201c4ccd6~mv2.jpg
 date: 2021-11-25T04:00:00.000Z
 author: Don Whitred
-category: news
+categories:
+  - news
 ---
 
 Pollinator Pathways Project (P3) is a local civic initiative begun in London (2018) as a response to addressing the lack of supportive habitats for native pollinators in London’s urban areas. Our latest initiative to address this lack of habitats is the Pollinator-in-a-Box Kit project. Learn more about the four Pollinator-in-a-Box Kits, and how to order them, from the Pollinator-in-a-Box Kit flyer.

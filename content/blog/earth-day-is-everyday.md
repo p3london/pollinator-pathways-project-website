@@ -4,7 +4,6 @@ coverImage: /uploads/Blog Posts/earth-day-is-everyday/nikola-jovanovic-OBok3F8bu
 coverImageAlt: Person holding seedling with green leaves
 date: 2022-04-21T04:00:00.000Z
 author: Daemon Dias
-category: news
 ---
 
 ## Earth Day is Not an End, but a Means

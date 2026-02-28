@@ -4,7 +4,8 @@ coverImage: /uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/six-
 coverImageAlt: bee visiting pollinator plants
 date: 2021-05-26T04:00:00.000Z
 author: Catherine DiLosa
-category: pollinators
+categories:
+  - pollinators
 ---
 
 From afar the bees buzzing around our gardens might all look very similar, but there are actually over 400 species of bees found in Ontario. The stereotypical image many people have of bees is that of a social creature nesting in large hives and producing honey and wax. However, most native bee species nest on or under the ground, do not produce honey, and (aside from bumble bee species) are mostly solitary. Nevertheless, all bees are important to the health and diversity of ecosystems in Ontario and all over the world. Here are six common bee species, native and introduced, that you might find in your garden this spring and summer:  

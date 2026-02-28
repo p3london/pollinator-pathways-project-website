@@ -2,7 +2,6 @@
 title: Looking Out For The Little Guy
 date: 2022-02-14T04:00:00.000Z
 author: Don Whitred
-category: news
 ---
 
 Please take some time to view Shelby Paxton's presentation and learn more about the bugs that help us, our gardens, and our environment!

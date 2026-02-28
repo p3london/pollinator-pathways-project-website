@@ -3,7 +3,6 @@ title: 'Back to Nature: Bee Hotel Controversy'
 coverImage: /uploads/Blog Posts/bee-hotels-back-to-nature/nsplsh_40ab130781ca4eb398b26d517e9bed0c~mv2.jpeg
 date: 2020-10-01T04:00:00.000Z
 author: Brittany Cooke
-category: news
 ---
 
 It is becoming common to promote bee hotels. These hotels are specially made homes typically created using hollow tubing bound together and placed in a strong wooden frame, which focus on helping cavity-nesting species. The idea behind them is to create a safe home for solitary bees. I must admit that I was a huge promoter of these houses as they simply made sense, create a little cozy home in a man-made structure and the bees with flourish within urban environments. However I conversed with a bee keeper which altered my perspective and I believe this information is important to share. Before I continue, I want to make note that bee boxes are a thoughtful starting point for creating safe bee habitats. However when science is taken into account it becomes apparent that there are more natural alternatives which have presented higher percentages of thriving bees.

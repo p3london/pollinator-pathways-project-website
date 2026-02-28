@@ -4,7 +4,6 @@ coverImage: /uploads/Blog Posts/pollinators-to-expect-in-your-garden-this-spring
 coverImageAlt: Sunflower with bee
 date: 2022-04-03T04:00:00.000Z
 author: Daemon Dias
-category: news
 ---
 
 With spring just around the corner, it’s a great time to begin designing your garden to provide a space for pollinators. The good thing is that you have so many options of native pollinators that you can prepare for; some common ones include the Monarch Butterfly, Common Eastern Bumble Bee and the Hummingbird Clearwing Moth, to name a few.

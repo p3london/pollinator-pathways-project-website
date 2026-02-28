@@ -3,7 +3,10 @@ title: '8 Pollinator Favourite Spring Blooms'
 coverImage: /uploads/Blog Posts/8-pollinator-favourite-spring-blooms/e763746f3b0a0d4a5d646048c3562e22.jpg
 date: 2021-01-20T04:00:00.000Z
 author: Francesca Johnson
-category: news
+categories:
+  - pollinators
+  - gardening
+  - flowers
 ---
 
 Do you want your garden to be buzzing with pollinators this spring? There are plenty of tricks to make your flowerbeds the local pollinator hangout. First is diversity. Between bees, butterflies, beetles, moths, hummingbirds, and more, the only way to appeal to all pollinators is by housing a wide range of plant species. This will attract all types of pollinators to your garden.

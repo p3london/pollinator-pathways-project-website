@@ -3,7 +3,6 @@ title: 'Pollinators From Around the World: The Himalayan Cliff Honey Bee'
 coverImage: /uploads/Blog Posts/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee/4edd67_0c3d0fe70b3d40089caf9da59a139b88~mv2.png
 date: 2021-11-03T04:00:00.000Z
 author: Manish Koirala
-category: news
 ---
 
 The act of pollination facilitates the continuation and growth of infinite plant species, both in the natural environment and in agricultural settings, thereby sustaining numerous ecosystems. Research shows that plant species and their respective pollinators have evolved in coexistence over time. Currently, bees are the prime global pollinator species followed by butterflies, moths, birds, bats, etc.

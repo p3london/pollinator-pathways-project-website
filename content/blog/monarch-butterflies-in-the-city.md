@@ -3,7 +3,9 @@ title: 'Monarch Butterflies in the City'
 coverImage: /uploads/Blog Posts/monarch-butterflies-in-the-city/nsplsh_4c47616e654b367947394d~mv2_d_5184_3456_s_4_2.jpeg
 date: 2021-04-15T04:00:00.000Z
 author: Sylvia Sass
-category: news
+categories:
+  - pollinators
+  - london
 ---
 
 Many pollinators need our help, but with butterflies, their future is especially concerning. They are facing significant habitat depletion and there is a substantial decline in nectar sources which are essential for their survival. To address this, many people have begun to rear butterflies. Rearing is the technical term for raising butterflies from the egg to releasing them into their naturel habitat.

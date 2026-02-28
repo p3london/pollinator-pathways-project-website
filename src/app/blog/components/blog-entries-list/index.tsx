@@ -17,7 +17,10 @@ export async function BlogEntriesList({ category }: { category: string }) {
     category === "all"
       ? allBlogEntries
       : allBlogEntries.filter((entry) => {
-          return entry.category === category;
+          return (
+            Array.isArray(entry.categories) &&
+            entry.categories.includes(category)
+          );
         });
 
   const blogCategories = [

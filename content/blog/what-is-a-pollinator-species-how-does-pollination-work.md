@@ -4,7 +4,8 @@ coverImage: /uploads/Blog Posts/what-is-a-pollinator-species-how-does-pollinatio
 coverImageAlt: 'a bee on a yellow flower'
 date: 2020-11-26T04:00:00.000Z
 author: Melanie Franke
-category: news
+categories:
+  - pollinators
 ---  
 
 Most individuals when asked are able to correctly identify what a common example of a pollinator is and what their function may be. The most common one identified is likely to be a honeybee. But did you know that there are many other insects and even mammals that take on this important role?

@@ -3,7 +3,8 @@ title: Pollinator Pathways Garden at Western Fair and Museum London
 coverImage: /uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_11b19f3d4d3a49f486fe520f3485b56d~mv2.png
 date: 2022-01-02T04:00:00.000Z
 author: Don Whitred
-category: news
+categories:
+  - news
 ---
 
 One of the roles of P3 (Pollinator Pathways Project) is to prepare habitats for native pollinators so they can access nectar feeding stations, seasonal shelter areas (for species regeneration), and develop travel pathways for brining pollinators through existing urban areas.

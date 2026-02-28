@@ -3,7 +3,6 @@ title: Winterizing Your Garden
 coverImage: /uploads/Blog Posts/winterizing-your-garden/4edd67_47317df7b1204ce5bd05d097fc67aebb~mv2.jpg
 date: 2021-11-09T04:00:00.000Z
 author: Daemon Dias
-category: news
 ---
 
 Winter is almost here in Canada, which means that yet another year has passed where we didn't win the lottery and move somewhere tropical. Sigh. This also means that we need to be prepared for the cold weather with our winter attire, home heaters, and other necessities to make it through the frozen winter. What does winter mean for bees, though? How will they survive this winter? Spoiler: it is typical for only the queen bee to live to see the spring season. Still, winter is a challenging time for all hardworking bees.

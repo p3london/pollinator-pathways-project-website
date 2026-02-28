@@ -3,7 +3,9 @@ title: 'Now Hiring: Pollinator Pathways Communications Coordinator'
 coverImage: /uploads/Blog Posts/now-hiring-pollinator-pathways-communications-coordinator/nsplsh_c42c94d628274c8f9ee5bd3438272caa~mv2.jpeg
 date: 2021-04-22T04:00:00.000Z
 author: Don Whitred
-category: news
+categories:
+  - news
+  - london
 ---
 
 **Remuneration:** $18/hour for 35 hours a week. 8 week contract.

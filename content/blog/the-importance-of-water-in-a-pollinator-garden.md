@@ -3,7 +3,6 @@ title: 'The Importance of Water in a Pollinator Garden'
 coverImage: /uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_6a8a005a5259405cba97b045897f878d~mv2.jpg
 date: 2020-07-26T04:00:00.000Z
 author: Jude Dieleman
-category: news
 ---
 
 “Water is the mother of the vine, the nurse and fountain of fecundity, the adorner and refresher of the world.” – Charles Mackay.
