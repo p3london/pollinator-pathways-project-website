@@ -3,37 +3,11 @@ import { MarkdownContent } from "@/components/markdown-content";
 // Styles
 import s from "./blog-entry.module.css";
 // Types
-import type { TinaMarkdownContent } from "tinacms/dist/rich-text";
+import type { BlogQuery } from "../../../../tina/__generated__/types";
 
-export default function PageServer({
-  data,
-}: {
-  data: {
-    blog: {
-      author: string;
-      body: TinaMarkdownContent | TinaMarkdownContent[];
-      category: string;
-      coverImage: string;
-      coverImageDescription: string;
-      date: string;
-      title: string;
-    };
-  };
-}) {
-  const {
-    author,
-    body,
-    category,
-    coverImage,
-    coverImageDescription,
-    date,
-    title,
-  } = data.blog;
-  const metadata = {
-    author,
-    date,
-    category,
-  };
+export default function PageServer({ data }: { data: BlogQuery }) {
+  const { author, body, coverImage, coverImageAlt, date, title } = data.blog;
+  const metadata = { author, date };
   // Format the date as `Month DD, YYYY`
   const dateObject = new Date(metadata.date);
   const formattedDate = dateObject.toLocaleDateString("en-US", {
@@ -62,7 +36,7 @@ export default function PageServer({
         <img
           className={s.coverImage}
           src={coverImage}
-          alt={coverImageDescription}
+          alt={coverImageAlt || ""}
         />
       ) : null}
       <div className={s.blogBody}>
