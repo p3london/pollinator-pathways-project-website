@@ -57,8 +57,10 @@
 
 .lowerFooterBarLink {
   text-decoration: none;
+  color: var(--black);
+
   &:hover,
   &:visited {
-    color: unset;
+    color: var(--black);
   }
 }
