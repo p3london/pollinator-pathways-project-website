@@ -78,38 +78,6 @@ export default defineConfig({
           },
           {
             type: "string",
-            name: "category",
-            label: "Category",
-            options: [
-              {
-                value: "pollinators",
-                label: "Pollinators",
-              },
-              {
-                value: "recipes",
-                label: "Recipes",
-              },
-              {
-                value: "gardening",
-                label: "Gardening",
-              },
-              {
-                value: "flowers",
-                label: "Flowers",
-              },
-              {
-                value: "news",
-                label: "News",
-              },
-              {
-                value: "london",
-                label: "London",
-              },
-            ],
-            required: false,
-          },
-          {
-            type: "string",
             name: "categories",
             list: true,
             label: "Categories",
