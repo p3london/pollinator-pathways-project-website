@@ -1,13 +1,24 @@
+import Link from "next/link";
+import { BLOG_CATEGORIES } from "../../../../../constants/blog-categories";
+
+// Third-party
+import clsx from "clsx";
+
+import s from "./blog-category-links.module.css";
+
 /**
  *
  * @param param0
  * @returns
  */
-export function BlogCategoryLinks({
-  blogCategories,
-}: {
-  blogCategories: $TSFixMe;
-}) {
+export function BlogCategoryLinks({ category }: { category: string }) {
+  const blogCategories = [
+    { label: "All", value: "all" },
+    ...BLOG_CATEGORIES,
+  ].map((entry) => {
+    return { ...entry, isActive: entry.value === category };
+  });
+
   return (
     <ul className={s.categoriesList}>
       {blogCategories.map((category) => (

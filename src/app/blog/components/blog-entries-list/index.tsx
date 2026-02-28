@@ -4,7 +4,6 @@
 import clsx from "clsx";
 // Utils
 import { fetchBlogList } from "../../utils/fetch-blog-list";
-import { BLOG_CATEGORIES } from "../../../../../constants/blog-categories";
 import Link from "next/link";
 // Styles
 import s from "./style.module.css";
@@ -21,13 +20,6 @@ export async function BlogEntriesList({ category }: { category: string }) {
             entry.categories.includes(category)
           );
         });
-
-  const blogCategories = [
-    { label: "All", value: "all" },
-    ...BLOG_CATEGORIES,
-  ].map((entry) => {
-    return { ...entry, isActive: entry.value === category };
-  });
 
   return (
     <>

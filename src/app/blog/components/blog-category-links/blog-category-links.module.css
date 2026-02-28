@@ -1,0 +1,15 @@
+.categoriesList {
+  display: flex;
+  list-style: none;
+  gap: 8px;
+  padding: 1rem;
+  justify-content: center;
+  border: 2px solid magenta;
+}
+
+.categoryLink {
+  text-decoration: none;
+  &.isActive {
+    text-decoration: underline;
+  }
+}
