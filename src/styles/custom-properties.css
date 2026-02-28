@@ -1,20 +1,25 @@
 :root {
-	/* Typography */
-	/* Note that --font-body and --font-display are set in `layout.tsx` */
-	--font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
-		"Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
-		"Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-	/* Colors */
-	--black: #000000;
-	--white: #ffffff;
-	--black-text: #333333;
-	--gray-border: #DDDDDD;
-	--yellow-faded: #fff5c0;
-	--yellow-primary: #f9ce33;
-	--yellow-primary-hover: #f7b128;
-	--green-faded: #dff9c2;
-	--green-medium: #cbeba8;
-	--green-text: #3a650b;
-	/* Layout */
-	--content-max-width: 1000px;
+  /* Typography */
+  /* Note that --font-body and --font-display are set in `layout.tsx` */
+  --font-system-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir,
+    segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto,
+    helvetica, arial, sans-serif;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
+    "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
+    "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+  /* Colors */
+  --black: #000000;
+  --white: #ffffff;
+  --black-text: #333333;
+  --gray-border: #dddddd;
+  --yellow-faded: #fff5c0;
+  --yellow-primary-faded: #fad962;
+  --yellow-primary: #f9ce33;
+  --yellow-primary-hover: #f7b128;
+  --green-faded: #dff9c2;
+  --green-medium: #cbeba8;
+  --green-text: #3a650b;
+  /* Layout */
+  --content-max-width: 1000px;
+  --content-padding-x: 1rem;
 }

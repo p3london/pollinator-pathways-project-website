@@ -11,9 +11,9 @@ Thanks to a donation by Lush Cosmetics, Pollinator Pathways Project is launching
 
 **There will be three types of pollinator gardens available**:
 
-1. Large In-ground Pollinator Gardens – these will be gardens up to 500 square feet populated with native plants selected in conjunction with the participant from a list provided by Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/in-ground-garden.jpeg>)
-2. Raised Pollinator Garden Beds – these will be constructed of treated 2x4 lumber. There will be 3 shapes to choose from; Rectangle, Pentagon, and Hexagon. The Raised Pollinator Garden Beds can be combined in multiple ways to create unique designs and sizes to suit the target location, in conjunction with the participant and the Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/raised-pollinator-garden-beds.jpeg>)
-3. Pollinator-in-a-Box Planters – the planters are made from pressure treated lumber to ensure they will stand up to our environment, filled with topsoil, and include annual plants that are known to attract pollinators. Planter size and annual plant type will be agreed in conjunction with the participant from a list provided by Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/pollinator-in-a-box-planters.jpeg>)
+1. Large In-ground Pollinator Gardens – these will be gardens up to 500 square feet populated with native plants selected in conjunction with the participant from a list provided by Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/program-overview-central-london-pathway/in-ground-garden.jpeg>)
+2. Raised Pollinator Garden Beds – these will be constructed of treated 2x4 lumber. There will be 3 shapes to choose from; Rectangle, Pentagon, and Hexagon. The Raised Pollinator Garden Beds can be combined in multiple ways to create unique designs and sizes to suit the target location, in conjunction with the participant and the Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/program-overview-central-london-pathway/raised-pollinator-garden-beds.jpeg>)
+3. Pollinator-in-a-Box Planters – the planters are made from pressure treated lumber to ensure they will stand up to our environment, filled with topsoil, and include annual plants that are known to attract pollinators. Planter size and annual plant type will be agreed in conjunction with the participant from a list provided by Pollinator Pathways Project Garden Designer![](</uploads/Blog Posts/program-overview-central-london-pathway/pollinator-in-a-box-planters.jpeg>)
 
 **How to Request a Free Pollinator Garden**:
 
@@ -49,4 +49,4 @@ One major reason for global pollinator population decline is habitat loss. Polli
 
 **Thanks to our sponsor:**
 
-![](</uploads/Blog Posts/lush-logo.jpeg>)
+![](</uploads/Blog Posts/program-overview-central-london-pathway/lush-logo.jpeg>)

@@ -1,48 +1,49 @@
 .pageTitle {
-	text-align: center;
+  text-align: center;
 }
 
 .introText {
-	margin: 0 auto;
-	max-width: 35em;
+  margin: 0 auto;
+  max-width: 35em;
 }
 
 .pdfLink {
-	display: block;
-	margin: 0 auto;
-	max-width: 35em;
+  display: block;
+  margin: 0 auto;
+  max-width: 35em;
 }
 
 .kitEmbedHeading {
-	text-align: center;
+  text-align: center;
 }
 
 .kitEmbedEntry {
-	display: flex;
-	flex-wrap: wrap;
-	max-width: 80em;
-	margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80em;
+  margin: 0 auto;
 
-	& > div {
-		min-width: 280px;
-		width: 50%;
-		flex-shrink: 0;
-		flex-grow: 1;
+  & > div {
+    min-width: 280px;
+    width: 50%;
+    flex-shrink: 0;
+    flex-grow: 1;
 
-		&:first-child {
-			width: 40%;
-		}
+    &:first-child {
+      width: 40%;
+    }
 
-		&:second-child {
-			width: 60%;
-		}
-	}
+    &:second-child {
+      width: 60%;
+    }
+  }
 }
 
 .kitEmbedImageAndText {
-	border: 1px solid #999;
+  border: 1px solid #999;
 }
 
 .kitEmbedContainer {
-	border: 1px solid #999;
+  border: 1px solid #999;
+  min-height: 1000px;
 }

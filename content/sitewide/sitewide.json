@@ -10,51 +10,6 @@
         "label": "Connect",
         "href": "/connect",
         "_template": "link"
-      },
-      {
-        "label": "What We Do",
-        "links": [
-          {
-            "label": "Central London Pathway",
-            "href": "/central-london-pathway"
-          },
-          {
-            "label": "Pollinator Map",
-            "href": "https://www.google.com/maps/d/u/0/viewer?mid=16MEC2s6Poc1CXqyB0v0wRINtjc9VQDkR&ll=42.99879305728129%2C-81.2673045034648&z=12"
-          },
-          {
-            "label": "Resources",
-            "href": "/resources"
-          },
-          {
-            "label": "FAQ",
-            "href": "/faq"
-          },
-          {
-            "label": "Photos",
-            "href": "/photos"
-          }
-        ],
-        "_template": "dropdown"
-      },
-      {
-        "label": "Get Involved",
-        "links": [
-          {
-            "label": "Donate",
-            "href": "/donate"
-          },
-          {
-            "label": "Pollinator Kits",
-            "href": "/pollinator-kits"
-          }
-        ],
-        "_template": "dropdown"
-      },
-      {
-        "label": "Blog",
-        "href": "/blog",
-        "_template": "link"
       }
     ]
   },
@@ -76,7 +31,7 @@
       },
       {
         "text": "Email us",
-        "url": "pollinatorpathwaysproject@gmail.com",
+        "url": "mailto:pollinatorpathwaysproject@gmail.com",
         "icon": "/uploads/Site-wide/icon-email.png"
       }
     ]

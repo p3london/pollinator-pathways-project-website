@@ -16,26 +16,26 @@ const gFontLato = Lato({ weight: "400", subsets: ["latin"] });
 const orelegaOne = Orelega_One({ weight: "400", subsets: ["latin"] });
 
 const fontFamilyCssVariables = {
-	"--font-display": `${orelegaOne.style.fontFamily}`,
-	"--font-body": `${inter.style.fontFamily}`,
+  "--font-display": `${orelegaOne.style.fontFamily}`,
+  "--font-body": `${inter.style.fontFamily}`,
 } as CSSProperties;
 
 export const metadata = {
-	title: "Pollinator Pathways Project | London",
-	description:
-		"Pollinator Pathways Project is the London, Ontario chapter of a movement started in 2007 by Sarah Bergmann.",
+  title: "Pollinator Pathways Project | London",
+  description:
+    "Pollinator Pathways Project is a grassroots community organization started in London, Canada that educates how to grow a pollinator garden.",
 };
 
 export default function RootLayout({
-	children,
+  children,
 }: {
-	children: React.ReactNode;
+  children: React.ReactNode;
 }) {
-	return (
-		<html lang="en">
-			<body style={fontFamilyCssVariables} className={gFontLato.className}>
-				{children}
-			</body>
-		</html>
-	);
+  return (
+    <html lang="en">
+      <body style={fontFamilyCssVariables} className={gFontLato.className}>
+        {children}
+      </body>
+    </html>
+  );
 }

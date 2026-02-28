@@ -1,67 +1,64 @@
 .root {
-	background: var(--green-faded);
+  background: var(--green-faded);
 }
 
 .content {
-	padding: 40px 1rem 60px 1rem;
-	display: flex;
-	align-items: flex-end;
-	justify-content: space-between;
-	gap: 32px;
-	flex-wrap: wrap;
-	width: 100%;
-	max-width: var(--content-max-width);
-	margin: 0 auto;
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 32px;
+  justify-content: center;
+  margin: 0 auto;
+  max-width: var(--content-max-width);
+  padding: 40px 1rem 60px 1rem;
+  width: 100%;
 }
 
 .list {
-	display: flex;
-	padding: 0;
-	list-style: none;
-	gap: 1rem;
+  display: flex;
+  padding: 0;
+  list-style: none;
+  gap: 1rem;
 }
 
 .iconAndText {
-	display: flex;
-	gap: 12px;
-	min-height: 32px;
-	align-items: center;
+  display: flex;
+  gap: 12px;
+  min-height: 32px;
+  align-items: center;
 }
 
 .buttonIcon {
-	display: block;
-	width: 24px;
-	height: 24px;
+  display: block;
+  width: 24px;
+  height: 24px;
 }
 
 .iconOnlyButton {
-	padding-left: 0.625rem !important;
-	padding-right: 0.625rem !important;
+  padding-left: 0.625rem !important;
+  padding-right: 0.625rem !important;
 }
 
 .lowerFooterBarRoot {
-	background: linear-gradient(
-		#3a650b33, 
-		#3a650b33
-	  ) var(--green-faded);
-	  background-blend-mode: darken;
+  background: linear-gradient(#3a650b33, #3a650b33) var(--green-faded);
+  background-blend-mode: darken;
 }
 
 .lowerFooterBar {
-	display: flex;
-	max-width: var(--content-max-width);
-	margin: 0 auto;
-	gap: 8px;
-	flex-wrap: wrap;
-	align-items: center;
-	justify-content: space-between;
-	padding: 24px 1rem 24px 1rem;
+  display: flex;
+  max-width: var(--content-max-width);
+  margin: 0 auto;
+  gap: 8px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 1rem 24px 1rem;
 }
 
 .lowerFooterBarLink {
-text-decoration: none;
-&:hover, &:visited {
-	color: unset;
+  text-decoration: none;
+  &:hover,
+  &:visited {
+    color: unset;
+  }
 }
-}
-

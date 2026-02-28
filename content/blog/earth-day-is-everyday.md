@@ -1,6 +1,6 @@
 ---
 title: Earth Day Is Everyday
-coverImage: /uploads/Blog Posts/nikola-jovanovic-OBok3F8buKY-unsplash.jpeg
+coverImage: /uploads/Blog Posts/earth-day-is-everyday/nikola-jovanovic-OBok3F8buKY-unsplash.jpeg
 coverImageAlt: Person holding seedling with green leaves
 date: 2022-04-21T04:00:00.000Z
 author: Daemon Dias
@@ -25,7 +25,7 @@ The single best way we can protect our mother is to try our best. Try to do bett
 
 Are you sick of seeing the earth sick? If you're worried about the future of the planet, what you're feeling is called eco-anxiety. This [Earth Day’s](http://earthday.ca/) theme is “Remedy Together” and encourages Canadians to use this opportunity to take time for themselves by **rallying around positive collective action for the planet**. Declare a symbolic “sick day” this Earth Day and take part in positive activities for the planet, and for your mental health. Register today on [remedytogether.org](https://earthday.ca/april-22/campaign/remedy-together/).
 
-![](</uploads/Blog Posts/niko-photos-tGTVxeOr_Rs-unsplash.jpeg>)
+![](</uploads/Blog Posts/earth-day-is-everyday/niko-photos-tGTVxeOr_Rs-unsplash.jpeg>)
 
 Photo Credits
 

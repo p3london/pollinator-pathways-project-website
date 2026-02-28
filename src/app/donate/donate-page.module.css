@@ -1,14 +1,25 @@
-.title {
-	margin: 3rem 0;
-	text-align: center;
-}
-
-.subheading {
-	text-align: center;
+.background {
+  width: 100%;
+  /* Background to match Zeffy */
+  background: hsl(50, 100%, 97%);
 }
 
 .main {
-	width: 100%;
-	max-width: var(--content-max-width);
-	margin: auto;
+  width: 100%;
+  max-width: var(--content-max-width);
+  margin: auto;
+}
+
+.titleAndSubheading {
+  padding: 3rem 0 3rem 0;
+}
+
+.title {
+  text-align: center;
+  font-family: var(--font-display);
+}
+
+.subheading {
+  text-align: center;
+  font-size: 1.25rem;
 }

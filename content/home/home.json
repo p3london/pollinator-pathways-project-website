@@ -6,7 +6,7 @@
       "image": "/uploads/Home Page/2024-05-26-pollinator-ecosystems.jpg",
       "body": "Donating helps us build more gardens, and keep our ecosystems healthy. Your help makes this all happen.\n",
       "linkText": "Donate",
-      "linkUrl": "/donate"
+      "linkUrl": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3"
     },
     {
       "title": "Why do pollinators matter?",
@@ -19,11 +19,6 @@
       "title": "What are pollinator pathways?",
       "image": "/uploads/Home Page/2024-05-26-pathways-photo-butterfly.jpg",
       "body": "Pollinator pathways are interconnected green areas where pollinators can find food and shelter and go about their day-to-day pollination.\n\nThese areas allow species such as birds, bees, bats, butterflies, beetles, and other small mammals to travel safely through cities and neighbourhoods, carrying pollen between plants.\n\nWithout these pathways, it’s difficult for pollinators to survive. Our aim is to help pollinating species by encouraging the public to plant more native flower species.\n"
-    },
-    {
-      "title": "Education stuff",
-      "image": "/uploads/plants.jpeg",
-      "body": "This is some education text.\n"
     }
   ],
   "callsToAction": [
@@ -31,8 +26,8 @@
       "iconSrc": "/uploads/Home Page/icon-house.png",
       "title": "Start your garden",
       "text": "Interested in creating a pollinator garden for your backyard or within your community? Our kits are one way to get started!",
-      "linkText": "Browse kits",
-      "linkUrl": "/pollinator-kits"
+      "linkText": "Ask about kits",
+      "linkUrl": "/connect"
     },
     {
       "iconSrc": "/uploads/Home Page/icon-potted-plant.png",
