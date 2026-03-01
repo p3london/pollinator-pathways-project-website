@@ -16,8 +16,10 @@
   --yellow-primary-faded: #fad962;
   --yellow-primary: #f9ce33;
   --yellow-primary-hover: #f7b128;
+  --green-ghost: #eeffdb;
   --green-faded: #dff9c2;
   --green-medium: #cbeba8;
+  --green-primary: #5d991b;
   --green-text: #3a650b;
   /* Layout */
   --content-max-width: 1000px;

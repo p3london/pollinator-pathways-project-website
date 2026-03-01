@@ -25,11 +25,8 @@ export default function PageServer({ data }: { data: BlogQuery }) {
         <div className={s.metadataDivider}>•</div>
         <div className={s.date}>{formattedDate}</div>
         {/* TODO: actually implement reading time */}
-        <div className={s.metadataDivider}>•</div>
-        <div className={s.readingTime}>{`2 min read`}</div>
-        {/* <pre style={{ maxWidth: "400px", margin: "0 auto", padding: "1rem" }}>
-						<code>{JSON.stringify(metadata, null, 2)}</code>
-					</pre> */}
+        {/*<div className={s.metadataDivider}>•</div>*/}
+        {/*<div className={s.readingTime}>{`2 min read`}</div>*/}
       </div>
       <h1 className={s.pageTitle}>{title}</h1>
       {coverImage ? (
