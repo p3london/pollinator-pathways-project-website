@@ -1,15 +1,15 @@
 .root {
-	isolation: isolate;
+  isolation: isolate;
 }
 
 .navList {
-	--nav-secondary-color: var(--green-faded);
-	align-items: center;
-	display: flex;
-	flex-wrap: wrap;
-	gap: 12px;
-	justify-content: center;
-	list-style: none;
-	padding: 0 0 16px 0;
-	border-bottom: 4px solid var(--yellow-primary);
+  --nav-secondary-color: var(--color-green-200);
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+  list-style: none;
+  padding: 0 0 16px 0;
+  border-bottom: 4px solid var(--yellow-primary);
 }

@@ -16,7 +16,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: var(--green-faded);
+  background: var(--color-green-200);
   border-radius: 16px;
 }
 

@@ -3,7 +3,7 @@
 .connectWithUs_contents {
   margin: 0 auto;
   max-width: var(--content-max-width);
-  padding: 3rem var(--content-padding-x) 4rem 0;
+  padding: 3rem var(--content-padding-x) 4rem var(--content-padding-x);
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -40,7 +40,7 @@
 
 .volunteerOpportunities {
   /*background: var(--yellow-primary-faded);*/
-  background: var(--green-faded);
+  background: var(--color-green-200);
 }
 
 .volunteerOpportunities_contents {

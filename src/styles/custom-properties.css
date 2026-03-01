@@ -1,5 +1,6 @@
+/* Typography */
+
 :root {
-  /* Typography */
   /* Note that --font-body and --font-display are set in `layout.tsx` */
   --font-system-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir,
     segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto,
@@ -7,21 +8,95 @@
   --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
     "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
-  /* Colors */
-  --black: #000000;
-  --white: #ffffff;
-  --black-text: #333333;
-  --gray-border: #dddddd;
-  --yellow-faded: #fff5c0;
-  --yellow-primary-faded: #fad962;
-  --yellow-primary: #f9ce33;
-  --yellow-primary-hover: #f7b128;
-  --green-ghost: #eeffdb;
-  --green-faded: #dff9c2;
-  --green-medium: #cbeba8;
-  --green-primary: #5d991b;
-  --green-text: #3a650b;
-  /* Layout */
+}
+
+/* Tailwind colors */
+
+:root {
+  /* Neutral */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-neutral-50: oklch(98.5% 0 0);
+  --color-neutral-100: oklch(97% 0 0);
+  --color-neutral-200: oklch(92.2% 0 0);
+  --color-neutral-300: oklch(87% 0 0);
+  --color-neutral-400: oklch(70.8% 0 0);
+  --color-neutral-500: oklch(55.6% 0 0);
+  --color-neutral-600: oklch(43.9% 0 0);
+  --color-neutral-700: oklch(37.1% 0 0);
+  --color-neutral-800: oklch(26.9% 0 0);
+  --color-neutral-900: oklch(20.5% 0 0);
+  --color-neutral-950: oklch(14.5% 0 0);
+  /* Blue */
+  --color-blue-50: oklch(97% 0.014 254.604);
+  --color-blue-100: oklch(93.2% 0.032 255.585);
+  --color-blue-200: oklch(88.2% 0.059 254.128);
+  --color-blue-300: oklch(80.9% 0.105 251.813);
+  --color-blue-400: oklch(70.7% 0.165 254.624);
+  --color-blue-500: oklch(62.3% 0.214 259.815);
+  --color-blue-600: oklch(54.6% 0.245 262.881);
+  --color-blue-700: oklch(48.8% 0.243 264.376);
+  --color-blue-800: oklch(42.4% 0.199 265.638);
+  --color-blue-900: oklch(37.9% 0.146 265.522);
+  --color-blue-950: oklch(28.2% 0.091 267.935);
+  /* Purple */
+  --color-purple-50: oklch(97.7% 0.014 308.299);
+  --color-purple-100: oklch(94.6% 0.033 307.174);
+  --color-purple-200: oklch(90.2% 0.063 306.703);
+  --color-purple-300: oklch(82.7% 0.119 306.383);
+  --color-purple-400: oklch(71.4% 0.203 305.504);
+  --color-purple-500: oklch(62.7% 0.265 303.9);
+  --color-purple-600: oklch(55.8% 0.288 302.321);
+  --color-purple-700: oklch(49.6% 0.265 301.924);
+  --color-purple-800: oklch(43.8% 0.218 303.724);
+  --color-purple-900: oklch(38.1% 0.176 304.987);
+  --color-purple-950: oklch(29.1% 0.149 302.717);
+}
+
+/* Color scheme */
+
+:root {
+  --black: var(--color-black);
+  --white: var(--color-white);
+  --black-text: var(--color-neutral-700);
+  --gray-border: var(--color-neutral-200);
+  /* Yellow */
+  --color-yellow-50: #fefbe8;
+  --color-yellow-100: #fdf5c4;
+  --color-yellow-200: #fce88c;
+  --color-yellow-300: #f9ce33;
+  --color-yellow-400: #f6bd19;
+  --color-yellow-500: #e6a40c;
+  --color-yellow-600: #c67e08;
+  --color-yellow-700: #9e580a;
+  --color-yellow-800: #834610;
+  --color-yellow-900: #6f3a14;
+  --color-yellow-950: #411d07;
+  /* Yellow named */
+  --yellow-faded: var(--color-yellow-100);
+  --yellow-primary-faded: var(--color-yellow-200);
+  --yellow-primary: var(--color-yellow-300);
+  --yellow-primary-hover: var(--color-yellow-400);
+  /* Green */
+  --color-green-50: #f5fce9;
+  --color-green-100: #e7f8cf;
+  --color-green-200: #d1f1a5;
+  --color-green-300: #b4e571;
+  --color-green-400: #96d645;
+  --color-green-500: #78bc26;
+  --color-green-600: #5d991b;
+  --color-green-700: #467219;
+  --color-green-800: #3a5b19;
+  --color-green-900: #334d1a;
+  --color-green-950: #182a09;
+  /* Green named */
+  --green-primary: var(--color-green-600);
+  --green-text: var(--color-green-800);
+}
+
+/* Layout metrics */
+
+:root {
   --content-max-width: 1000px;
   --content-padding-x: 1rem;
 }

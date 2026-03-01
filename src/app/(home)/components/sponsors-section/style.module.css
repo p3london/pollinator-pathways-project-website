@@ -1,57 +1,57 @@
 .root {
-	background: var(--white);
-	padding: 3rem 1.5rem;
-	container-type: inline-size;
+  background: var(--white);
+  padding: 3rem 1.5rem;
+  container-type: inline-size;
 }
 
 .content {
-	margin: 0 auto;
-	display: flex;
-	max-width: var(--content-max-width);
-	flex-direction: column;
-	align-items: center;
-	gap: 2rem;
+  margin: 0 auto;
+  display: flex;
+  max-width: var(--content-max-width);
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
 }
 
 .textContent {
-	display: flex;
-	flex-direction: column;
-	gap: 1rem;
-	text-align: center;
-	max-width: 35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  text-align: center;
+  max-width: 35rem;
 }
 
 .heading {
-	font-family: var(--font-display);
-	font-weight: 400;
-	font-size: 1.75rem;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 1.75rem;
 }
 
 .text {
-	color: var(--black-text);
+  color: var(--black-text);
 }
 
 .sponsors {
-	display: flex;
-	flex-wrap: wrap;
-	width: 100%;
-	justify-content: center;
-	gap: 0.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: center;
+  gap: 0.5rem;
 }
 
 .sponsorLogo {
-	position: relative;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	border: 2px solid var(--green-medium);
-	border-radius: 8px;
-	overflow: hidden;
-	width: 184px;
-	height: 74px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--color-green-300);
+  border-radius: 8px;
+  overflow: hidden;
+  width: 184px;
+  height: 74px;
 }
 
 .sponsorLogoImg {
-	display: block;
-	object-fit: contain;
+  display: block;
+  object-fit: contain;
 }

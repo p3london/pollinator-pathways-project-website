@@ -1,5 +1,5 @@
 .root {
-  background: var(--green-faded);
+  background: var(--color-green-200);
 }
 
 .content {
@@ -40,7 +40,7 @@
 }
 
 .lowerFooterBarRoot {
-  background: linear-gradient(#3a650b33, #3a650b33) var(--green-faded);
+  background: linear-gradient(#3a650b33, #3a650b33) var(--color-green-200);
   background-blend-mode: darken;
 }
 

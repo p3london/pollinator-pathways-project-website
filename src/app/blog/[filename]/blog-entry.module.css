@@ -9,7 +9,7 @@
 }
 
 .metadataDivider {
-  color: var(--green-medium);
+  color: var(--color-green-300);
 }
 
 .author {
@@ -22,9 +22,7 @@
   display: block;
   width: 32px;
   height: 32px;
-  /* border: 1px solid #b4d095; */
-  /* background: var(--green-faded); */
-  background: var(--green-medium);
+  background: var(--color-green-300);
   overflow: hidden;
   font-size: 1.6rem;
   display: flex;
@@ -34,25 +32,25 @@
   border-radius: 50%;
 }
 
-.pageTitle {
-  text-align: center;
-  padding: 0.5rem 1rem 0 1rem;
-  font-size: 3rem;
-  font-family: var(--font-display);
-  line-height: 1;
-  max-width: 20em;
+.pageTitleContainer {
+  max-width: var(--content-max-width);
+  padding: 0.5em var(--content-padding-x) 2em;
   margin: 0 auto;
+}
+
+.coverImageContainer {
+  margin: 0 auto;
+  max-width: var(--content-max-width);
+  padding: 0 var(--content-padding-x);
 }
 
 .coverImage {
   display: block;
-  margin: 0 auto;
-  padding-top: 1rem;
-  max-width: var(--content-max-width);
+  width: 100%;
 }
 
 .blogBody {
   max-width: 40em;
   margin: 0 auto;
-  padding: 2rem 0 8rem 0;
+  padding: 0 var(--content-padding-x) 8rem;
 }

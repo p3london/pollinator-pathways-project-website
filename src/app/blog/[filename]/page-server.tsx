@@ -4,6 +4,8 @@ import { MarkdownContent } from "@/components/markdown-content";
 import s from "./blog-entry.module.css";
 // Types
 import type { BlogQuery } from "../../../../tina/__generated__/types";
+import { PageTitle } from "@/components/page-title";
+import Spacer from "@/components/spacer";
 
 export default function PageServer({ data }: { data: BlogQuery }) {
   const { author, body, coverImage, coverImageAlt, date, title } = data.blog;
@@ -28,13 +30,18 @@ export default function PageServer({ data }: { data: BlogQuery }) {
         {/*<div className={s.metadataDivider}>•</div>*/}
         {/*<div className={s.readingTime}>{`2 min read`}</div>*/}
       </div>
-      <h1 className={s.pageTitle}>{title}</h1>
+      <div className={s.pageTitleContainer}>
+        <PageTitle>{title}</PageTitle>
+      </div>
+
       {coverImage ? (
-        <img
-          className={s.coverImage}
-          src={coverImage}
-          alt={coverImageAlt || ""}
-        />
+        <div className={s.coverImageContainer}>
+          <img
+            className={s.coverImage}
+            src={coverImage}
+            alt={coverImageAlt || ""}
+          />
+        </div>
       ) : null}
       <div className={s.blogBody}>
         <MarkdownContent content={body} />
