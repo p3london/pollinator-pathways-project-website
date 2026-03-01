@@ -18,14 +18,13 @@ Butterflies have different preferences. Since caterpillars transform into butter
 
 Other pollinator-friendly plants include honeysuckle. However, this plant is considered an invasive species to Ontario and North America; I would recommend native plants when possible. Below is a list of some plants and the pollinators they attract to your garden.
 
-|                                                                                      |                                                           |
-| ------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| **Plant Species**                                                                    | **Pollinators**                                           |
-| Sunflowers, Woodland<br><br>- Helianthus divaricatus *(yellow, mid and late season)* | Common ringlet butterfly<br><br>Long-horned bees<br><br>​ |
-| Milkweed, Butterfly<br><br>- Asdepias tuberosa *(orange, mid season)*                | Monarch butterfly<br><br>Cuckoo bees                      |
-| Boneset, Common<br><br>- Eupatorium perfoliatum *(white, late season)*               | Red admiral butterfly<br><br>Yellow faced bees            |
-| Tick-trefoil, Showy<br><br>- Desmodium canadense *(pink, mid season)*                | Northern cloudywing butterfly<br><br>Leafcutter bees      |
-| Violet, Common Blue<br><br>- Viola sororia *(blue, early season)*                    | Great spangled fritillary butterfly<br><br>Sweat bees     |
+| **Plant Species**                                                           | **Pollinator**                                  |
+| --------------------------------------------------------------------------- | ----------------------------------------------- |
+| Sunflowers, Woodland Helianthus divaricatus *(yellow, mid and late season)* | Common ringlet butterfly, Long-horned bees      |
+| Milkweed, Butterfly Asdepias tuberosa *(orange, mid season)*                | Monarch butterfly, Cuckoo bees                  |
+| Boneset, Common Eupatorium perfoliatum *(white, late season)*               | Red admiral butterfly, Yellow faced bees        |
+| Tick-trefoil, Showy Desmodium canadense *(pink, mid season)*                | Northern cloudywing butterfly, Leafcutter bees  |
+| Violet, Common Blue Viola sororia *(blue, early season)*                    | Great spangled fritillary butterfly, Sweat bees |
 
 Comment below some plant species you plan to have in your garden this season!
 
