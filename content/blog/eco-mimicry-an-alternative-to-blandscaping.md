@@ -1,6 +1,6 @@
 ---
 title: 'Eco-mimicry: An Alternative to "Blandscaping"'
-coverImage: /uploads/Blog Posts/eco-mimicry-an-alternative-to-blandscaping/4edd67_c07d420ce41d47ad9b91745c937c1efd~mv2.jpg
+coverImage: /uploads/blog/eco-mimicry-an-alternative-to-blandscaping/4edd67_c07d420ce41d47ad9b91745c937c1efd~mv2.jpg
 date: 2021-07-15T04:00:00.000Z
 author: Don Whitred
 categories:

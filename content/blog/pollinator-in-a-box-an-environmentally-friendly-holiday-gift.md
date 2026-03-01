@@ -1,6 +1,6 @@
 ---
 title: 'Pollinator-In-A-Box Kits: Now For Sale!'
-coverImage: /uploads/Blog Posts/pollinator-in-a-box-an-environmentally-friendly-holiday-gift/4edd67_844ac6cfe6b44459b59b5c6201c4ccd6~mv2.jpg
+coverImage: /uploads/blog/pollinator-in-a-box-an-environmentally-friendly-holiday-gift/4edd67_844ac6cfe6b44459b59b5c6201c4ccd6~mv2.jpg
 date: 2021-11-25T04:00:00.000Z
 author: Don Whitred
 categories:
@@ -31,4 +31,4 @@ Pollinator Pathways Project is taking advance orders for the purchase of the Pol
     
 5. Delivery of kits will be in mid- to late-April.
 
-You can view more information about our pollinator kits in our [Pollinator Kit Flyer (PDF)](</uploads/Blog Posts/pollinator-in-a-box-an-environmentally-friendly-holiday-gift/Pollinator_Kit_Flyer_Revised.pdf>).
+You can view more information about our pollinator kits in our [Pollinator Kit Flyer (PDF)](</uploads/blog/pollinator-in-a-box-an-environmentally-friendly-holiday-gift/Pollinator_Kit_Flyer_Revised.pdf>).

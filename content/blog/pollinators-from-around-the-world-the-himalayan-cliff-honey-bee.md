@@ -1,6 +1,6 @@
 ---
 title: 'Pollinators From Around the World: The Himalayan Cliff Honey Bee'
-coverImage: /uploads/Blog Posts/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee/4edd67_0c3d0fe70b3d40089caf9da59a139b88~mv2.png
+coverImage: /uploads/blog/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee/4edd67_0c3d0fe70b3d40089caf9da59a139b88~mv2.png
 date: 2021-11-03T04:00:00.000Z
 author: Manish Koirala
 ---
@@ -11,7 +11,7 @@ The act of pollination facilitates the continuation and growth of infinite plant
 
 The Himalayas, with the largest mountains, also have the largest bee species pollinating its plants. _Apis laboriosa_ a.k.a **The Himalayan Cliff Honey Bee** is the only non-tropical bee species of the region with unique nesting habits. Measuring up to 3.0 cm in length, _Apis laboriosa_ nests at altitudes of 2,500 to 3,000 metres, building massive nests that hang on vertical cliff faces facing southwest. They also forage at altitudes of up to 4,000 m. The largest of the _Apis_ Genus, these bees have dark abdomens and long thoracic hairs. Although similar morphologically to their relative, _Apis dorsata_, the swarming and housekeeping behavior of the _Apis laboriosa_ allows for differentiation between the two species.
 
-![](</uploads/Blog Posts/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee/4edd67_d84b3098f6084b8e867c2a24054a673b~mv2.jpg>)
+![](</uploads/blog/pollinators-from-around-the-world-the-himalayan-cliff-honey-bee/4edd67_d84b3098f6084b8e867c2a24054a673b~mv2.jpg>)
 
 _Photo Credit: Andrew Newey_
 

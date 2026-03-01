@@ -1,6 +1,6 @@
 ---
 title: Pollinators to Expect in Your Garden This Spring
-coverImage: /uploads/Blog Posts/pollinators-to-expect-in-your-garden-this-spring/sunflower.jpeg
+coverImage: /uploads/blog/pollinators-to-expect-in-your-garden-this-spring/sunflower.jpeg
 coverImageAlt: Sunflower with bee
 date: 2022-04-03T04:00:00.000Z
 author: Daemon Dias

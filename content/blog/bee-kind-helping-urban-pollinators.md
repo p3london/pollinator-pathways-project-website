@@ -1,6 +1,6 @@
 ---
 title: 'Bee Kind: Helping Urban Pollinators'
-coverImage: /uploads/Blog Posts/bee-kind-helping-urban-pollinators/3131de92ba9542638861059233594c72.jpeg
+coverImage: /uploads/blog/bee-kind-helping-urban-pollinators/3131de92ba9542638861059233594c72.jpeg
 date: 2020-11-17T04:00:00.000Z
 author: Brittany Cooke
 ---

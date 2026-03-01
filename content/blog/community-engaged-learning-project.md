@@ -1,6 +1,6 @@
 ---
 title: 'Community Engaged Learning Project'
-coverImage: /uploads/Blog Posts/community-engaged-learning-project/63d173_1402dea2074240188bda138a2a5675a6~mv2.jpeg
+coverImage: /uploads/blog/community-engaged-learning-project/63d173_1402dea2074240188bda138a2a5675a6~mv2.jpeg
 date: 2020-02-16T04:00:00.000Z
 author: Rebecca, Lorcan, and Fathima
 ---

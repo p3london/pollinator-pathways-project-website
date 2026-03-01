@@ -1,6 +1,6 @@
 ---
 title: 'Pollinator Pathways Take Ecosystem Scientist Down A New Path'
-coverImage: /uploads/Blog Posts/pollinator-pathways-take-ecosystem-scientist-down-a-new-path/06f857_18f12aa59c0e46adb8a34281fd83b3d5~mv2.jpg
+coverImage: /uploads/blog/pollinator-pathways-take-ecosystem-scientist-down-a-new-path/06f857_18f12aa59c0e46adb8a34281fd83b3d5~mv2.jpg
 date: 2021-06-08T04:00:00.000Z
 author: Don Whitred
 categories:

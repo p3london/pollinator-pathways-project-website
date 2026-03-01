@@ -1,6 +1,6 @@
 ---
 title: 'Growing A Community With The Pollinator Pathways Project'
-coverImage: /uploads/Blog Posts/growing-a-community-withthe-pollinator-pathways-project/06f857_228e2d8e869c4a30becacf8e034e17ad~mv2.jpg
+coverImage: /uploads/blog/growing-a-community-withthe-pollinator-pathways-project/06f857_228e2d8e869c4a30becacf8e034e17ad~mv2.jpg
 date: 2021-06-08T04:00:00.000Z
 author: Don Whitred
 categories:

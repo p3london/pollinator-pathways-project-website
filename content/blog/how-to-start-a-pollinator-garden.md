@@ -1,6 +1,6 @@
 ---
 title: 'How to Start a Pollinator Garden'
-coverImage: /uploads/Blog Posts/how-to-start-a-pollinator-garden/63d173_7022eee6660d4e90b4f893ca20d144c8~mv2.jpg
+coverImage: /uploads/blog/how-to-start-a-pollinator-garden/63d173_7022eee6660d4e90b4f893ca20d144c8~mv2.jpg
 date: 2020-06-07T04:00:00.000Z
 author: Lori Luscombe
 ---
@@ -12,7 +12,7 @@ I think we all enjoy seeing a butterfly floating in the air or a bee foraging ar
 
 Take a look at your around your yard, do you have an area to put in a few flowering plants. Do you have part of your existing garden to turn into a pollinator garden. You can even grow some plants in pots.
 
-![](</uploads/Blog Posts/how-to-start-a-pollinator-garden/33407f359acefa664b7bfd637050e889.jpg>)
+![](</uploads/blog/how-to-start-a-pollinator-garden/33407f359acefa664b7bfd637050e889.jpg>)
 
   
 
@@ -34,7 +34,7 @@ Before I go to the nursery I want to make a plant check list and what would be g
 
   
 
-![](</uploads/Blog Posts/how-to-start-a-pollinator-garden/63d173_e96a68726cf24a2c98a8a72afc892ea8~mv2_d_4512_3000_s_4_2.jpeg>)
+![](</uploads/blog/how-to-start-a-pollinator-garden/63d173_e96a68726cf24a2c98a8a72afc892ea8~mv2_d_4512_3000_s_4_2.jpeg>)
 
   
 
@@ -42,19 +42,19 @@ We get to the plant store and look around, if I need help I ask the clerks. The 
 
   
 
-![](</uploads/Blog Posts/how-to-start-a-pollinator-garden/e504a9bdb83c468d97a7d8c69b1b0002.jpeg>)
+![](</uploads/blog/how-to-start-a-pollinator-garden/e504a9bdb83c468d97a7d8c69b1b0002.jpeg>)
 
   
 
 We buy our plants and get home to plant them. I would leave them in the pots and put them on top of the garden so I can get an idea of where I want to plant them and the spacing I need for them. Then we dig a hole twice the size of the pot our plants are in. We take the plant out of the pot and untangle the roots some, so the roots stop growing in a circle and chock itself. Put the plant in the hole add dirt around the plant and press the soil. We press the soil to get rid of the air pockets. Continue till all your plants are in your garden.
 
-![](</uploads/Blog Posts/how-to-start-a-pollinator-garden/63d173_5b542062cfda4f2ab64f1884f26215d5~mv2.jpg>)
+![](</uploads/blog/how-to-start-a-pollinator-garden/63d173_5b542062cfda4f2ab64f1884f26215d5~mv2.jpg>)
 
   
 
 I did this many years ago and now The only grass I have left is the dog run. One thing to keep in mind a garden is never truly done there is always room for one more plant so enjoy!
 
-![](</uploads/Blog Posts/how-to-start-a-pollinator-garden/63d173_aa858489740b41a6bb41a6705a8486af~mv2_d_4512_3000_s_4_2.jpeg>)
+![](</uploads/blog/how-to-start-a-pollinator-garden/63d173_aa858489740b41a6bb41a6705a8486af~mv2_d_4512_3000_s_4_2.jpeg>)
 
 - 📼 [Creating Pollinator Pathways - Gardening with Lori](https://www.facebook.com/watch/?ref=embed_video&v=281284063253099)
 

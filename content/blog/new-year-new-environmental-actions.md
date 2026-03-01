@@ -1,6 +1,6 @@
 ---
 title: New Year New Environmental Actions
-coverImage: /uploads/Blog Posts/new-year-new-environmental-actions/0703f3_cdd7351319b5479aa86e86c73cf838ff~mv2.jpg
+coverImage: /uploads/blog/new-year-new-environmental-actions/0703f3_cdd7351319b5479aa86e86c73cf838ff~mv2.jpg
 date: 2021-12-31T04:00:00.000Z
 author: Daemon Dias
 ---
@@ -45,7 +45,7 @@ With the New Year just around the corner, it’s time to get ready to celebrate,
 
   
 
-![](</uploads/Blog Posts/new-year-new-environmental-actions/0703f3_4eb5c53ab02a4d6083297ce707d3de6e~mv2.jpg>)
+![](</uploads/blog/new-year-new-environmental-actions/0703f3_4eb5c53ab02a4d6083297ce707d3de6e~mv2.jpg>)
 
   
 
@@ -77,6 +77,5 @@ Pollinators:
 - [10 Ways to Help Pollinators](https://homesteadandchill.com/help-save-pollinators/#:~:text=%2010%20Ways%20to%20Help%20Pollinators:%20Save%20Bees,,as%20buying%20organic%20products%20and%20food.%20More)
     
 - [New Years Resolutions to Help the Environment](https://gardencollage.com/change/sustainability/10-new-years-resolutions-help-environment/#:~:text=%2010%20New%20Year%E2%80%99s%20Resolutions%20That%20Help%20The,and%20being%20outside%20is%20good%20for...%20More)
-    
 
-[Environment and Sustainability](https://www.weforum.org/sustainability-world-economic-forum)
+- [Environment and Sustainability](https://www.weforum.org/sustainability-world-economic-forum)

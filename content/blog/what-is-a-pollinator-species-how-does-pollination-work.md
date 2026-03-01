@@ -1,6 +1,6 @@
 ---
 title: 'What is a pollinator species? How does pollination work?'
-coverImage: /uploads/Blog Posts/what-is-a-pollinator-species-how-does-pollination-work/fc3e342f79188d631d08ea201a61a84b.jpg
+coverImage: /uploads/blog/what-is-a-pollinator-species-how-does-pollination-work/fc3e342f79188d631d08ea201a61a84b.jpg
 coverImageAlt: 'a bee on a yellow flower'
 date: 2020-11-26T04:00:00.000Z
 author: Melanie Franke
@@ -14,7 +14,7 @@ Insect pollinators includes a variety of bees such as the honey bee but also inc
 
   
 
-![](</uploads/Blog Posts/what-is-a-pollinator-species-how-does-pollination-work/63d173_a2caaff572fc4525992d634599e9ea2f~mv2.jpeg>)
+![](</uploads/blog/what-is-a-pollinator-species-how-does-pollination-work/63d173_a2caaff572fc4525992d634599e9ea2f~mv2.jpeg>)
 
   
 

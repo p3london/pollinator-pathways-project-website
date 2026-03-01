@@ -1,6 +1,6 @@
 ---
 title: 'The Importance of Water in a Pollinator Garden'
-coverImage: /uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_6a8a005a5259405cba97b045897f878d~mv2.jpg
+coverImage: /uploads/blog/the-importance-of-water-in-a-pollinator-garden//63d173_6a8a005a5259405cba97b045897f878d~mv2.jpg
 date: 2020-07-26T04:00:00.000Z
 author: Jude Dieleman
 ---
@@ -13,13 +13,13 @@ Nothing can survive without water. Not you, not me, not plants, not pollinators,
 
 There are many types of plants that not only love, but require a moist environment just to survive. A small bird bath in your garden will not necessarily provide habitat for many plants, other than algae, however a small pond will. Take lily pads for instance. Who does not love lily pads? Pollinators also love them, and you can keep them successfully in the smallest of ponds. This is just one example.
 
-![](</uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_27e211fc76274f0aa43aca62e3d0183b~mv2.jpg>)
+![](</uploads/blog/the-importance-of-water-in-a-pollinator-garden//63d173_27e211fc76274f0aa43aca62e3d0183b~mv2.jpg>)
 
 There are countless other plants that will thrive in a small pond. In fact, your pollinator garden could be just a pond! If you don't think that a pond is safe for kids, then a great alternative would be a bog garden. A bog garden is essentially a pond liner under ground with holes poked in it for drainage, and filled with soil. Because of the pond liner, the ground is significantly wetter than the surrounding soil. This provides habitat for many water loving plants, but eliminates any risk of accidents with small children, and making it impossible for mosquitoes to breed. The drawback is however, that pollinators will not be able to drink, and many plants, such as lily pads, will be off the list of plants that you could keep.
 
   
 
-![](</uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_9915e3b200854c4e8221093371185ac4~mv2.jpg>)
+![](</uploads/blog/the-importance-of-water-in-a-pollinator-garden//63d173_9915e3b200854c4e8221093371185ac4~mv2.jpg>)
 
   
 
@@ -31,7 +31,7 @@ By putting out water for them you will be giving them a clean source of water th
 
   
 
-![](</uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_200d345f632341a19905e039fe33fe4b~mv2.jpg>)
+![](</uploads/blog/the-importance-of-water-in-a-pollinator-garden//63d173_200d345f632341a19905e039fe33fe4b~mv2.jpg>)
 
   
 
@@ -39,7 +39,7 @@ By putting out water for them you will be giving them a clean source of water th
 
 Finally, Water in your pollinator garden is important because it will attract many different types of animals that you would otherwise not see. A wildlife pond or even just a pollinator bath can make a huge difference in the wildlife in your yard and it might just be the thing to attract them. Frogs, toads, water stryders, damselflies, racoons, chipmunks and birds are just some of the few examples that I have seen in my two year old pond, though others may see water boat man, newts and salamanders. You might very well find some creatures that you had no idea even existed. Birds will come to bathe, as well as a few mammals.
 
-![](</uploads/Blog Posts/the-importance-of-water-in-a-pollinator-garden//63d173_484b931f80b142848c5ec05cb87c0959~mv2.jpg>)
+![](</uploads/blog/the-importance-of-water-in-a-pollinator-garden//63d173_484b931f80b142848c5ec05cb87c0959~mv2.jpg>)
 
 Now, how should you set up a pond to make it attract wildlife and pollinators? Give them places to hide, lots of plants in and out of the water. Give them a place to get in and out, a place for the birds to bathe, and anything else you think would make them feel at home.
 

@@ -1,6 +1,6 @@
 ---
 title: 'London, Ontario group paving pollinator pathways in honour of World Bee Day'
-coverImage: /uploads/Blog Posts/london-ont-group-paving-pollinator-pathways-in-honour-of-world-bee-day/6d3e36a11ccb49e5be85498563b1735d.jpeg
+coverImage: /uploads/blog/london-ont-group-paving-pollinator-pathways-in-honour-of-world-bee-day/6d3e36a11ccb49e5be85498563b1735d.jpeg
 date: 2021-02-04T04:00:00.000Z
 author: Don Whitred
 categories:

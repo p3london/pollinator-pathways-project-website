@@ -1,6 +1,6 @@
 ---
 title: 'Back to Nature: Bee Hotel Controversy'
-coverImage: /uploads/Blog Posts/bee-hotels-back-to-nature/nsplsh_40ab130781ca4eb398b26d517e9bed0c~mv2.jpeg
+coverImage: /uploads/blog/bee-hotels-back-to-nature/nsplsh_40ab130781ca4eb398b26d517e9bed0c~mv2.jpeg
 date: 2020-10-01T04:00:00.000Z
 author: Brittany Cooke
 ---

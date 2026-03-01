@@ -1,6 +1,6 @@
 ---
 title: 15 In-Season Holiday Recipes
-coverImage: /uploads/Blog Posts/15-in-season-holiday-recipes/37b66721cb3c45ac8af320c8e9ea1a17.jpg
+coverImage: /uploads/blog/15-in-season-holiday-recipes/37b66721cb3c45ac8af320c8e9ea1a17.jpg
 date: 2020-12-23T04:00:00.000Z
 author: Ciara Mcgrogan
 categories:
@@ -12,11 +12,11 @@ With the holidays fast-approaching, we have compiled a collection of holiday dis
 
 Although there is far less produce in-season in the winter, some local fruits and veggies include: onions, parsnips, squash, sweet potatoes, turnips, carrots, potatoes, cabbage, apples and pears. We hope some of the following recipes will inspire you to eat some local, in-season produce this season!
 
-![](</uploads/Blog Posts/15-in-season-holiday-recipes/nsplsh_4331664d483256656a3841~mv2_d_5066_3793_s_4_2.jpeg>)
+![](</uploads/blog/15-in-season-holiday-recipes/nsplsh_4331664d483256656a3841~mv2_d_5066_3793_s_4_2.jpeg>)
 
-![](</uploads/Blog Posts/15-in-season-holiday-recipes/11062b_933f6fffef21499cb6b9edbf8112a2b4~mv2.jpeg>)
+![](</uploads/blog/15-in-season-holiday-recipes/11062b_933f6fffef21499cb6b9edbf8112a2b4~mv2.jpeg>)
 
-![](</uploads/Blog Posts/15-in-season-holiday-recipes/ca3a2755f0ef491ca56c0aa610967d18.jpeg>)
+![](</uploads/blog/15-in-season-holiday-recipes/ca3a2755f0ef491ca56c0aa610967d18.jpeg>)
 
 ### **Start your meal off with one of these delicious appetizers or salads:**
 

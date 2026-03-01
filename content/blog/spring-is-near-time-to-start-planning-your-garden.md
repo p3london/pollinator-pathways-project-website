@@ -1,6 +1,6 @@
 ---
 title: Spring is Near… Time to Start Planning Your Garden
-coverImage: /uploads/Blog Posts/spring-is-near-time-to-start-planning-your-garden/0703f3_5716741f72cd4f94aa75ad3c655c1b53~mv2.jpeg
+coverImage: /uploads/blog/spring-is-near-time-to-start-planning-your-garden/0703f3_5716741f72cd4f94aa75ad3c655c1b53~mv2.jpeg
 date: 2022-03-21T04:00:00.000Z
 author: Risto Kniivila
 ---
@@ -11,7 +11,7 @@ In planning, we want to look at which components go into our garden to make it a
 
 ## Food
 
-![](</uploads/Blog Posts/spring-is-near-time-to-start-planning-your-garden/0703f3_d1a4af4df46e4c62bde744d5787772c4~mv2.jpg>)
+![](</uploads/blog/spring-is-near-time-to-start-planning-your-garden/0703f3_d1a4af4df46e4c62bde744d5787772c4~mv2.jpg>)
 
 There are a variety of pollinators and they require different plants to attract them. Some, like butterflies, need a variety of food sources for each stage of their life. Preferring to lay their eggs on the plants that the larvae will eat. For example, the monarch lays one egg on the underside of a milkweed leaf, so when the egg hatches 3-5 days later it will have the food it needs to grow. Monarch females are capable of laying 300-500 eggs so that means quite a few plants are needed. To see the stately monarchs fluttering about is the reward, and the colour and movement they add to a garden brings that extra life that we all like to see.
 
@@ -23,9 +23,9 @@ We have mentioned the milkweed leaves for the monarch eggs and larvae, but other
 
 Water is essential for your plants and the pollinators we are trying to help. Planning ahead and having a small area where they can stay hydrated on those hot summer days will pay many rewards. Placing a small plate of a bird bath among the plants is a great way for bees, butterflies, and birds to have a drink and to splash around a little; refreshing themselves and allowing them to pollinate as much as possible. Leave small rocks or branches for the bees to stand on, and make sure to replace the water every few days to avoid nasty mosquito larvae from accumulating. Adding a piece of fruit to water occasionally will attract more butterflies as they like the sweet rotting taste.
 
-![](</uploads/Blog Posts/spring-is-near-time-to-start-planning-your-garden/0703f3_1c0b6d4e782e47d69de7a0e1e59609cb~mv2.jpg>)
+![](</uploads/blog/spring-is-near-time-to-start-planning-your-garden/0703f3_1c0b6d4e782e47d69de7a0e1e59609cb~mv2.jpg>)
 
-![](</uploads/Blog Posts/spring-is-near-time-to-start-planning-your-garden/0703f3_ef278a01e4274db3adeb76ff0043b4b7~mv2.jpg>)
+![](</uploads/blog/spring-is-near-time-to-start-planning-your-garden/0703f3_ef278a01e4274db3adeb76ff0043b4b7~mv2.jpg>)
 
 Planting pollinator gardens requires planning to keep a variety of plants blooming as long as possible in the seasons, providing for the necessities that pollinators need to thrive, and to keep it all fun for you. Watching the bumblebees buzzing around, the butterflies fluttering plant to plant, and plants blooming as they do their part in making our planet a beautiful ecosystem is a well deserved reward for all that hard work.
 

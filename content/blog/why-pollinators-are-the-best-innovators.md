@@ -1,13 +1,13 @@
 ---
 title: Why Pollinators are the Best Innovators
-coverImage: /uploads/Blog Posts/why-pollinators-are-the-best-innovators/0703f3_90795721fd6c4d79b8f0667a63fdef53~mv2.jpeg
+coverImage: /uploads/blog/why-pollinators-are-the-best-innovators/0703f3_90795721fd6c4d79b8f0667a63fdef53~mv2.jpeg
 date: 2022-02-15T04:00:00.000Z
 author: Daemon Dias
 ---
 
 Pollinators are much more than supporters of our farmed food supply; they also happen to be excellent teachers. **Biomimicry** is a term that describes how the human species takes inspiration and design features from that which already exists in nature, such as pollinators. The easiest and most common example of biomimicry is how Velcro was invented. An engineer simply mimicked the design of cockleburs a.k.a. burrs, you know the ones that stick to your clothes and your dog’s fur?
 
-![](</uploads/Blog Posts/why-pollinators-are-the-best-innovators/0703f3_0c746e02fd5a4516adfc156bef77edd3~mv2.jpeg>)
+![](</uploads/blog/why-pollinators-are-the-best-innovators/0703f3_0c746e02fd5a4516adfc156bef77edd3~mv2.jpeg>)
 
 Yup, George de Mestral got the idea when he was walking his dog, he simply put the burrs under the microscope and whipped up some engineering wizardry to invent Velcro, thanks George, now to go put up some pictures up with Velcro...
 

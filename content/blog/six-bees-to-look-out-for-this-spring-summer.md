@@ -1,6 +1,6 @@
 ---
 title: Six Bees To Look Out For This Spring & Summer
-coverImage: /uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/six-bees-to-look-out-for.jpg
+coverImage: /uploads/blog/six-bees-to-look-out-for-this-spring-summer/six-bees-to-look-out-for.jpg
 coverImageAlt: bee visiting pollinator plants
 date: 2021-05-26T04:00:00.000Z
 author: Catherine DiLosa
@@ -12,7 +12,7 @@ From afar the bees buzzing around our gardens might all look very similar, but t
 
 ## 1. Common Eastern Bumble Bee (_Bombus impatiens_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/common-eastern-bumble-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/common-eastern-bumble-bee.jpeg>)
 
 Image source: [Missouri Department of Conservation](https://nature.mdc.mo.gov/)
 
@@ -20,7 +20,7 @@ These large, furry bees are native to Canada. They build their nests underground
 
 ## 2. European Honey Bee (_Apis mellifera_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/european-honey-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/european-honey-bee.jpeg>)
 
 Image source: [Genetic Literacy Project](https://geneticliteracyproject.org/)
 
@@ -28,7 +28,7 @@ These familiar bees are not native to Canada, but were introduced to help pollin
 
 ## 3. Eastern Carpenter Bee (_Xylocopa virginica_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/eastern-carpenter-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/eastern-carpenter-bee.jpeg>)
 
 Image source: [Bug Guide](https://bugguide.net/)
 
@@ -36,7 +36,7 @@ The large eastern carpenter bee can be between 2 cm to 2.5 cm long. It has a shi
 
 ## 4. Alfalfa Leafcutter Bee (_Megachile rotundata_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/alfalfa-leafcutter-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/alfalfa-leafcutter-bee.jpeg>)
 
 Image source: [Bug Guide](https://bugguide.net/)
 
@@ -44,7 +44,7 @@ This is another species that is not native to Canada. Like the honey bee, the al
   
 ## 5. Bicolour Striped Sweat Bee (_Agapostemon virscens_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/bicolour-striped-sweat-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/bicolour-striped-sweat-bee.jpeg>)
 
 Image source: [iNaturalist](https://inaturalist.ca/)
 
@@ -52,7 +52,7 @@ This striking metallic green bee is Toronto’s official bee, though there are o
 
 ## 6. Common Eastern Plasterer Bee (_Colletes inaequalis_)
 
-![](</uploads/Blog Posts/six-bees-to-look-out-for-this-spring-summer/common-eastern-plasterer-bee.jpeg>)
+![](</uploads/blog/six-bees-to-look-out-for-this-spring-summer/common-eastern-plasterer-bee.jpeg>)
 
 This bee is one of the first to become active in the spring and goes by several names, including the cellophane bee and the polyester bee. The unique, plastic-like substance species in the Colletes genus produce is used by the females to line the brood cells in their nests. It is waterproof and biodegradable, and it is currently being studied as a sustainable alternative to petroleum-based plastics.
 

@@ -1,6 +1,6 @@
 ---
 title: 'Boycott Plastic with these Bees Knees Food Wraps'
-coverImage: /uploads/Blog Posts/boycott-plastic-with-these-bees-knees-food-wraps/11062b_8a85ced4913b420b8ad1ced3d12527d6~mv2_d_6000_4000_s_4_2.jpeg
+coverImage: /uploads/blog/boycott-plastic-with-these-bees-knees-food-wraps/11062b_8a85ced4913b420b8ad1ced3d12527d6~mv2_d_6000_4000_s_4_2.jpeg
 date: 2020-11-30T04:00:00.000Z
 author: cmcgrogan9557
 ---

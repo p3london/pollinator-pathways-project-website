@@ -1,6 +1,6 @@
 ---
 title: Getting To Know Pollinators
-coverImage: /uploads/Blog Posts/getting-to-know-pollinators/4edd67_d443b1d970c84dd88d430d687081cc7d~mv2.png
+coverImage: /uploads/blog/getting-to-know-pollinators/4edd67_d443b1d970c84dd88d430d687081cc7d~mv2.png
 date: 2021-12-09T04:00:00.000Z
 author: Risto Kniivila
 ---  
@@ -17,7 +17,7 @@ Pollinators help distribute pollen while they are drinking plant nectar or visit
 
 When we think of pollinators, our minds automatically jump to bees as the saviours of our gardens, crops, and wildflowers. That assumption isn’t wrong, as there are over 400 species of wild bees just in Ontario, and over 700 species across Canada, all of which are helping to keep our flowers blooming and our crops growing. Bees, however, are not alone in this task. Other kinds of organisms that help our ecosystems thrive include:
 
-![](/uploads/Blog Posts/getting-to-know-pollinators/4edd67_9cf3a3bf8b4b466b86328b81366de207~mv2.png)
+![](/uploads/blog/getting-to-know-pollinators/4edd67_9cf3a3bf8b4b466b86328b81366de207~mv2.png)
 
 - **Butterflies**: attracted to colourful flowers
     

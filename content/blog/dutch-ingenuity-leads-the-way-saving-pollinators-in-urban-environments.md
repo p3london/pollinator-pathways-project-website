@@ -1,6 +1,6 @@
 ---
 title: 'Dutch Ingenuity Leads the Way Saving Pollinators in Urban Environments'
-coverImage: /uploads/Blog Posts/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments/63d173_7b3c99f758ea4be0b75d9f8b1ae48789~mv2.jpg
+coverImage: /uploads/blog/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments/63d173_7b3c99f758ea4be0b75d9f8b1ae48789~mv2.jpg
 date: 2021-05-19T04:00:00.000Z
 author: Don Whitred
 categories:

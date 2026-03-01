@@ -1,6 +1,6 @@
 ---
 title: Sowing Your Seeds...in the Winter?
-coverImage: /uploads/Blog Posts/sowing-your-seeds-in-the-winter/0703f3_38965eba3e9c4f3d88fd2e27b5012ff9~mv2.png
+coverImage: /uploads/blog/sowing-your-seeds-in-the-winter/0703f3_38965eba3e9c4f3d88fd2e27b5012ff9~mv2.png
 date: 2021-12-16T04:00:00.000Z
 author: Don Whitred
 ---

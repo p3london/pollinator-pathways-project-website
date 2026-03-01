@@ -1,6 +1,6 @@
 ---
 title: '8 Pollinator Favourite Spring Blooms'
-coverImage: /uploads/Blog Posts/8-pollinator-favourite-spring-blooms/e763746f3b0a0d4a5d646048c3562e22.jpg
+coverImage: /uploads/blog/8-pollinator-favourite-spring-blooms/e763746f3b0a0d4a5d646048c3562e22.jpg
 date: 2021-01-20T04:00:00.000Z
 author: Francesca Johnson
 categories:
@@ -23,7 +23,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **1. Baptisia (False Indigo)**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_f6ba743d699740129b3f6a01f85ab2fe~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_f6ba743d699740129b3f6a01f85ab2fe~mv2.jpg>)
 
   
 
@@ -59,7 +59,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **2. Wild Geraniums**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_8398f4b82f7447b898f123db29fbdd09~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_8398f4b82f7447b898f123db29fbdd09~mv2.jpg>)
 
 **Bloom Time**: Late March – Late June
 
@@ -91,7 +91,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **3. Wild Lupine**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_bc530cd6ad974ebf8a11cfd9e9debcec~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_bc530cd6ad974ebf8a11cfd9e9debcec~mv2.jpg>)
 
   
 
@@ -127,7 +127,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **4. Woolly Blue Violets**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_b752c5386cf64283831d5bf6794803d4~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_b752c5386cf64283831d5bf6794803d4~mv2.jpg>)
 
 **Bloom Time**: April – June
 
@@ -145,7 +145,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **5. Honeysuckle Bush**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_6c9b384d16614d2ba817f5a3664e32c7~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_6c9b384d16614d2ba817f5a3664e32c7~mv2.jpg>)
 
 **Bloom Time**: May – June
 
@@ -177,7 +177,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **6. False Solomon’s Seal**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_bca7aa5359f4429aab88588f025efbc6~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_bca7aa5359f4429aab88588f025efbc6~mv2.jpg>)
 
 **Bloom Time**: May – June
 
@@ -195,7 +195,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **7. Canada Mayflower**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_983cf5663a7844de8dce40205dc00c76~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_983cf5663a7844de8dce40205dc00c76~mv2.jpg>)
 
 **Bloom Time**: May – June
 
@@ -211,7 +211,7 @@ Mass planting it easier for pollinators to spot their favorite species. Between 
 
 ### **8. Wild Strawberry**
 
-![](</uploads/Blog Posts/8-pollinator-favourite-spring-blooms/63d173_7b8e08e811e74d09b5b95d6dc32ccfce~mv2.jpg>)
+![](</uploads/blog/8-pollinator-favourite-spring-blooms/63d173_7b8e08e811e74d09b5b95d6dc32ccfce~mv2.jpg>)
 
 **Bloom Time**: May – June
 

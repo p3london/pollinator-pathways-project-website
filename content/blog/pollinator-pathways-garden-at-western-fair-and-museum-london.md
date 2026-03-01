@@ -1,6 +1,6 @@
 ---
 title: Pollinator Pathways Garden at Western Fair and Museum London
-coverImage: /uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_11b19f3d4d3a49f486fe520f3485b56d~mv2.png
+coverImage: /uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_11b19f3d4d3a49f486fe520f3485b56d~mv2.png
 date: 2022-01-02T04:00:00.000Z
 author: Don Whitred
 categories:
@@ -9,7 +9,7 @@ categories:
 
 One of the roles of P3 (Pollinator Pathways Project) is to prepare habitats for native pollinators so they can access nectar feeding stations, seasonal shelter areas (for species regeneration), and develop travel pathways for brining pollinators through existing urban areas.
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_05cca98769fe46c18586a3c1c075afaf~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_05cca98769fe46c18586a3c1c075afaf~mv2.png>)
 
 P3 focuses on developing selected touch-points that act as habitat stations for pollinators as they travel along pathway corridors. Dundas Street forms one of these corridors where the pathway acts as an ecological stitching tool for generating greater diversity within the urban environment for local native pollinator populations.
 
@@ -21,17 +21,17 @@ We recently begun a pollinator garden installation at the Western Fairgrounds, o
 
   
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_f63469843fd34e50ab9319e907b0bf07~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_f63469843fd34e50ab9319e907b0bf07~mv2.png>)
 
 This garden includes wildflower meadows, urban planters for native flora, small garden displays, pollinator hotels and different types of ground treatment. In essence, the project seeks to provide food (nectar), shelter (gardens and pollinator hotels) and habitat diversification for pollinators in urban areas. What makes this garden unique, is the design focuses mainly on plants native to SouthWest Ontario, thus allowing the project to lean more towards helping native pollinators!
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_980b8a65db2b47bca8173c13e7d263e8~mv2.jpg>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_980b8a65db2b47bca8173c13e7d263e8~mv2.jpg>)
 
 The garden shows plant management techniques, species selection, timeline processes, matching plant species with different pollinator populations, shelter options, strategic planting clusters (like daisies + milkweeds) presented for increasing pathways diversity. In addition, the garden promotes a slow-gardening approach so as to reduce installation and maintenance costs while extending sustainable techniques.
 
   
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_7725a73460ae498b949f44c06fa20aa1~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_7725a73460ae498b949f44c06fa20aa1~mv2.png>)
 
   
 
@@ -57,7 +57,7 @@ These photographs, taken June 2021, show the installation of the Pollinator Gard
 
 ### **Installation Methods**
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_e074aed5ff7947c28b914cc02e67da1c~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_e074aed5ff7947c28b914cc02e67da1c~mv2.png>)
 
   
 
@@ -69,7 +69,7 @@ These photographs, taken June 2021, show the installation of the Pollinator Gard
 
   
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_fee906af3e564f0abdc38ddb34ea8a6b~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_fee906af3e564f0abdc38ddb34ea8a6b~mv2.png>)
 
   
 
@@ -83,7 +83,7 @@ These photographs, taken June 2021, show the installation of the Pollinator Gard
 
   
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_edfbd9b0bc014be1887cbf5339f1dff4~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_edfbd9b0bc014be1887cbf5339f1dff4~mv2.png>)
 
   
 
@@ -95,7 +95,7 @@ These photographs, taken June 2021, show the installation of the Pollinator Gard
 
   
 
-![](</uploads/Blog Posts/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_3524484c3f99430894dcb714f5e7789e~mv2.png>)
+![](</uploads/blog/pollinator-pathways-garden-at-western-fair-and-museum-london/0703f3_3524484c3f99430894dcb714f5e7789e~mv2.png>)
 
   
 
