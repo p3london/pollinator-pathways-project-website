@@ -1,5 +1,4 @@
 import { defineConfig } from "tinacms";
-import { photoSectionsTinaConfig } from "../src/app/photos/tina-config";
 import { homePageTinaConfig } from "../src/app/(home)/tina-config";
 import { faqPageTinaConfig } from "../src/app/faq/tina-config";
 import { sitewideTinaConfig } from "../src/app/sitewide/tina-config";
@@ -39,7 +38,6 @@ export default defineConfig({
     collections: [
       faqPageTinaConfig,
       homePageTinaConfig,
-      photoSectionsTinaConfig,
       sitewideTinaConfig,
       tinaConfigBlog,
       tinaConfigProjects,

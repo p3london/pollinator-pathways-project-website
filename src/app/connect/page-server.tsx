@@ -54,21 +54,21 @@ export default function ConnectPage() {
       <ThreeFeatures
         items={[
           {
-            // iconSr/c: "/uploads/Home Page/icon-house.png",
+            // iconSr/c: "/uploads/home/icon-house.png",
             title: "Builders",
             text: "We are looking for builders to help us with our pollinator gardens.  We are looking for experienced, and inexperienced alike.  We need help with building pollinator garden planter boxes.  We also have insect hotels to be made, these include bee, butterfly, and other insect homes.  Access to a woodworking shop of sorts is ideal.",
             // linkText: "Browse kits",
             // linkUrl: "/pollinator-kits",
           },
           {
-            // iconSrc: "/uploads/Home Page/icon-potted-plant.png",
+            // iconSrc: "/uploads/home/icon-potted-plant.png",
             title: "Writers",
             text: "We are looking for a writer to join our community group,  someone who can contribute a blog article (300-500 words) once a month or a social media post once a week. As a writer, you need not have extensive experience with writing. Ideally, you should have some interest in environmental conservation and protection of wild species.",
             // linkText: "Help me plan",
             // linkUrl: "/connect",
           },
           {
-            // iconSrc: "/uploads/Home Page/icon-handshake.png",
+            // iconSrc: "/uploads/home/icon-handshake.png",
             title: "Gardeners",
             text: "We are looking for volunteers to help keep our public gardens beautiful and pollinators happy by maintaining a good mix of pollinator plants and keeping the gardens tidy and watered. Gardener volunteers may help with weeding, watering, and planting. No experience necessary, we look forward to hearing from you!",
             // linkText: "Get in touch",

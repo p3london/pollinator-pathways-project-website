@@ -3,41 +3,43 @@
   "infoSections": [
     {
       "title": "Pollinators keep ecosystems alive",
-      "image": "/uploads/Home Page/2024-05-26-pollinator-ecosystems.jpg",
+      "image": "/uploads/home/2024-05-26-pollinator-ecosystems.jpg",
       "body": "Donate to help us build more gardens and keep our ecosystems healthy. Your help makes this all happen.\n",
       "linkText": "Donate",
       "linkUrl": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3"
     },
     {
       "title": "Why do pollinators matter?",
-      "image": "/uploads/Home Page/2024-05-26-pathways-photo-garden-01.jpg",
+      "image": "/uploads/home/2024-05-26-pathways-photo-garden-01.jpg",
       "body": "Pollinator species are responsible for 1 out of every 3 bites of food we eat. Pollination is a crucial process in the reproductive system of most flowering plants. These plants:\n\n* Supply nearly all our fruits, vegetables, and nuts\n* Supply half the world’s natural oils, fibres, and raw materials\n* Prevent soil erosion\n* Increase carbon sequestration\n\nA healthy ecosystem of pollinator species is incredibly important not just for the species themselves, but for humanity as well.\n",
       "linkText": "",
       "linkUrl": ""
     },
     {
       "title": "What are pollinator pathways?",
-      "image": "/uploads/Home Page/2024-05-26-pathways-photo-butterfly.jpg",
-      "body": "Pollinator pathways are interconnected green areas where pollinators can find food and shelter and go about their day-to-day pollination.\n\nThese areas allow species such as birds, bees, bats, butterflies, beetles, and other small mammals to travel safely through cities and neighbourhoods, carrying pollen between plants.\n\nWithout these pathways, it’s difficult for pollinators to survive. Our aim is to help pollinating species by encouraging the public to plant more native flower species.\n"
+      "image": "/uploads/home/2024-05-26-pathways-photo-butterfly.jpg",
+      "body": "Pollinator pathways are interconnected green areas where pollinators can find food and shelter and go about their day-to-day pollination.\n\nThese areas allow species such as birds, bees, bats, butterflies, beetles, and other small mammals to travel safely through cities and neighbourhoods, carrying pollen between plants.\n\nWithout these pathways, it’s difficult for pollinators to survive. Our aim is to help pollinating species by encouraging the public to plant more native flower species.\n",
+      "linkText": "",
+      "linkUrl": ""
     }
   ],
   "callsToAction": [
     {
-      "iconSrc": "/uploads/Home Page/icon-house.png",
+      "iconSrc": "/uploads/home/icon-house.png",
       "title": "Start your garden",
       "text": "Interested in creating a pollinator garden for your backyard or within your community? Our kits are one way to get started!",
       "linkText": "Ask about kits",
       "linkUrl": "/connect"
     },
     {
-      "iconSrc": "/uploads/Home Page/icon-potted-plant.png",
+      "iconSrc": "/uploads/home/icon-potted-plant.png",
       "title": "Work with us",
       "text": "For larger projects for your community or workplace, we can help plan and plant gardens on a case by case basis. We do charge a fee for these services.",
       "linkText": "Help me plan",
       "linkUrl": "/connect"
     },
     {
-      "iconSrc": "/uploads/Home Page/icon-handshake.png",
+      "iconSrc": "/uploads/home/icon-handshake.png",
       "title": "Sponsor us",
       "text": "Interested in supporting our vision, within your community, or at your workplace? We’re here to help!",
       "linkText": "Get in touch",

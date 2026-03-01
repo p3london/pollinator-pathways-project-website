@@ -20,11 +20,6 @@
         "label": "Connect",
         "href": "/connect",
         "_template": "link"
-      },
-      {
-        "label": "Photos",
-        "href": "/photos",
-        "_template": "link"
       }
     ]
   },
