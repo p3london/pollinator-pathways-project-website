@@ -6,4 +6,4 @@ author: Don Whitred
 
 Please take some time to view Shelby Paxton's presentation and learn more about the bugs that help us, our gardens, and our environment!
 
-[![](</uploads/blog/looking-out-for-the-little-guy/presentation.jpeg>)](https://video.wixstatic.com/video/4edd67_0f98a8cafcb641b4bbcc05d13b9fa95e/1080p/mp4/file.mp4)
+[![](</uploads/blog/looking-out-for-the-little-guy/looking-out-for-the-little-guy-presentation.jpeg>)](/uploads/blog/looking-out-for-the-little-guy/looking-out-for-the-little-guy-presentation.mp4)
