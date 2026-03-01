@@ -34,8 +34,8 @@
 
 .pageTitleContainer {
   max-width: var(--content-max-width);
-  padding: 0.5em var(--content-padding-x) 2em;
-  margin: 0 auto;
+  padding: 0 var(--content-padding-x);
+  margin: 0.5em auto 2em;
 }
 
 .coverImageContainer {

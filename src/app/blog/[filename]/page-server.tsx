@@ -34,7 +34,7 @@ export default function PageServer({ data }: { data: BlogQuery }) {
         <PageTitle>{title}</PageTitle>
       </div>
 
-      {coverImage ? (
+      {typeof coverImage === "string" && coverImage !== "" ? (
         <div className={s.coverImageContainer}>
           <img
             className={s.coverImage}

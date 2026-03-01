@@ -21,7 +21,7 @@ Pollinator Pathways Project is taking advance orders for the purchase of the Pol
 
   
 
-1. [Visit our Donation page, here.](https://donate.micharity.com/pollinator-pathways-project/2983434762/donate?campaign=3)
+1. [Visit our Donation page, here.](/donate)
     
 2. Enter in the amount you'd like to pay for your Kit (view flyer below for recommended prices)
     
