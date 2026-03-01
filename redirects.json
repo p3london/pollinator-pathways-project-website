@@ -15,8 +15,13 @@
     "permanent": false
   },
   {
+    "source": "/photos",
+    "destination": "/projects",
+    "permanent": false
+  },
+  {
     "source": "/start-a-garden",
-    "destination": "/",
+    "destination": "/connect",
     "permanent": false
   },
   {
