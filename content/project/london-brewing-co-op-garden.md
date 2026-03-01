@@ -10,5 +10,3 @@ images:
   - /uploads/projects/photos-london-brewing-co-op-garden/photos-london-brewing-co-op-garden-00005.jpg
   - /uploads/projects/photos-london-brewing-co-op-garden/photos-london-brewing-co-op-garden-00006.jpg
 ---
-
-London Brewing Co-Op Garden Test Content.

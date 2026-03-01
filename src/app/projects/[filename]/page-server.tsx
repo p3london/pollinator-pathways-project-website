@@ -11,6 +11,9 @@ import Spacer from "@/components/spacer";
 
 export default function PageServer({ data }: { data: ProjectQuery }) {
   const { body, coverImage, coverImageAlt, title, images } = data.project;
+
+  const hasBodyContent =
+    body !== null && Array.isArray(body.children) && body.children.length > 0;
   return (
     <div className={s.root}>
       <Spacer h="2rem" />
@@ -26,9 +29,11 @@ export default function PageServer({ data }: { data: ProjectQuery }) {
           />
         </div>
       ) : null}
-      <div className={s.projectBody}>
-        <MarkdownContent content={body} />
-      </div>
+      {hasBodyContent ? (
+        <div className={s.projectBody}>
+          <MarkdownContent content={body} />
+        </div>
+      ) : null}
       <Spacer h="2rem" />
       {Array.isArray(images) ? (
         <div className={s.projectImages}>
