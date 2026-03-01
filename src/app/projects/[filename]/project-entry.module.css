@@ -1,9 +1,32 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .pageTitle {
   border: 1px solid magenta;
 }
 
+.coverImageContainer {
+  max-width: var(--content-max-width);
+  padding: 0 var(--content-padding-x);
+}
+
+.coverImage {
+  display: block;
+}
+
 .projectBody {
+  border: 1px solid magenta;
+  width: 100%;
   max-width: 40em;
-  margin: 0 auto;
-  padding: 2rem 0 8rem 0;
+  padding: 0 var(--content-padding-x);
+}
+
+.projectImages {
+  border: 1px solid magenta;
+  width: 100%;
+  max-width: var(--content-max-width);
+  padding: 0 var(--content-padding-x);
 }

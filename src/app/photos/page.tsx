@@ -2,7 +2,7 @@
 import getSitewideData from "@/lib/get-sitewide-data";
 import LayoutRoot from "@/components/layout-root";
 // Components
-import { ImageGrid } from "./components/image-grid";
+import { ImageGrid } from "@/components/image-grid";
 import PagePlaceholder from "@/components/page-placeholder/page";
 import Link from "next/link";
 // Utils

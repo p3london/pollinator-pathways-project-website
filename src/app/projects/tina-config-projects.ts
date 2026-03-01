@@ -43,9 +43,15 @@ export const tinaConfigProjects: Collection = {
       label: "Body",
       isBody: true,
     },
+    {
+      type: "image",
+      label: "Images",
+      name: "images",
+      list: true,
+    },
   ],
   ui: {
-    router: ({ document }) => `/project/${document._sys.filename}`,
+    router: ({ document }) => `/projects/${document._sys.filename}`,
     filename: {
       // Disable slug editing, it causes more confusion than it's worth.
       // If we ever need to change the slug of a post, we can do so

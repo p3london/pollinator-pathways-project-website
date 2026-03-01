@@ -1,9 +1,11 @@
 import s from "./style.module.css";
 
-export function ImageGrid({ images }: { images: string[] }) {
+export function ImageGrid({ images }: { images: (string | null)[] }) {
+  const validImages = images.filter((image) => image !== null);
+  if (!validImages.length) return null;
   return (
     <div className={s.root}>
-      {images.map((image) => {
+      {validImages.map((image) => {
         return (
           <div
             key={image}

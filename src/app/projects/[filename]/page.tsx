@@ -1,4 +1,6 @@
 import client from "@/../tina/__generated__/client";
+
+import { notFound } from "next/navigation";
 import { fetchProjectsList } from "../utils/fetch-projects-list";
 import { getIsEditableDeployment } from "@/lib/get-is-editable-deployment";
 import PageClient from "./page-client";
@@ -12,8 +14,18 @@ import getSitewideData from "@/lib/get-sitewide-data";
  * Next.js's `app` router.
  */
 export default async function Page({ params: { filename } }: $TSFixMe) {
-  const res = await client.queries.project({ relativePath: `${filename}.md` });
-  console.log({ res });
+  let res;
+  try {
+    res = await client.queries.project({ relativePath: `${filename}.md` });
+  } catch (err) {
+    const errorString = String(err).toLowerCase();
+    if (errorString.indexOf("unable to find record") !== -1) {
+      notFound();
+    } else {
+      throw err;
+    }
+  }
+
   const { footer, nav } = await getSitewideData();
   const isPreviewEnabled = getIsEditableDeployment();
 

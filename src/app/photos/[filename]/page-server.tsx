@@ -1,6 +1,6 @@
 // Components
 import { PageTitle } from "@/components/page-title";
-import { ImageGrid } from "../components/image-grid";
+import { ImageGrid } from "@/components/image-grid";
 // Styles
 import s from "./photos-entry.module.css";
 
