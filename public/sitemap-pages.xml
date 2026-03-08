@@ -6,32 +6,21 @@
 	xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0"
 	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 	xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    <url>
+		<loc>https://www.pollinatorpathwaysproject.com</loc>
+		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
+	</url>
 	<url>
-		<loc>https://www.pollinatorpathwaysproject.com/central-london-pathway</loc>
-		<lastmod>2026-02-27T19:22:20.753Z</lastmod>
+		<loc>https://www.pollinatorpathwaysproject.com/blog</loc>
+		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
 	</url>
 	<url>
 		<loc>https://www.pollinatorpathwaysproject.com/connect</loc>
 		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
 	</url>
+
 	<url>
-		<loc>https://www.pollinatorpathwaysproject.com/faq</loc>
-		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
-	</url>
-	<url>
-		<loc>https://www.pollinatorpathwaysproject.com</loc>
-		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
-	</url>
-	<url>
-		<loc>https://www.pollinatorpathwaysproject.com/resources</loc>
-		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
-	</url>
-	<url>
-		<loc>https://www.pollinatorpathwaysproject.com/photos</loc>
-		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
-	</url>
-	<url>
-		<loc>https://www.pollinatorpathwaysproject.com/blog</loc>
+		<loc>https://www.pollinatorpathwaysproject.com/projects</loc>
 		<lastmod>2026-02-27T19:22:20.754Z</lastmod>
 	</url>
 </urlset>
