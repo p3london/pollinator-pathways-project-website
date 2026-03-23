@@ -1,0 +1,12 @@
+[
+  {
+    "source": "/test-match-redirect",
+    "destination": "/test-match-redirected",
+    "permanent": false
+  },
+  {
+    "source": "/test-match-redirect/:path*",
+    "destination": "/test-match-redirected/:path*",
+    "permanent": false
+  }
+]
