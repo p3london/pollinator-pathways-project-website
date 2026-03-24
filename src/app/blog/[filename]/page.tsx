@@ -79,13 +79,13 @@ export async function generateMetadata(
       height = sharpMetadata.height;
     } catch (e) {}
     // TODO: figure out width and height for blogImage, if applicable
-    console.log({ blogImageFilePath, width, height });
+    // console.log({ blogImageFilePath, width, height });
     const blogImageUrl = `${BASE_URL}${blogImage}`;
     blogImagesOpenGraph.push({ url: blogImageUrl, width, height });
   }
   const openGraphImages = [...previousImages, ...blogImagesOpenGraph];
   const blogUrlAbsolute = `${BASE_URL}/blog/${filename}`;
-  console.log({ blogUrlAbsolute });
+  // console.log({ blogUrlAbsolute });
   return {
     title: blogTitle + METADATA_TITLE_SUFFIX,
     openGraph: {

@@ -1,0 +1,12 @@
+[
+  {
+    "source": "/admin",
+    "destination": "https://p3-editable.vercel.app/admin",
+    "permanent": false
+  },
+  {
+    "source": "/admin/:path*",
+    "destination": "https://p3-editable.vercel.app/admin/:path*",
+    "permanent": false
+  }
+]
