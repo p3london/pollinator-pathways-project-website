@@ -1,12 +1,12 @@
 [
   {
-    "source": "/test-match-redirect",
-    "destination": "/test-match-redirected",
+    "source": "/admin",
+    "destination": "https://p3-editable.vercel.app/admin",
     "permanent": false
   },
   {
-    "source": "/test-match-redirect/:path*",
-    "destination": "/test-match-redirected/:path*",
+    "source": "/admin/:path*",
+    "destination": "https://p3-editable.vercel.app/admin/:path*",
     "permanent": false
   }
 ]

@@ -1,7 +1,67 @@
 [
   {
-    "source": "/test-redirect",
-    "destination": "/test-redirect-redirected",
+    "source": "/news",
+    "destination": "/",
+    "permanent": false
+  },
+  {
+    "source": "/home-new",
+    "destination": "/",
+    "permanent": false
+  },
+  {
+    "source": "/donate",
+    "destination": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3",
+    "permanent": false
+  },
+  {
+    "source": "/photos",
+    "destination": "/projects",
+    "permanent": false
+  },
+  {
+    "source": "/start-a-garden",
+    "destination": "/connect",
+    "permanent": false
+  },
+  {
+    "source": "/faq",
+    "destination": "/",
+    "permanent": false
+  },
+  {
+    "source": "/blog-new",
+    "destination": "/blog",
+    "permanent": false
+  },
+  {
+    "source": "/central-london-pathway",
+    "destination": "/",
+    "permanent": false
+  },
+  {
+    "source": "/post/:path*",
+    "destination": "/blog/:path*",
+    "permanent": false
+  },
+  {
+    "source": "/blog/categories/:path*",
+    "destination": "/blog",
+    "permanent": false
+  },
+  {
+    "source": "/resources",
+    "destination": "/",
+    "permanent": false
+  },
+  {
+    "source": "/blank",
+    "destination": "/connect",
+    "permanent": false
+  },
+  {
+    "source": "/volunteer",
+    "destination": "/",
     "permanent": false
   }
 ]
