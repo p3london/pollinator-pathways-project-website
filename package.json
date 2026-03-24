@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "TINA_PUBLIC_IS_LOCAL=true tinacms dev -c \"next dev\"",
     "dev:reset": "rm -rf tina/__generated__ && rm -rf .next && npm run dev",
-    "build": "npm run build:redirects && tinacms build && next build",
-    "build:redirects": "node ./redirects/build-redirects.mjs",
+    "build": "tinacms build && next build",
     "next:build": "next build",
     "start": "tinacms build && next start",
     "lint": "next lint",
