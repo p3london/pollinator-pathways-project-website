@@ -32,6 +32,13 @@
   font-size: min(max(1.5rem, 3vw), 1.75rem);
 }
 
+.cardExcerpt {
+  margin-top: 0.5rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--color-neutral-600);
+}
+
 /* CARDS */
 
 .cardRoot {
