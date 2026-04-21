@@ -14,7 +14,7 @@ function Footer({
   pathname?: string;
 }) {
   const isEditablePage =
-    typeof pathname === "string" && !["/projects", "/blog"].includes(pathname);
+    typeof pathname === "string" && !["/projects"].includes(pathname);
 
   return (
     <>

@@ -1,7 +1,57 @@
+// Tina CMS Client
+import client from "../../../tina/__generated__/client";
 // Utils
 import { slugifyForTina } from "../../lib/slugify-for-tina";
+import { fetchBlogList } from "./utils/fetch-blog-list";
 // Types
 import type { Collection } from "tinacms";
+
+/**
+ * Fetch data for this specific page. Varies from page to page.
+ * Exported for use in `_edit` pages.
+ */
+export async function tinaQuery() {
+  return await client.queries.blogLanding({
+    relativePath: "blog-landing.json",
+  });
+}
+
+/**
+ * Fetch data that does not need to be directly editable in TinaCMS
+ */
+export async function getServerProps() {
+  const allBlogEntries = await fetchBlogList();
+  return { allBlogEntries };
+}
+
+export const tinaConfigBlogLanding: Collection = {
+  name: "blogLanding",
+  label: "Blog Landing",
+  path: "content/blog-landing",
+  format: "json",
+  ui: {
+    allowedActions: {
+      create: true,
+      delete: true,
+    },
+    router: () => `/blog`,
+  },
+  fields: [
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+      isTitle: true,
+      required: true,
+    },
+    {
+      type: "string",
+      name: "subtitle",
+      label: "Subtitle",
+      required: false,
+    },
+  ],
+};
 
 /**
  * Define the shape of this data in the CMS.

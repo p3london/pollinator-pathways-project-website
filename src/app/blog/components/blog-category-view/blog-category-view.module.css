@@ -1,0 +1,7 @@
+.subtitle {
+  color: var(--color-neutral-700);
+  max-width: 35em;
+  margin: 1rem auto;
+  font-size: 1.125rem;
+  text-align: center;
+}
