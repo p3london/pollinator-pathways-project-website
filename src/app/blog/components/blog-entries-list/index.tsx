@@ -1,10 +1,9 @@
-import Link from "next/link";
 // Components
 import { BlogCard } from "../blog-card";
 // Styles
 import s from "./style.module.css";
 
-export async function BlogEntriesList({
+export function BlogEntriesList({
   category,
   allBlogEntries,
 }: {
