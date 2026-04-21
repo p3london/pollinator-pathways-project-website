@@ -1,4 +1,5 @@
 import client from "@/../tina/__generated__/client";
+import getTinaMarkdownExcerpt from "./get-tina-markdown-excerpt";
 
 export async function fetchBlogList() {
   /**
@@ -20,8 +21,11 @@ export async function fetchBlogList() {
     if (!blogNode) {
       throw new Error("Failed to grab node off blog entry");
     }
-    const { title, date, categories, author, coverImage, coverImageAlt } =
+    const { title, date, categories, author, coverImage, coverImageAlt, body } =
       blogNode;
+    // Grab an excerpt from the body
+    const bodyExcerpt = getTinaMarkdownExcerpt(body, 140);
+
     const { filename } = blogNode._sys;
     blogEntries.push({
       title,
@@ -31,6 +35,7 @@ export async function fetchBlogList() {
       categories,
       coverImage,
       coverImageAlt,
+      bodyExcerpt,
     });
   }
 

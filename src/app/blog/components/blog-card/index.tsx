@@ -44,6 +44,16 @@ function BlogCardInfo({ entry }: { entry: $TSFixMe }) {
       <Spacer h="8px" />
       <h2 className={s.cardTitle}>{title}</h2>
       {/* TODO: grab "description" text, excerpt from content */}
+      {entry.bodyExcerpt ? (
+        <p className={s.cardExcerpt}>
+          {entry.bodyExcerpt}
+          {[".", "!", "?"].includes(
+            entry.bodyExcerpt[entry.bodyExcerpt.length - 1]
+          )
+            ? null
+            : "…"}
+        </p>
+      ) : null}
       {/*<pre>
         <code>{JSON.stringify(entry, null, 2)}</code>
       </pre>*/}
