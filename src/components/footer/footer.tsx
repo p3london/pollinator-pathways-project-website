@@ -63,7 +63,7 @@ function Footer({
             // as edit links are meant for site editors only
             rel="nofollow"
           >
-            {isEditablePage ? "Edit this page" : "Site admin"}&nbsp;
+            {isEditablePage ? "Edit this page" : "Edit this website"}&nbsp;
             <span style={{ fontFamily: "var(--font-system-sans)" }}>↗</span>
           </a>
         </div>

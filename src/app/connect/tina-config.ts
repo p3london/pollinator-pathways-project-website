@@ -96,6 +96,18 @@ export const tinaConfigConnect: Collection = {
           name: "text",
           required: true,
         },
+        {
+          type: "string",
+          label: "Link Text",
+          name: "linkText",
+          required: false,
+        },
+        {
+          type: "string",
+          label: "Link URL",
+          name: "linkUrl",
+          required: false,
+        },
       ],
     },
   ],

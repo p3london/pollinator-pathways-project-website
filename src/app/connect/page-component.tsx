@@ -7,31 +7,6 @@ import { PageTitle } from "@/components/page-title";
 import s from "./connect-page.module.css";
 import { ConnectPageQuery } from "../../../tina/__generated__/types";
 
-// TODO: lift METADATA_TITLE_SUFFIX into sitewide data
-const METADATA_TITLE_SUFFIX = " | Pollinator Pathways Project";
-
-export const metadata = {
-  title: "Connect" + METADATA_TITLE_SUFFIX,
-  description:
-    "Pollinator Pathways Project is a grassroots community organization started in London, Canada that educates how to grow a pollinator garden.",
-};
-
-// TODO: lift into tina config
-const VOLUNTEER_OPPORTUNITIES = [
-  {
-    title: "Builders",
-    text: "We are looking for builders to help us with our pollinator gardens.  We are looking for experienced, and inexperienced alike.  We need help with building pollinator garden planter boxes.  We also have insect hotels to be made, these include bee, butterfly, and other insect homes.  Access to a woodworking shop of sorts is ideal.",
-  },
-  {
-    title: "Writers",
-    text: "We are looking for a writer to join our community group,  someone who can contribute a blog article (300-500 words) once a month or a social media post once a week. As a writer, you need not have extensive experience with writing. Ideally, you should have some interest in environmental conservation and protection of wild species.",
-  },
-  {
-    title: "Gardeners",
-    text: "We are looking for volunteers to help keep our public gardens beautiful and pollinators happy by maintaining a good mix of pollinator plants and keeping the gardens tidy and watered. Gardener volunteers may help with weeding, watering, and planting. No experience necessary, we look forward to hearing from you!",
-  },
-];
-
 export default function ConnectPage({ data }: { data: ConnectPageQuery }) {
   const {
     mainHeading,

@@ -1,7 +1,57 @@
+// Tina CMS Client
+import client from "../../../tina/__generated__/client";
 // Utils
 import { slugifyForTina } from "../../lib/slugify-for-tina";
 // Types
 import type { Collection } from "tinacms";
+import { fetchProjectsList } from "./utils/fetch-projects-list";
+
+/**
+ * Fetch data for this specific page. Varies from page to page.
+ * Exported for use in `_edit` pages.
+ */
+export async function tinaQuery() {
+  return await client.queries.projectsLanding({
+    relativePath: "projects-landing.json",
+  });
+}
+
+/**
+ * Fetch data that does not need to be directly editable in TinaCMS
+ */
+export async function getServerProps() {
+  const projectEntries = await fetchProjectsList();
+  return { projectEntries };
+}
+
+export const tinaConfigProjectsLanding: Collection = {
+  name: "projectsLanding",
+  label: "Projects Landing",
+  path: "content/projects-landing",
+  format: "json",
+  ui: {
+    allowedActions: {
+      create: true,
+      delete: true,
+    },
+    router: () => `/projects`,
+  },
+  fields: [
+    {
+      type: "string",
+      name: "title",
+      label: "Title",
+      isTitle: true,
+      required: true,
+    },
+    {
+      type: "string",
+      name: "subtitle",
+      label: "Subtitle",
+      required: false,
+    },
+  ],
+};
 
 /**
  * Define the shape of this data in the CMS.

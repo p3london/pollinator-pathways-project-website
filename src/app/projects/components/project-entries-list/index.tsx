@@ -1,12 +1,9 @@
-// Third-party
-import clsx from "clsx";
-import Link from "next/link";
 // Components
 import { ProjectCard } from "../project-card";
 // Styles
 import s from "./style.module.css";
 
-export async function ProjectEntriesList({
+export function ProjectEntriesList({
   projectEntries,
 }: {
   projectEntries: $TSFixMe;

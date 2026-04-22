@@ -19,7 +19,6 @@ export default function BlogCategoryView({
     <main>
       <Spacer h="2rem" />
       <PageTitle>{pageTitle}</PageTitle>
-      {/*<Spacer h="2rem" />*/}
       {typeof subtitle === "string" && subtitle !== "" ? (
         <p className={s.subtitle}>{subtitle}</p>
       ) : null}

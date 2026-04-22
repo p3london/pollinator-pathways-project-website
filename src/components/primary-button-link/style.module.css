@@ -1,15 +1,27 @@
 .link {
-	display: inline-block;
-	text-decoration: none;
-	font-size: 1.25rem;
-	background: var(--yellow-primary);
-	color: var(--black);
-	font-family: var(--font-display);
-	padding: 4px 20px;
-	border-radius: 32px;
-	cursor: pointer;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 1.25rem;
+  font-family: var(--font-display);
+  padding: 4px 20px;
+  border-radius: 32px;
+  cursor: pointer;
+}
 
-	&:hover {
-		background: var(--yellow-primary-hover);
-	}
+.primary {
+  background: var(--yellow-primary);
+  color: var(--black);
+
+  &:hover {
+    background: var(--yellow-primary-hover);
+  }
+}
+
+.secondary {
+  background: var(--color-green-300);
+  color: var(--black);
+
+  &:hover {
+    background: var(--color-green-400);
+  }
 }

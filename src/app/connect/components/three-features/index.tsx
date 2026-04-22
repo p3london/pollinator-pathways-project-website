@@ -1,12 +1,14 @@
-import PrimaryButtonLink from "@/components/primary-button-link";
+import PrimaryButtonLink, {
+  ButtonLink,
+} from "@/components/primary-button-link";
 import s from "./style.module.css";
 
 interface Item {
   iconSrc?: string;
   title: string;
   text: string;
-  linkText?: string;
-  linkUrl?: string;
+  linkText?: string | null;
+  linkUrl?: string | null;
 }
 
 export default function ThreeFeatures({ items }: { items: Item[] }) {
@@ -27,11 +29,15 @@ export default function ThreeFeatures({ items }: { items: Item[] }) {
               ) : null}
               <h2 className={s.itemTitle}>{item.title}</h2>
               <p className={s.itemText}>{item.text}</p>
-              {typeof item["linkText"] === "string" &&
-              typeof item["linkUrl"] === "string" ? (
-                <PrimaryButtonLink className={s.itemLink} href={item.linkUrl}>
+              {isValidStringProp(item.linkText) &&
+              isValidStringProp(item.linkUrl) ? (
+                <ButtonLink
+                  className={s.itemLink}
+                  href={item.linkUrl}
+                  styleVariant="secondary"
+                >
                   {item.linkText}
-                </PrimaryButtonLink>
+                </ButtonLink>
               ) : null}
             </div>
           );
@@ -39,4 +45,8 @@ export default function ThreeFeatures({ items }: { items: Item[] }) {
       </div>
     </div>
   );
+}
+
+function isValidStringProp(value: unknown): value is string {
+  return typeof value === "string" && value.trim() !== "";
 }
