@@ -1,6 +1,7 @@
 // Third-party
 import { TinaMarkdown, TinaMarkdownContent } from "tinacms/dist/rich-text";
 // Components
+import MessageBar from "./components/message-bar";
 import PrimaryButtonLink from "@/components/primary-button-link";
 import Spacer from "@/components/spacer";
 import SponsorsSection from "./components/sponsors-section";
@@ -9,7 +10,6 @@ import ThreeFeatures from "./components/three-features";
 import VideoHero from "./components/video-hero";
 // Styles
 import s from "./home-page.module.css";
-import MessageBar from "./components/message-bar";
 
 export default function Home({ data }: $TSFixMe) {
   const {
@@ -21,59 +21,8 @@ export default function Home({ data }: $TSFixMe) {
     sponsors,
     messageBars,
   } = data.homepage;
-
-  // const messageBars = [
-  //   {
-  //     emoji: "📅",
-  //     title: "Join us for some event!",
-  //     body: {
-  //       type: "root",
-  //       children: [
-  //         {
-  //           type: "p",
-  //           children: [
-  //             {
-  //               type: "text",
-  //               text: "On this date, blah blah blah, pollinator species are responsible for 1 out of every 3 bites of food we eat. Pollination is a crucial process in the reproductive system of plants.",
-  //             },
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //     links: [
-  //       { linkText: "Link one", linkUrl: "https://www.example.com" },
-  //       { linkText: "Link two", linkUrl: "https://www.example.com" },
-  //     ],
-  //   },
-  //   {
-  //     emoji: "🪴",
-  //     title: "Plant sale!",
-  //     body: {
-  //       type: "root",
-  //       children: [
-  //         {
-  //           type: "p",
-  //           children: [
-  //             {
-  //               type: "text",
-  //               text: "On this date, blah blah blah, pollinator species are responsible for 1 out of every 3 bites of food we eat. Pollination is a crucial process in the reproductive system of plants.",
-  //             },
-  //           ],
-  //         },
-  //       ],
-  //     },
-  //     links: [
-  //       { linkText: "Link one", linkUrl: "https://www.example.com" },
-  //       { linkText: "Link two", linkUrl: "https://www.example.com" },
-  //     ],
-  //   },
-  // ];
-
   return (
     <main className={s.root}>
-      {/* <pre>
-					<code>{JSON.stringify(data.homepage, null, 2)}</code>
-				</pre> */}
       <VideoHero
         videoSrc={"/pollinator-pathways-video.mp4"}
         heading={heading}
