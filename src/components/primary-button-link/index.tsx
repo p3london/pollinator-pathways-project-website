@@ -6,14 +6,25 @@ import type { LinkProps } from "next/link";
 import s from "./style.module.css";
 import { PropsWithChildren } from "react";
 
-export default function PrimaryButtonLink({
-	children,
-	className,
-	...props
-}: PropsWithChildren<LinkProps> & { className?: string; target?: string }) {
-	return (
-		<Link {...props} className={clsx(s.link, className)}>
-			{children}
-		</Link>
-	);
+export function ButtonLink({
+  children,
+  className,
+  styleVariant = "primary",
+  ...props
+}: PropsWithChildren<LinkProps> & {
+  styleVariant?: "primary" | "secondary";
+  className?: string;
+  target?: string;
+}) {
+  return (
+    <Link {...props} className={clsx(s.link, className, s[styleVariant])}>
+      {children}
+    </Link>
+  );
+}
+
+export default function PrimaryButtonLink(
+  props: PropsWithChildren<LinkProps> & { className?: string; target?: string }
+) {
+  return <ButtonLink {...props} styleVariant="primary" />;
 }
