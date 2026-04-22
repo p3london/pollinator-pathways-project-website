@@ -38,6 +38,7 @@
 
 .body {
   border: 1px solid transparent;
+  max-width: 42em;
 }
 
 .links {

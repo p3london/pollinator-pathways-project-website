@@ -25,7 +25,7 @@ export default function MessageBar({
         <div className={s.emoji}>{emoji}</div>
         <div className={s.textContainer}>
           <div className={s.title}>{title}</div>
-          <MarkdownContent content={body} />
+          <MarkdownContent className={s.body} content={body} />
           {links && links.length > 0 ? (
             <div className={s.links}>
               {links.map((link, index) => (
