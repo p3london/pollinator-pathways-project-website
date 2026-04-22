@@ -93,39 +93,45 @@ export const tinaConfigBlog: Collection = {
       label: "Author",
       required: true,
     },
-    {
-      type: "string",
-      name: "categories",
-      list: true,
-      label: "Categories",
-      options: [
-        {
-          value: "pollinators",
-          label: "Pollinators",
-        },
-        {
-          value: "recipes",
-          label: "Recipes",
-        },
-        {
-          value: "gardening",
-          label: "Gardening",
-        },
-        {
-          value: "flowers",
-          label: "Flowers",
-        },
-        {
-          value: "news",
-          label: "News",
-        },
-        {
-          value: "london",
-          label: "London",
-        },
-      ],
-      required: false,
-    },
+    // NOTE: As of 2026-04-22, categories haven't been useful yet,
+    // so we've removed them from the schema to keep the
+    // editing experience simple. These could be added back later,
+    // in particular if there's good consensus on what the
+    // categories should be... or maybe it'd be ideal to have
+    // the list of categories itself be editable via the CMS?
+    // {
+    //   type: "string",
+    //   name: "categories",
+    //   list: true,
+    //   label: "Categories",
+    //   options: [
+    //     {
+    //       value: "pollinators",
+    //       label: "Pollinators",
+    //     },
+    //     {
+    //       value: "recipes",
+    //       label: "Recipes",
+    //     },
+    //     {
+    //       value: "gardening",
+    //       label: "Gardening",
+    //     },
+    //     {
+    //       value: "flowers",
+    //       label: "Flowers",
+    //     },
+    //     {
+    //       value: "news",
+    //       label: "News",
+    //     },
+    //     {
+    //       value: "london",
+    //       label: "London",
+    //     },
+    //   ],
+    //   required: false,
+    // },
     {
       type: "rich-text",
       name: "body",
