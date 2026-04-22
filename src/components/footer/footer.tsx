@@ -13,8 +13,7 @@ function Footer({
   links?: $TSFixMe[];
   pathname?: string;
 }) {
-  const isEditablePage =
-    typeof pathname === "string" && !["/projects"].includes(pathname);
+  const isEditablePage = typeof pathname === "string" && pathname.trim() !== "";
 
   return (
     <>
