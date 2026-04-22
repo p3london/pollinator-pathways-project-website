@@ -21,8 +21,7 @@ export async function fetchBlogList() {
     if (!blogNode) {
       throw new Error("Failed to grab node off blog entry");
     }
-    const { title, date, categories, author, coverImage, coverImageAlt, body } =
-      blogNode;
+    const { title, date, author, coverImage, coverImageAlt, body } = blogNode;
     // Grab an excerpt from the body
     const bodyExcerpt = getTinaMarkdownExcerpt(body, 140);
 
@@ -32,7 +31,6 @@ export async function fetchBlogList() {
       date,
       author,
       filename,
-      categories,
       coverImage,
       coverImageAlt,
       bodyExcerpt,
