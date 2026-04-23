@@ -13,13 +13,7 @@ function mdA(props: $TSFixMe) {
   if (isPdfLink) {
     const icon = "/uploads/Site-wide/icon-file.png";
     return (
-      <ButtonLink
-        {...restProps}
-        styleVariant="primary"
-        href={url}
-        download={title}
-        target="_blank"
-      >
+      <ButtonLink {...restProps} styleVariant="primary" href={url}>
         <span className={s.mdA_iconAndText}>
           <img className={s.mdA_buttonIcon} src={icon} alt="" />
           {children}
