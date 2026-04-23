@@ -20,18 +20,6 @@
 
   /* Links */
 
-  & a {
-    color: var(--color-blue-700);
-
-    & strong {
-      color: var(--color-blue-700);
-    }
-
-    &:visited {
-      color: var(--color-blue-700);
-    }
-  }
-
   /* Inline code */
 
   & code {
@@ -73,8 +61,7 @@
 
   /* Images */
 
-  & img {
-    /*margin: 1em auto;*/
+  & img:not([class]) {
     margin: 1em 0;
     max-width: 100%;
     display: block;
@@ -106,4 +93,28 @@
   & tr:nth-child(even) {
     background-color: var(--color-green-50);
   }
+}
+
+.mdA {
+  color: var(--color-blue-700);
+
+  & strong {
+    color: var(--color-blue-700);
+  }
+
+  &:visited {
+    color: var(--color-blue-700);
+  }
+}
+
+.mdA_iconAndText {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.mdA_buttonIcon {
+  display: block;
+  width: 24px;
+  height: 24px;
 }
