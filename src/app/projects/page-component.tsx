@@ -25,8 +25,6 @@ export default function Projects({ data, serverProps }: $TSFixMe) {
   const hasStatusSections =
     currentProjectEntries.length > 0 || pastProjectEntries.length > 0;
 
-  console.log({ hasStatusSections, currentProjectEntries, pastProjectEntries });
-
   return (
     <>
       <Spacer h="2rem" />
