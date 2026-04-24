@@ -9,11 +9,13 @@ import s from "./page-title.module.css";
 export function PageTitle({
   children,
   className,
+  e = "h1",
   ...rest
-}: HTMLProps<HTMLHeadingElement>) {
+}: HTMLProps<HTMLHeadingElement> & { e?: React.ElementType }) {
+  const Element = e as React.ElementType;
   return (
-    <h1 className={clsx(s.root, className)} {...rest}>
+    <Element className={clsx(s.root, className)} {...rest}>
       {children}
-    </h1>
+    </Element>
   );
 }

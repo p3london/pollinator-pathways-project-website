@@ -41,13 +41,36 @@ export const tinaConfigProjectsLanding: Collection = {
       type: "string",
       name: "title",
       label: "Title",
-      isTitle: true,
       required: true,
     },
     {
       type: "string",
       name: "subtitle",
       label: "Subtitle",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "currentProjectsTitle",
+      label: "Current Projects Title",
+      required: true,
+    },
+    {
+      type: "string",
+      name: "currentProjectsSubtitle",
+      label: "Current Projects Subtitle",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "pastProjectsTitle",
+      label: "Past Projects Title",
+      required: true,
+    },
+    {
+      type: "string",
+      name: "pastProjectsSubtitle",
+      label: "Past Projects Subtitle",
       required: false,
     },
   ],
@@ -85,6 +108,15 @@ export const tinaConfigProjects: Collection = {
       type: "datetime",
       name: "date",
       label: "Date",
+    },
+    {
+      type: "string",
+      name: "projectStatus",
+      label: "Project Status",
+      options: [
+        { label: "Current", value: "current" },
+        { label: "Past", value: "past" },
+      ],
     },
     {
       type: "rich-text",
