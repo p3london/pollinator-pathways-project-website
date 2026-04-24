@@ -23,7 +23,7 @@ export default function Projects({ data, serverProps }: $TSFixMe) {
   );
 
   const hasStatusSections =
-    currentProjectEntries.length > 0 || pastProjectEntries.length > 0;
+    currentProjectEntries.length > 0 && pastProjectEntries.length > 0;
 
   return (
     <>
