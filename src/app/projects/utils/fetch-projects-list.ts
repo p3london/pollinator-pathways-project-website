@@ -15,9 +15,17 @@ export async function fetchProjectsList() {
     if (!projectNode) {
       throw new Error("Failed to grab node off blog entry");
     }
-    const { title, coverImage, coverImageAlt, date } = projectNode;
+    const { title, coverImage, coverImageAlt, date, projectStatus } =
+      projectNode;
     const { filename } = projectNode._sys;
-    projectEntries.push({ title, filename, date, coverImage, coverImageAlt });
+    projectEntries.push({
+      title,
+      filename,
+      date,
+      coverImage,
+      coverImageAlt,
+      projectStatus,
+    });
   }
 
   return projectEntries;

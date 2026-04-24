@@ -1,6 +1,7 @@
 ---
 title: Chartwell Riverside Residence Plant Sale
 coverImage: /uploads/projects/photos-chartwell-riverside-residence-plant-sale/photos-chartwell-riverside-residence-plant-sale-00001.jpg
+projectStatus: past
 images:
   - /uploads/projects/photos-chartwell-riverside-residence-plant-sale/photos-chartwell-riverside-residence-plant-sale-00001.jpg
   - /uploads/projects/photos-chartwell-riverside-residence-plant-sale/photos-chartwell-riverside-residence-plant-sale-00002.jpg
@@ -24,3 +25,4 @@ images:
   - /uploads/projects/photos-chartwell-riverside-residence-plant-sale/photos-chartwell-riverside-residence-plant-sale-00020.jpg
   - /uploads/projects/photos-chartwell-riverside-residence-plant-sale/photos-chartwell-riverside-residence-plant-sale-00021.jpg
 ---
+

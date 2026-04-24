@@ -6,12 +6,61 @@ import s from "./style.module.css";
 
 export default function Projects({ data, serverProps }: $TSFixMe) {
   const { projectEntries } = serverProps;
-  const { title, subtitle } = data.projectsLanding;
+  const {
+    title,
+    subtitle,
+    currentProjectsTitle,
+    currentProjectsSubtitle,
+    pastProjectsTitle,
+    pastProjectsSubtitle,
+  } = data.projectsLanding;
+
+  const currentProjectEntries = projectEntries.filter(
+    (entry: $TSFixMe) => entry.projectStatus === "current"
+  );
+  const pastProjectEntries = projectEntries.filter(
+    (entry: $TSFixMe) => entry.projectStatus === "past"
+  );
+
+  const hasStatusSections =
+    currentProjectEntries.length > 0 || pastProjectEntries.length > 0;
+
+  console.log({ hasStatusSections, currentProjectEntries, pastProjectEntries });
 
   return (
     <>
       <Spacer h="2rem" />
-      <PageTitle>{title}</PageTitle>
+      {hasStatusSections ? (
+        <>
+          <PageTitle>{currentProjectsTitle}</PageTitle>
+          <ProjectsSection
+            subtitle={currentProjectsSubtitle}
+            projectEntries={currentProjectEntries}
+          />
+          <Spacer h="6rem" />
+          <PageTitle e="h2">{pastProjectsTitle}</PageTitle>
+          <ProjectsSection
+            subtitle={pastProjectsSubtitle}
+            projectEntries={pastProjectEntries}
+          />
+        </>
+      ) : (
+        <>
+          <PageTitle>{title}</PageTitle>
+          <ProjectsSection
+            subtitle={subtitle}
+            projectEntries={projectEntries}
+          />
+        </>
+      )}
+      <Spacer h="12rem" />
+    </>
+  );
+}
+
+function ProjectsSection({ subtitle, projectEntries }: $TSFixMe) {
+  return (
+    <>
       {typeof subtitle === "string" && subtitle !== "" ? (
         <p className={s.subtitle}>{subtitle}</p>
       ) : null}

@@ -1,4 +1,8 @@
 {
   "title": "Projects",
-  "subtitle": ""
+  "subtitle": "",
+  "currentProjectsTitle": "Current Projects",
+  "currentProjectsSubtitle": "This is some example placeholder subtitle text for the current projects section. This text could be used to describe projects broadly, or add some context that might be useful to visitors before they view specific projects.",
+  "pastProjectsTitle": "Past Projects",
+  "pastProjectsSubtitle": "This is some example placeholder subtitle text for the past projects section. This text could be used to describe projects broadly, or add some context that might be useful to visitors before they view specific projects."
 }
