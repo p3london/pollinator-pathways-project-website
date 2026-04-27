@@ -36,8 +36,8 @@ export const tinaConfigResourcesPage: Collection = {
   fields: [
     {
       type: "string",
-      name: "title",
-      label: "Title",
+      name: "pageTitle",
+      label: "Page Title",
       required: true,
     },
     {
@@ -45,6 +45,28 @@ export const tinaConfigResourcesPage: Collection = {
       name: "subtitle",
       label: "Subtitle",
       required: false,
+    },
+    {
+      list: true,
+      type: "object",
+      label: "Files",
+      name: "files",
+      required: true,
+      ui: { itemProps: (item) => ({ label: item?.name }) },
+      fields: [
+        {
+          type: "string",
+          label: "Name",
+          name: "name",
+          required: true,
+        },
+        {
+          type: "image",
+          label: "File",
+          name: "file",
+          required: true,
+        },
+      ],
     },
   ],
 };

@@ -1,4 +1,30 @@
 {
-  "title": "Resources",
-  "subtitle": "Check out our information sheets outlining how to start a pollinator garden! There are also charts that help you choose ideal plants, whether your garden is sunny, shady, wet, or dry."
+  "pageTitle": "Resources",
+  "subtitle": "Check out our information sheets outlining how to start a pollinator garden! There are also charts that help you choose ideal plants, whether your garden is sunny, shady, wet, or dry.",
+  "files": [
+    {
+      "name": "Info Flyer PDF - English",
+      "file": "/uploads/resources/general-info-flyer-english.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - English",
+      "file": "/uploads/resources/open-plant-guide-english.pdf"
+    },
+    {
+      "name": "Info Flyer PDF - French",
+      "file": "/uploads/resources/general-info-flyer-french.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - French",
+      "file": "/uploads/resources/open-plant-guide-french.pdf"
+    },
+    {
+      "name": "Info Flyer PDF - Spanish",
+      "file": "/uploads/resources/general-info-flyer-spanish.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - Spanish",
+      "file": "/uploads/resources/open-plant-guide-spanish.pdf"
+    }
+  ]
 }

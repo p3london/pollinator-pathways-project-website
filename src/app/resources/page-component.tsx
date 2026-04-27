@@ -36,22 +36,30 @@ const RESOURCE_PDF_LINKS = [
 ];
 
 export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
-  const { title, subtitle } = data.resourcesPage;
+  const { pageTitle, subtitle, files } = data.resourcesPage;
   return (
     <>
       <Spacer h="2rem" />
-      <PageTitle>{title}</PageTitle>
+      <PageTitle>{pageTitle}</PageTitle>
       {typeof subtitle === "string" && subtitle !== "" ? (
         <p className={s.subtitle}>{subtitle}</p>
       ) : null}
       <Spacer h="2rem" />
-      <div className={s.fileLinks}>
-        {RESOURCE_PDF_LINKS.map((link, index) => (
-          <FileLink key={index} url={link.url}>
-            {link.title}
-          </FileLink>
-        ))}
-      </div>
+      {Array.isArray(files) && files.length > 0 ? (
+        <div className={s.fileLinks}>
+          {files.map((fileEntry: $TSFixMe, index) => {
+            const { name, file } = fileEntry;
+            return (
+              <FileLink key={index} url={file}>
+                {name}
+              </FileLink>
+            );
+          })}
+        </div>
+      ) : null}
+      {/*<pre>
+        <code>{JSON.stringify(files, null, 2)}</code>
+      </pre>*/}
     </>
   );
 }
