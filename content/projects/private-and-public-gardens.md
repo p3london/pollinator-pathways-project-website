@@ -2,6 +2,7 @@
 title: Private and Public Gardens
 coverImage: /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00001.jpg
 projectStatus: past
+shortDescription: This is a short description of the project named Private and Public Gardens. This short description will appear in places where we might want a summary of the project.
 images:
   - /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00001.jpg
   - /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00002.jpg
@@ -34,3 +35,6 @@ images:
   - /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00029.jpg
 ---
 
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.

@@ -119,6 +119,11 @@ export const tinaConfigProjects: Collection = {
       ],
     },
     {
+      type: "string",
+      name: "shortDescription",
+      label: "Short Description",
+    },
+    {
       type: "rich-text",
       name: "body",
       label: "Body",

@@ -44,11 +44,11 @@ function BlogCardInfo({ entry }: { entry: $TSFixMe }) {
       <Spacer h="8px" />
       <h2 className={s.cardTitle}>{title}</h2>
       {/* TODO: grab "description" text, excerpt from content */}
-      {entry.bodyExcerpt ? (
+      {entry.shortDescription ? (
         <p className={s.cardExcerpt}>
-          {entry.bodyExcerpt}
+          {entry.shortDescription}
           {[".", "!", "?"].includes(
-            entry.bodyExcerpt[entry.bodyExcerpt.length - 1]
+            entry.shortDescription[entry.shortDescription.length - 1]
           )
             ? null
             : "…"}

@@ -12,9 +12,7 @@ import Spacer from "@/components/spacer";
 export default function PageServer({ data }: { data: ProjectQuery }) {
   const { body, title, images } = data.project;
 
-  const hasBodyAst =
-    body !== null && Array.isArray(body.children) && body.children.length > 0;
-  const bodyContentString = hasBodyAst ? StringFromTinaAst(body) : "";
+  const bodyContentString = stringFromTinaAst(body);
   const hasBodyContent = bodyContentString.trim() !== "";
 
   return (
@@ -42,14 +40,39 @@ export default function PageServer({ data }: { data: ProjectQuery }) {
   );
 }
 
-function StringFromTinaAst(ast: TinaMarkdownContent): string {
+/**
+ * TODO: write description
+ *
+ * @param maybeAst
+ * @returns
+ */
+function isTinaAst(maybeAst: unknown): maybeAst is TinaMarkdownContent {
+  return (
+    typeof maybeAst === "object" &&
+    maybeAst !== null &&
+    "type" in maybeAst &&
+    "children" in maybeAst &&
+    Array.isArray(maybeAst.children)
+  );
+}
+
+/**
+ * TODO: write description
+ *
+ * @param ast
+ * @returns
+ */
+function stringFromTinaAst(ast: TinaMarkdownContent): string {
+  if (!isTinaAst(ast)) {
+    return "";
+  }
   return ast.children
     .map((child) => {
       if ("text" in child) {
         return child.text;
       }
       if ("children" in child) {
-        return StringFromTinaAst(child);
+        return stringFromTinaAst(child);
       }
       return "";
     })

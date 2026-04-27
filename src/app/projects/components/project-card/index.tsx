@@ -35,7 +35,7 @@ export function ProjectCard({ entry }: { entry: $TSFixMe }) {
 }
 
 function ProjectCardInfo({ entry }: { entry: $TSFixMe }) {
-  const { title, date } = entry;
+  const { title, date, shortDescription } = entry;
   const hasValidDate =
     typeof date === "string" && date !== "" && !isNaN(new Date(date).getTime());
 
@@ -51,7 +51,17 @@ function ProjectCardInfo({ entry }: { entry: $TSFixMe }) {
       ) : null}
 
       <h2 className={s.cardTitle}>{title}</h2>
-      {/* TODO: grab "description" text, excerpt from content */}
+
+      {shortDescription ? (
+        <p className={s.cardExcerpt}>
+          {shortDescription}
+          {[".", "!", "?"].includes(
+            shortDescription[shortDescription.length - 1]
+          )
+            ? null
+            : "…"}
+        </p>
+      ) : null}
       {/*<pre>
         <code>{JSON.stringify(entry, null, 2)}</code>
       </pre>*/}
