@@ -1,4 +1,5 @@
 import client from "@/../tina/__generated__/client";
+import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export async function fetchProjectsList() {
   const projectsListData = await client.queries.projectConnection({
@@ -15,9 +16,19 @@ export async function fetchProjectsList() {
     if (!projectNode) {
       throw new Error("Failed to grab node off blog entry");
     }
-    const { title, coverImage, coverImageAlt, date, projectStatus } =
-      projectNode;
+    const {
+      title,
+      coverImage,
+      coverImageAlt,
+      date,
+      body,
+      projectStatus,
+      shortDescription,
+    } = projectNode;
     const { filename } = projectNode._sys;
+
+    const bodyExcerpt = getTinaMarkdownExcerpt(body, 140);
+
     projectEntries.push({
       title,
       filename,
@@ -25,6 +36,7 @@ export async function fetchProjectsList() {
       coverImage,
       coverImageAlt,
       projectStatus,
+      shortDescription: shortDescription || bodyExcerpt || "",
     });
   }
 

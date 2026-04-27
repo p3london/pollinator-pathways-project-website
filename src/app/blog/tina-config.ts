@@ -133,6 +133,11 @@ export const tinaConfigBlog: Collection = {
     //   required: false,
     // },
     {
+      type: "string",
+      name: "shortDescription",
+      label: "Short Description",
+    },
+    {
       type: "rich-text",
       name: "body",
       label: "Body",
