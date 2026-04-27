@@ -1,5 +1,5 @@
 import client from "@/../tina/__generated__/client";
-import getTinaMarkdownExcerpt from "@/app/blog/utils/get-tina-markdown-excerpt";
+import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export async function fetchProjectsList() {
   const projectsListData = await client.queries.projectConnection({
@@ -36,7 +36,7 @@ export async function fetchProjectsList() {
       coverImage,
       coverImageAlt,
       projectStatus,
-      shortDescription: shortDescription ?? bodyExcerpt,
+      shortDescription: shortDescription || bodyExcerpt || "",
     });
   }
 

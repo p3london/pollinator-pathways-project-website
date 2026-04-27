@@ -1,5 +1,5 @@
 import client from "@/../tina/__generated__/client";
-import getTinaMarkdownExcerpt from "./get-tina-markdown-excerpt";
+import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export async function fetchBlogList() {
   /**
@@ -41,7 +41,7 @@ export async function fetchBlogList() {
       filename,
       coverImage,
       coverImageAlt,
-      shortDescription: shortDescription ?? bodyExcerpt,
+      shortDescription: shortDescription || bodyExcerpt || "",
     });
   }
 
