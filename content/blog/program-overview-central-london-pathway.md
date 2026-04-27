@@ -2,7 +2,6 @@
 title: 'Program Overview: Central London Pathway'
 date: 2024-08-09T04:00:00.000Z
 author: Queen Bee
-shortDescription: This is a short description of the blog post on the Central London Pathway. This short description will appear in places where we might want a summary of the blog post.
 ---
 
 > **Please Note**: Applications to this program are now closed and this program has been completed. Thank you for your interest!\
