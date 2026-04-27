@@ -3,10 +3,11 @@ import type { TinaMarkdownContent } from "tinacms/dist/rich-text";
 import { isTinaAst } from "./is-tina-ast";
 
 /**
- * TODO: write description
+ * Given a TinaMarkdown AST,
+ * Return the text content as a string.
  *
- * @param ast
- * @returns
+ * @param {TinaMarkdownContent}
+ * @returns {string}
  */
 export function stringFromTinaAst(ast: TinaMarkdownContent): string {
   if (!isTinaAst(ast)) {

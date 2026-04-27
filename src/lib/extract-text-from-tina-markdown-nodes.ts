@@ -1,10 +1,13 @@
 import { TinaMarkdownContent } from "tinacms/dist/rich-text";
 
 /**
+ * Given a TinaMarkdown AST node or nodes,
+ * and an optional list of target node types to extract from,
+ * Return the text content as a string.
  *
- * @param nodeOrNodes
- * @param targetTypes
- * @returns
+ * @param {TinaMarkdownContent | TinaMarkdownContent[]} nodeOrNodes
+ * @param {string[]} targetTypes
+ * @returns {string}
  */
 export function extractTextFromTinaMarkdownNodes(
   nodeOrNodes: TinaMarkdownContent | TinaMarkdownContent[],
