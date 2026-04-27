@@ -1,0 +1,49 @@
+.subtitle {
+  color: var(--color-neutral-700);
+  max-width: 32em;
+  margin: 1rem auto;
+  font-size: 1.125rem;
+  text-align: center;
+}
+
+/* File links */
+
+.fileLinks {
+  display: grid;
+  gap: 12px;
+  grid-template-columns: 1fr;
+  margin: 0 auto;
+  max-width: max-content;
+  padding: 0 8px;
+
+  @media (min-width: 640px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+/* File link */
+
+.fileLink {
+  color: var(--color-blue-700);
+
+  & strong {
+    color: var(--color-blue-700);
+  }
+
+  &:visited {
+    color: var(--color-blue-700);
+  }
+}
+
+.fileLink_iconAndText {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  line-height: 1.2;
+}
+
+.fileLink_buttonIcon {
+  display: block;
+  width: 24px;
+  height: 24px;
+}
