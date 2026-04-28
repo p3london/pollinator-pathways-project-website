@@ -47,3 +47,17 @@
   width: 24px;
   height: 24px;
 }
+
+/* Videos */
+
+.videosContainer {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 16px;
+  margin: 0 auto;
+  max-width: 800px;
+
+  @media (min-width: 640px) {
+    grid-template-columns: 1fr 1fr;
+  }
+}
