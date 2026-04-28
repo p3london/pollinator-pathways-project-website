@@ -9,10 +9,20 @@ import { parseYoutubeIdFromUrl } from "./utils/parse-youtube-id-from-url";
 import { PropsWithChildren } from "react";
 // Styles
 import s from "./page.module.css";
+import { BlogCard } from "../blog/components/blog-card";
+import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
-  const { pageTitle, subtitle, files, videoSectionTitle, youtubeIds } =
-    data.resourcesPage;
+  const {
+    pageTitle,
+    subtitle,
+    files,
+    videoSectionTitle,
+    youtubeIds,
+    blogsTitle,
+    blogsSubtitle,
+    blogReferenceList,
+  } = data.resourcesPage;
 
   const hasFiles = Array.isArray(files) && files.length > 0;
   const hasVideos =
@@ -20,6 +30,9 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
     videoSectionTitle !== "" &&
     Array.isArray(youtubeIds) &&
     youtubeIds.length > 0;
+  const hasRelatedBlogs =
+    Array.isArray(blogReferenceList) && blogReferenceList.length > 0;
+
   return (
     <>
       <Spacer h="2rem" />
@@ -64,6 +77,36 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
                 ></iframe>
               </AspectContainer>
             ))}
+          </div>
+        </>
+      ) : null}
+      {hasRelatedBlogs ? (
+        <>
+          <Spacer h="4rem" />
+          <PageTitle e="h2">{blogsTitle}</PageTitle>
+          {typeof blogsSubtitle === "string" && blogsSubtitle !== "" ? (
+            <p className={s.subtitle}>{blogsSubtitle}</p>
+          ) : null}
+          <Spacer h="1rem" />
+          {/* Render blog references as cards */}
+          <div className={s.blogReferences}>
+            {blogReferenceList.map((blogReferenceEntry, index) => {
+              const { blogReference } = blogReferenceEntry;
+              if (!blogReference.shortDescription) {
+                blogReference.shortDescription = getTinaMarkdownExcerpt(
+                  blogReference.body,
+                  140
+                );
+              }
+              return (
+                <div key={index}>
+                  <BlogCard entry={blogReference} />
+                  {/*<pre>
+                  <code>{JSON.stringify(blogReference, null, 2)}</code>
+                </pre>*/}
+                </div>
+              );
+            })}
           </div>
         </>
       ) : null}

@@ -10,7 +10,7 @@ export function BlogCard({ entry }: { entry: $TSFixMe }) {
   //
   if (hasImage) {
     return (
-      <Link href={`/blog/${entry.filename}`}>
+      <Link className={s.root} href={`/blog/${entry.filename}`}>
         <Card>
           <CardSplit
             sectionOne={

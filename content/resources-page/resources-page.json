@@ -1,4 +1,16 @@
 {
+  "blogsList": "content/blog/15-in-season-holiday-recipes.md",
+  "blogsListTwo": [
+    {
+      "blogReference": "content/blog/8-pollinator-favourite-spring-blooms.md"
+    },
+    {
+      "blogReference": "content/blog/bee-hotels-back-to-nature.md"
+    },
+    {
+      "blogReference": "content/blog/community-engaged-learning-project.md"
+    }
+  ],
   "pageTitle": "Resources",
   "subtitle": "Check out our information sheets outlining how to start a pollinator garden! There are also charts that help you choose ideal plants, whether your garden is sunny, shady, wet, or dry.",
   "files": [
@@ -33,5 +45,18 @@
     "https://www.youtube.com/watch?v=m9Ajgsd4Xp4",
     "https://youtu.be/k3xot4p0k20",
     "https://youtu.be/DJZ4u5iNUH4"
+  ],
+  "blogsTitle": "On the blog",
+  "blogsSubtitle": "Check out our recent blog posts related to tips, tricks, and treats for helping you in the garden.",
+  "blogReferenceList": [
+    {
+      "blogReference": "content/blog/15-in-season-holiday-recipes.md"
+    },
+    {
+      "blogReference": "content/blog/bee-kind-helping-urban-pollinators.md"
+    },
+    {
+      "blogReference": "content/blog/community-engaged-learning-project.md"
+    }
   ]
 }

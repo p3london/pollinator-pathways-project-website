@@ -81,5 +81,42 @@ export const tinaConfigResourcesPage: Collection = {
       list: true,
       required: false,
     },
+    {
+      type: "string",
+      name: "blogsTitle",
+      label: "Blogs Title",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "blogsSubtitle",
+      label: "Blogs Subtitle",
+      required: false,
+    },
+    {
+      list: true,
+      type: "object",
+      label: "Blogs List",
+      name: "blogReferenceList",
+      ui: {
+        itemProps: (item) => {
+          // Get last segment of the path after `/`,
+          // without using `path.basename`, cause we're in the browser
+          const filename = item?.blogReference?.split("/").pop();
+          // Remove file extension from the filename
+          const basename = filename?.split(".").slice(0, -1).join(".");
+          return { label: basename };
+        },
+      },
+      fields: [
+        {
+          type: "reference",
+          label: "Blog Post",
+          name: "blogReference",
+          collections: ["blog"],
+          required: true,
+        },
+      ],
+    },
   ],
 };
