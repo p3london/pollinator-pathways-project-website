@@ -1,13 +1,5 @@
 /* City cards */
 
-.cityCards {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 16px;
-  margin: 0 auto;
-  max-width: 600px;
-}
-
 .cityCard {
   --bg-color: var(--color-green-200);
   width: 100%;

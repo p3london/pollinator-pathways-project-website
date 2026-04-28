@@ -127,6 +127,7 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
                   140
                 );
               }
+              blogReference.filename = blogReference._sys.filename;
               return (
                 <div key={index}>
                   <BlogCard entry={blogReference} />
