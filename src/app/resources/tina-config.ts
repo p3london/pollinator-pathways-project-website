@@ -68,5 +68,18 @@ export const tinaConfigResourcesPage: Collection = {
         },
       ],
     },
+    {
+      type: "string",
+      name: "videoSectionTitle",
+      label: "Video Section Title",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "youtubeIds",
+      label: "Youtube IDs",
+      list: true,
+      required: false,
+    },
   ],
 };

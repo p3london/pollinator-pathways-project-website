@@ -26,5 +26,12 @@
       "name": "Plant Guide PDF - Spanish",
       "file": "/uploads/resources/open-plant-guide-spanish.pdf"
     }
+  ],
+  "videoSectionTitle": "Our videos",
+  "youtubeIds": [
+    "https://youtu.be/eGa1DW_gtcY",
+    "https://www.youtube.com/watch?v=m9Ajgsd4Xp4",
+    "https://youtu.be/k3xot4p0k20",
+    "https://youtu.be/DJZ4u5iNUH4"
   ]
 }

@@ -1,28 +1,25 @@
 // Components
 import { PageTitle } from "@/components/page-title";
 import Spacer from "@/components/spacer";
-import PrimaryButtonLink from "@/components/primary-button-link";
 import { ButtonLink } from "@/components/primary-button-link";
+import { AspectContainer } from "./components/aspect-container";
+// Utils
+import { parseYoutubeIdFromUrl } from "./utils/parse-youtube-id-from-url";
 // Types
 import { PropsWithChildren } from "react";
 // Styles
 import s from "./page.module.css";
-import { AspectContainer } from "./components/aspect-container";
-
-const VIDEOS_TITLE = "Our videos";
-const YOUTUBE_EMBED_IDS = [
-  "eGa1DW_gtcY",
-  "m9Ajgsd4Xp4",
-  "k3xot4p0k20",
-  "DJZ4u5iNUH4",
-];
 
 export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
-  const { pageTitle, subtitle, files } = data.resourcesPage;
+  const { pageTitle, subtitle, files, videoSectionTitle, youtubeIds } =
+    data.resourcesPage;
 
   const hasFiles = Array.isArray(files) && files.length > 0;
   const hasVideos =
-    Array.isArray(YOUTUBE_EMBED_IDS) && YOUTUBE_EMBED_IDS.length > 0;
+    typeof videoSectionTitle === "string" &&
+    videoSectionTitle !== "" &&
+    Array.isArray(youtubeIds) &&
+    youtubeIds.length > 0;
   return (
     <>
       <Spacer h="2rem" />
@@ -48,15 +45,17 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
       {hasVideos ? (
         <>
           <Spacer h="4rem" />
-          <PageTitle e="h2">{VIDEOS_TITLE}</PageTitle>
+          <PageTitle e="h2">{videoSectionTitle}</PageTitle>
           <Spacer h="2rem" />
           <div className={s.videosContainer}>
-            {YOUTUBE_EMBED_IDS.map((id, index) => (
+            {youtubeIds.map((url, index) => (
               <AspectContainer key={index} aspectRatio={9 / 16}>
                 <iframe
                   width="100%"
                   height="100%"
-                  src={`https://www.youtube.com/embed/${id}`}
+                  src={`https://www.youtube.com/embed/${parseYoutubeIdFromUrl(
+                    url
+                  )}`}
                   title="YouTube video player"
                   frameBorder="0"
                   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
