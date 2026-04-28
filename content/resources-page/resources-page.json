@@ -58,5 +58,69 @@
     {
       "blogReference": "content/blog/community-engaged-learning-project.md"
     }
+  ],
+  "otherCitiesTitle": "Other cities",
+  "otherCitiesSubtitle": "Questioning whether this is a global trend already? Have a look at what these cities are doing to help pollinators...",
+  "otherCitiesList": [
+    {
+      "name": "Auckland",
+      "url": "https://nuwao.org.nz/pollinator-pathways/",
+      "image": "/uploads/resources/cities/auckland.jpg"
+    },
+    {
+      "name": "Guelph",
+      "url": "https://www.pollinationguelph.ca",
+      "image": "/uploads/resources/cities/guelph.jpg"
+    },
+    {
+      "name": "Montreal",
+      "url": "https://espacepourlavie.ca/en/attracting-pollinators-garden",
+      "image": "/uploads/resources/cities/montreal.jpg"
+    },
+    {
+      "name": "Peterborough",
+      "url": " https://beecitycanada.org/bee-cities/peterborough/",
+      "image": "/uploads/resources/cities/peterborough.jpg"
+    },
+    {
+      "name": "Seattle",
+      "url": "http://www.pollinatorpathway.com/",
+      "image": "/uploads/resources/cities/seattle.jpg"
+    },
+    {
+      "name": "Toronto",
+      "url": "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/draft-pollinator-strategy/",
+      "image": "/uploads/resources/cities/toronto.jpg"
+    },
+    {
+      "name": "Wilton",
+      "url": "https://www.pollinator-pathway.org",
+      "image": "/uploads/resources/cities/wilton.jpg"
+    },
+    {
+      "name": "Woodstock, NY",
+      "url": "https://woodstocknypollinatorpathway.info/",
+      "image": "/uploads/resources/cities/woodstock-ny.jpg"
+    },
+    {
+      "name": "Waterloo",
+      "url": "https://seeds.ca/pollination",
+      "image": "/uploads/resources/cities/waterloo.jpg"
+    },
+    {
+      "name": "Hamilton",
+      "url": "https://www.hamiltonpollinatorparadise.org",
+      "image": "/uploads/resources/cities/hamilton.jpg"
+    },
+    {
+      "name": "Mississauga",
+      "url": "http://www.bloomingboulevards.org",
+      "image": "/uploads/resources/cities/mississauga.jpg"
+    },
+    {
+      "name": "Amsterdam",
+      "url": "https://diamondsci.com/blog/greening-cities-can-help-save-bees/",
+      "image": "/uploads/resources/cities/amsterdam.jpg"
+    }
   ]
 }

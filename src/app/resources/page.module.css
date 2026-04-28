@@ -73,3 +73,24 @@
   max-width: 48em;
   padding: 0 var(--content-padding-x) 8rem;
 }
+
+/* City cards */
+
+.cityCards {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 16px;
+  margin: 0 auto;
+  max-width: 200px;
+  padding: 0 8px;
+
+  @media (min-width: 400px) {
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 400px;
+  }
+
+  @media (min-width: 700px) {
+    grid-template-columns: repeat(3, 1fr);
+    max-width: 600px;
+  }
+}

@@ -2,15 +2,17 @@
 import { PageTitle } from "@/components/page-title";
 import Spacer from "@/components/spacer";
 import { ButtonLink } from "@/components/primary-button-link";
+import { BlogCard } from "../blog/components/blog-card";
+// Components, page-specific
+import { CityCard } from "./components/city-card";
 import { AspectContainer } from "./components/aspect-container";
 // Utils
+import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 import { parseYoutubeIdFromUrl } from "./utils/parse-youtube-id-from-url";
 // Types
 import { PropsWithChildren } from "react";
 // Styles
 import s from "./page.module.css";
-import { BlogCard } from "../blog/components/blog-card";
-import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
   const {
@@ -22,6 +24,9 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
     blogsTitle,
     blogsSubtitle,
     blogReferenceList,
+    otherCitiesTitle,
+    otherCitiesSubtitle,
+    otherCitiesList,
   } = data.resourcesPage;
 
   const hasFiles = Array.isArray(files) && files.length > 0;
@@ -32,6 +37,12 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
     youtubeIds.length > 0;
   const hasRelatedBlogs =
     Array.isArray(blogReferenceList) && blogReferenceList.length > 0;
+
+  const hasCities =
+    typeof otherCitiesTitle === "string" &&
+    otherCitiesTitle !== "" &&
+    Array.isArray(otherCitiesList) &&
+    otherCitiesList.length > 0;
 
   return (
     <>
@@ -55,6 +66,24 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
           </div>
         </>
       ) : null}
+
+      {hasCities ? (
+        <>
+          <Spacer h="4rem" />
+          <PageTitle e="h2">{otherCitiesTitle}</PageTitle>
+          {typeof otherCitiesSubtitle === "string" &&
+          otherCitiesSubtitle !== "" ? (
+            <p className={s.subtitle}>{otherCitiesSubtitle}</p>
+          ) : null}
+          <Spacer h="1rem" />
+          <div className={s.cityCards}>
+            {otherCitiesList.map((city, index) => {
+              return <CityCard key={index} {...city} />;
+            })}
+          </div>
+        </>
+      ) : null}
+
       {hasVideos ? (
         <>
           <Spacer h="4rem" />
@@ -110,10 +139,8 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
           </div>
         </>
       ) : null}
-      {/*<pre>
-        <code>{JSON.stringify(files, null, 2)}</code>
-      </pre>*/}
-      <Spacer h="8rem" />
+
+      <Spacer h="6rem" />
     </>
   );
 }

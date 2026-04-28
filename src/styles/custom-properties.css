@@ -1,7 +1,8 @@
 /* Typography */
 
 :root {
-  /* Note that --font-body and --font-display are set in `layout.tsx` */
+  /* --font-body - set in `layout.tsx` */
+  /* --font-display - set in `layout.tsx` */
   --font-system-sans: -apple-system, BlinkMacSystemFont, avenir next, avenir,
     segoe ui, helvetica neue, Adwaita Sans, Cantarell, Ubuntu, roboto, noto,
     helvetica, arial, sans-serif;
