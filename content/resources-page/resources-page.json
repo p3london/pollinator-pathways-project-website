@@ -1,0 +1,126 @@
+{
+  "blogsList": "content/blog/15-in-season-holiday-recipes.md",
+  "blogsListTwo": [
+    {
+      "blogReference": "content/blog/8-pollinator-favourite-spring-blooms.md"
+    },
+    {
+      "blogReference": "content/blog/bee-hotels-back-to-nature.md"
+    },
+    {
+      "blogReference": "content/blog/community-engaged-learning-project.md"
+    }
+  ],
+  "pageTitle": "Resources",
+  "subtitle": "Check out our information sheets outlining how to start a pollinator garden! There are also charts that help you choose ideal plants, whether your garden is sunny, shady, wet, or dry.",
+  "files": [
+    {
+      "name": "Info Flyer PDF - English",
+      "file": "/uploads/resources/general-info-flyer-english.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - English",
+      "file": "/uploads/resources/open-plant-guide-english.pdf"
+    },
+    {
+      "name": "Info Flyer PDF - French",
+      "file": "/uploads/resources/general-info-flyer-french.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - French",
+      "file": "/uploads/resources/open-plant-guide-french.pdf"
+    },
+    {
+      "name": "Info Flyer PDF - Spanish",
+      "file": "/uploads/resources/general-info-flyer-spanish.pdf"
+    },
+    {
+      "name": "Plant Guide PDF - Spanish",
+      "file": "/uploads/resources/open-plant-guide-spanish.pdf"
+    }
+  ],
+  "videoSectionTitle": "Our videos",
+  "youtubeIds": [
+    "https://youtu.be/eGa1DW_gtcY",
+    "https://www.youtube.com/watch?v=m9Ajgsd4Xp4",
+    "https://youtu.be/k3xot4p0k20",
+    "https://youtu.be/DJZ4u5iNUH4"
+  ],
+  "blogsTitle": "On the blog",
+  "blogsSubtitle": "Check out our recent blog posts related to tips, tricks, and treats for helping you in the garden.",
+  "blogReferenceList": [
+    {
+      "blogReference": "content/blog/six-bees-to-look-out-for-this-spring-summer.md"
+    },
+    {
+      "blogReference": "content/blog/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments.md"
+    },
+    {
+      "blogReference": "content/blog/monarch-butterflies-in-the-city.md"
+    }
+  ],
+  "otherCitiesTitle": "Other cities",
+  "otherCitiesSubtitle": "Questioning whether this is a global trend already? Have a look at what these cities are doing to help pollinators...",
+  "otherCitiesList": [
+    {
+      "name": "Auckland",
+      "url": "https://nuwao.org.nz/pollinator-pathways/",
+      "image": "/uploads/resources/cities/auckland.jpg"
+    },
+    {
+      "name": "Guelph",
+      "url": "https://www.pollinationguelph.ca",
+      "image": "/uploads/resources/cities/guelph.jpg"
+    },
+    {
+      "name": "Montreal",
+      "url": "https://espacepourlavie.ca/en/attracting-pollinators-garden",
+      "image": "/uploads/resources/cities/montreal.jpg"
+    },
+    {
+      "name": "Peterborough",
+      "url": " https://beecitycanada.org/bee-cities/peterborough/",
+      "image": "/uploads/resources/cities/peterborough.jpg"
+    },
+    {
+      "name": "Seattle",
+      "url": "http://www.pollinatorpathway.com/",
+      "image": "/uploads/resources/cities/seattle.jpg"
+    },
+    {
+      "name": "Toronto",
+      "url": "https://www.toronto.ca/services-payments/water-environment/environmentally-friendly-city-initiatives/reports-plans-policies-research/draft-pollinator-strategy/",
+      "image": "/uploads/resources/cities/toronto.jpg"
+    },
+    {
+      "name": "Wilton",
+      "url": "https://www.pollinator-pathway.org",
+      "image": "/uploads/resources/cities/wilton.jpg"
+    },
+    {
+      "name": "Woodstock, NY",
+      "url": "https://woodstocknypollinatorpathway.info/",
+      "image": "/uploads/resources/cities/woodstock-ny.jpg"
+    },
+    {
+      "name": "Waterloo",
+      "url": "https://seeds.ca/pollination",
+      "image": "/uploads/resources/cities/waterloo.jpg"
+    },
+    {
+      "name": "Hamilton",
+      "url": "https://www.hamiltonpollinatorparadise.org",
+      "image": "/uploads/resources/cities/hamilton.jpg"
+    },
+    {
+      "name": "Mississauga",
+      "url": "http://www.bloomingboulevards.org",
+      "image": "/uploads/resources/cities/mississauga.jpg"
+    },
+    {
+      "name": "Amsterdam",
+      "url": "https://diamondsci.com/blog/greening-cities-can-help-save-bees/",
+      "image": "/uploads/resources/cities/amsterdam.jpg"
+    }
+  ]
+}

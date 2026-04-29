@@ -1,0 +1,16 @@
+.root {
+  overflow: hidden;
+  /* NOTE: --aspect-ratio-padding set in JS */
+  padding-bottom: var(--aspect-ratio-padding);
+  position: relative;
+  width: 100%;
+}
+
+.inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+}

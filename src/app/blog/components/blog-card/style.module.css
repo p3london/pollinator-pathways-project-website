@@ -1,3 +1,8 @@
+.root {
+  text-decoration: none;
+  color: inherit;
+}
+
 .cardImageContainer {
   position: relative;
   height: 100%;

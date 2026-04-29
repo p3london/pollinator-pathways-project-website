@@ -1,0 +1,39 @@
+/* City cards */
+
+.cityCard {
+  --bg-color: var(--color-green-200);
+  width: 100%;
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    --bg-color: var(--color-green-300);
+  }
+}
+
+.cityCard_rounder {
+  border-top-left-radius: 90px;
+  border-top-right-radius: 90px;
+  display: block;
+  height: 100%;
+  overflow: hidden;
+  width: 100%;
+}
+
+.cityCard_image {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+}
+
+.cityCard_text {
+  display: block;
+  padding: 16px;
+  text-align: center;
+  width: 100%;
+  background-color: var(--bg-color);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+}

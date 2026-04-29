@@ -20,6 +20,11 @@
         "label": "Connect",
         "href": "/connect",
         "_template": "link"
+      },
+      {
+        "label": "Resources",
+        "href": "/resources",
+        "_template": "link"
       }
     ]
   },

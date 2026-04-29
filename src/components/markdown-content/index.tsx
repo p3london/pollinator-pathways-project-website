@@ -6,10 +6,19 @@ import { ButtonLink } from "../primary-button-link";
 import s from "./markdown-content.module.css";
 // Types
 import type { TinaMarkdownContent } from "tinacms/dist/rich-text";
+import { stringFromTinaAst } from "@/app/projects/utils/string-from-tina-ast";
 
 function mdA(props: $TSFixMe) {
   const { type, title, url, _content_source, children, ...restProps } = props;
-  const isPdfLink = url?.endsWith(".pdf");
+  // Get text from children
+  const childAstNodes = children.props?.content;
+  const text = stringFromTinaAst({ type: "root", children: childAstNodes });
+  // Determine if it's a PDF link based on both URL and text
+  // NOTE: alternative might be to only let "link alone in paragraph"
+  // be a PDF link, since these links don't display well inline...
+  // But this seems fine for now, and author control is a little more direct.
+  const isPdfLink = url?.endsWith(".pdf") && text?.endsWith(".pdf");
+
   if (isPdfLink) {
     const icon = "/uploads/Site-wide/icon-file.png";
     return (
