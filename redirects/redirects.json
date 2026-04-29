@@ -50,11 +50,6 @@
     "permanent": false
   },
   {
-    "source": "/resources",
-    "destination": "/",
-    "permanent": false
-  },
-  {
     "source": "/blank",
     "destination": "/connect",
     "permanent": false
