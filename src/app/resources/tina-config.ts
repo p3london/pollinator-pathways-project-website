@@ -70,6 +70,47 @@ export const tinaConfigResourcesPage: Collection = {
     },
     {
       type: "string",
+      name: "otherCitiesTitle",
+      label: "Other Cities Title",
+      required: false,
+    },
+    {
+      type: "string",
+      name: "otherCitiesSubtitle",
+      label: "Other Cities Subtitle",
+      required: false,
+    },
+    {
+      list: true,
+      type: "object",
+      label: "Other Cities",
+      name: "otherCitiesList",
+      ui: {
+        itemProps: (item) => ({ label: item?.name }),
+      },
+      fields: [
+        {
+          type: "string",
+          name: "name",
+          label: "Name",
+          required: true,
+        },
+        {
+          type: "string",
+          name: "url",
+          label: "URL",
+          required: true,
+        },
+        {
+          type: "image",
+          name: "image",
+          label: "Image",
+          required: true,
+        },
+      ],
+    },
+    {
+      type: "string",
       name: "videoSectionTitle",
       label: "Video Section Title",
       required: false,
@@ -114,47 +155,6 @@ export const tinaConfigResourcesPage: Collection = {
           label: "Blog Post",
           name: "blogReference",
           collections: ["blog"],
-          required: true,
-        },
-      ],
-    },
-    {
-      type: "string",
-      name: "otherCitiesTitle",
-      label: "Other Cities Title",
-      required: false,
-    },
-    {
-      type: "string",
-      name: "otherCitiesSubtitle",
-      label: "Other Cities Subtitle",
-      required: false,
-    },
-    {
-      list: true,
-      type: "object",
-      label: "Other Cities",
-      name: "otherCitiesList",
-      ui: {
-        itemProps: (item) => ({ label: item?.name }),
-      },
-      fields: [
-        {
-          type: "string",
-          name: "name",
-          label: "Name",
-          required: true,
-        },
-        {
-          type: "string",
-          name: "url",
-          label: "URL",
-          required: true,
-        },
-        {
-          type: "image",
-          name: "image",
-          label: "Image",
           required: true,
         },
       ],
