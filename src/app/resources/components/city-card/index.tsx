@@ -3,12 +3,6 @@ import { AspectContainer } from "../aspect-container";
 // Styles
 import s from "./style.module.css";
 
-/**
- * TODO: finish implementation
- *
- * @param param0
- * @returns
- */
 export function CityCard({
   name,
   url,
@@ -26,9 +20,6 @@ export function CityCard({
         </span>
       </AspectContainer>
       <span className={s.cityCard_text}>{name}</span>
-      {/*<pre>
-        <code>{JSON.stringify({ name, url, image }, null, 2)}</code>
-      </pre>*/}
     </Link>
   );
 }
