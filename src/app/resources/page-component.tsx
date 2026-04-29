@@ -30,19 +30,21 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
   } = data.resourcesPage;
 
   const hasFiles = Array.isArray(files) && files.length > 0;
-  const hasVideos =
-    typeof videoSectionTitle === "string" &&
-    videoSectionTitle !== "" &&
-    Array.isArray(youtubeIds) &&
-    youtubeIds.length > 0;
-  const hasRelatedBlogs =
-    Array.isArray(blogReferenceList) && blogReferenceList.length > 0;
 
   const hasCities =
     typeof otherCitiesTitle === "string" &&
     otherCitiesTitle !== "" &&
     Array.isArray(otherCitiesList) &&
     otherCitiesList.length > 0;
+
+  const hasVideos =
+    typeof videoSectionTitle === "string" &&
+    videoSectionTitle !== "" &&
+    Array.isArray(youtubeIds) &&
+    youtubeIds.length > 0;
+
+  const hasRelatedBlogs =
+    Array.isArray(blogReferenceList) && blogReferenceList.length > 0;
 
   return (
     <>
@@ -51,6 +53,7 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
       {typeof subtitle === "string" && subtitle !== "" ? (
         <p className={s.subtitle}>{subtitle}</p>
       ) : null}
+
       {hasFiles ? (
         <>
           <Spacer h="2rem" />
@@ -109,6 +112,7 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
           </div>
         </>
       ) : null}
+
       {hasRelatedBlogs ? (
         <>
           <Spacer h="4rem" />
@@ -131,9 +135,6 @@ export default function ResourcesPage({ data, serverProps }: $TSFixMe) {
               return (
                 <div key={index}>
                   <BlogCard entry={blogReference} />
-                  {/*<pre>
-                  <code>{JSON.stringify(blogReference, null, 2)}</code>
-                </pre>*/}
                 </div>
               );
             })}
