@@ -13,14 +13,6 @@ export async function tinaQuery() {
   });
 }
 
-/**
- * Fetch data that does not need to be directly editable in TinaCMS
- */
-// export async function getServerProps() {
-//   const projectEntries = await fetchProjectsList();
-//   return { projectEntries };
-// }
-
 export const tinaConfigResourcesPage: Collection = {
   name: "resourcesPage",
   label: "Resources Page",
