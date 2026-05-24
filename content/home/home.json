@@ -1,6 +1,18 @@
 {
   "heading": "A grassroots organization helping to educate the public about pollinators.",
-  "messageBars": [],
+  "messageBars": [
+    {
+      "emoji": "🌱",
+      "title": "Free seedlings!",
+      "body": "You can request up to 24 native perennial seedlings from Pollinator Pathways Project. Learn more by clicking on the link below.\n",
+      "links": [
+        {
+          "linkText": "Get free seedlings",
+          "linkUrl": "/blog/free-native-perennial-seedlings-may-june-2026"
+        }
+      ]
+    }
+  ],
   "infoSections": [
     {
       "title": "Pollinators keep ecosystems alive",
