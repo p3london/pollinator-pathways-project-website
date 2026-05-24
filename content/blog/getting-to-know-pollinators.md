@@ -3,7 +3,7 @@ title: Getting To Know Pollinators
 coverImage: /uploads/blog/getting-to-know-pollinators/4edd67_d443b1d970c84dd88d430d687081cc7d~mv2.png
 date: 2021-12-09T04:00:00.000Z
 author: Risto Kniivila
----  
+---
 
 **What are Pollinators?**
 
@@ -19,30 +19,19 @@ When we think of pollinators, our minds automatically jump to bees as the saviou
 
 ![](/uploads/blog/getting-to-know-pollinators/4edd67_9cf3a3bf8b4b466b86328b81366de207~mv2.png)
 
-- **Butterflies**: attracted to colourful flowers
-    
-- **Flies**: pollinate strawberries, onions, and carrots
-    
-- **Moths**: there is growing evidence that they are actively pollinating many flowers
-    
-- **Wasps**: adult wasps eat nectar and rotting fruit, passing pollen from plant to plant
-    
-- **Hummingbirds**: help pollinate flowers and some fruit trees
-    
-- **Squirrels**: carry pollen when scouring for food
-    
-- **Beetles**: thought to be among the first of the insect pollinators, nowadays they primarily pollinate close descendants of ancient plant species, including magnolias and water lilies
-    
+* **Butterflies**: attracted to colourful flowers
+* **Flies**: pollinate strawberries, onions, and carrots
+* **Moths**: there is growing evidence that they are actively pollinating many flowers
+* **Wasps**: adult wasps eat nectar and rotting fruit, passing pollen from plant to plant
+* **Hummingbirds**: help pollinate flowers and some fruit trees
+* **Squirrels**: carry pollen when scouring for food
+* **Beetles**: thought to be among the first of the insect pollinators, nowadays they primarily pollinate close descendants of ancient plant species, including magnolias and water lilies
 
 Overall, there are many pollinators out there, as pollination is as simple as transporting pollen from one plant to another. So, check in your yard and neighbourhood to see if there are any that we missed!
-
-  
 
 **Current Threats**
 
 Major threats currently facing pollinator populations include: **climate change** and **habitat loss**; predation or competition from **invading species**; **disease**; and **harmful chemicals** used in the agricultural process.
-
-  
 
 **Tracking Pollinator Populations**
 
@@ -52,8 +41,6 @@ Pollinator-dependent crops make up about a third of what we eat every day -- in 
 
 **Sources**
 
-[How to Create a Pollinator Friendly Garden](https://davidsuzuki.org/queen-of-green/create-pollinator-friendly-garden-birds-bees-butterflies/), David Suzuki Foundation
+[How to Create a Pollinator Friendly Garden](https://davidsuzuki.org/story/the-buzz-on-wild-bees-versus-honeybees/), David Suzuki Foundation
 
-[Pollinator Health](https://www.ontario.ca/page/pollinator-health), Government of Ontario
-
-[Nature Conservancy Canada](https://www.natureconservancy.ca/)
+[Nature Conservancy Canada](https://natureconservancy.ca/pollinators-and-the-future-of-food/)
