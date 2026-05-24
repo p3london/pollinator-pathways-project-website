@@ -69,11 +69,19 @@
     },
     {
       "name": "Wilson Family Foundation",
-      "logo": "/uploads/Sponsor Logos/wilson-family-foundation.png"
+      "logo": "/uploads/wilson-family-foundation.png"
     },
     {
       "name": "Rick and Carol Richardson Family Fund",
-      "logo": "/uploads/Sponsor Logos/rick-and-carol-richardson-family-fund.png"
+      "logo": "/uploads/rick-and-carol-richardson-family-fund.png"
+    },
+    {
+      "name": "City of London",
+      "logo": "/uploads/city-of-london.png"
+    },
+    {
+      "name": "Jane Goodall Institute",
+      "logo": "/uploads/jane-goodall-institute.png"
     }
   ]
 }
