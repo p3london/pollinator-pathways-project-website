@@ -40,9 +40,9 @@
     {
       "iconSrc": "/uploads/home/icon-house.png",
       "title": "Start your garden",
-      "text": "Interested in creating a pollinator garden for your backyard or within your community? Our kits are one way to get started!",
-      "linkText": "Ask about kits",
-      "linkUrl": "/connect"
+      "text": "Interested in creating a pollinator garden for your backyard or within your community? Our Plant Guide will help you get started. The Plant Guide is available in English, French, and Spanish.",
+      "linkText": "See the Plant Guide",
+      "linkUrl": "/resources"
     },
     {
       "iconSrc": "/uploads/home/icon-potted-plant.png",
