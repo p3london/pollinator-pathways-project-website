@@ -1,14 +1,19 @@
 {
   "heading": "A grassroots organization helping to educate the public about pollinators.",
-  "messageBars": [],
-  "infoSections": [
+  "messageBars": [
     {
-      "title": "Pollinators keep ecosystems alive",
-      "image": "/uploads/home/2024-05-26-pollinator-ecosystems.jpg",
-      "body": "Donate to help us build more gardens and keep our ecosystems healthy. Your help makes this all happen.\n",
-      "linkText": "Donate",
-      "linkUrl": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3"
-    },
+      "emoji": "🌱",
+      "title": "Free seedlings!",
+      "body": "You can request up to 24 native perennial seedlings from Pollinator Pathways Project. Learn more by clicking on the link below.\n",
+      "links": [
+        {
+          "linkText": "Get free seedlings",
+          "linkUrl": "/blog/free-native-perennial-seedlings-may-june-2026"
+        }
+      ]
+    }
+  ],
+  "infoSections": [
     {
       "title": "Why do pollinators matter?",
       "image": "/uploads/home/2024-05-26-pathways-photo-garden-01.jpg",
@@ -20,31 +25,31 @@
       "title": "What are pollinator pathways?",
       "image": "/uploads/home/2024-05-26-pathways-photo-butterfly.jpg",
       "body": "Pollinator pathways are interconnected green areas where pollinators can find food and shelter and go about their day-to-day pollination.\n\nThese areas allow species such as birds, bees, bats, butterflies, beetles, and other small mammals to travel safely through cities and neighbourhoods, carrying pollen between plants.\n\nWithout these pathways, it’s difficult for pollinators to survive. Our aim is to help pollinating species by encouraging the public to plant more native flower species.\n",
-      "linkText": "Explore the Central London Pathway",
-      "linkUrl": "/blog/program-overview-central-london-pathway"
+      "linkText": "Explore P3 projects that create pathways",
+      "linkUrl": "/projects"
+    },
+    {
+      "title": "Pollinators keep ecosystems alive",
+      "image": "/uploads/home/2024-05-26-pollinator-ecosystems.jpg",
+      "body": "Donate to help us build more gardens and keep our ecosystems healthy. Your help makes this all happen.\n",
+      "linkText": "Donate",
+      "linkUrl": "https://www.zeffy.com/en-CA/donation-form/48743740-4ed5-4402-a81b-20be4e41f4b3"
     }
   ],
   "callsToAction": [
     {
       "iconSrc": "/uploads/home/icon-house.png",
       "title": "Start your garden",
-      "text": "Interested in creating a pollinator garden for your backyard or within your community? Our kits are one way to get started!",
-      "linkText": "Ask about kits",
-      "linkUrl": "/connect"
-    },
-    {
-      "iconSrc": "/uploads/home/icon-potted-plant.png",
-      "title": "Work with us",
-      "text": "For larger projects for your community or workplace, we can help plan and plant gardens on a case by case basis. We do charge a fee for these services.",
-      "linkText": "Help me plan",
-      "linkUrl": "/connect"
+      "text": "Interested in creating a pollinator garden for your backyard or within your community? Our Plant Guide will help you get started. The Plant Guide is available in English, French, and Spanish.",
+      "linkText": "See the Plant Guide",
+      "linkUrl": "/resources"
     },
     {
       "iconSrc": "/uploads/home/icon-handshake.png",
       "title": "Sponsor us",
       "text": "Interested in supporting our vision, within your community, or at your workplace? We’re here to help!",
       "linkText": "Get in touch",
-      "linkUrl": "/connect"
+      "linkUrl": "mailto:pollinatorpathwaysproject@gmail.com"
     }
   ],
   "sponsorsHeading": "Contributing Artists & Project Sponsors",
@@ -64,11 +69,19 @@
     },
     {
       "name": "Wilson Family Foundation",
-      "logo": "/uploads/Sponsor Logos/wilson-family-foundation.png"
+      "logo": "/uploads/wilson-family-foundation.png"
     },
     {
       "name": "Rick and Carol Richardson Family Fund",
-      "logo": "/uploads/Sponsor Logos/rick-and-carol-richardson-family-fund.png"
+      "logo": "/uploads/rick-and-carol-richardson-family-fund.png"
+    },
+    {
+      "name": "City of London",
+      "logo": "/uploads/city-of-london.png"
+    },
+    {
+      "name": "Jane Goodall Institute",
+      "logo": "/uploads/jane-goodall-institute.png"
     }
   ]
 }
