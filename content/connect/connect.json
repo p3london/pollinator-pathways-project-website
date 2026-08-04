@@ -7,7 +7,7 @@
     "icon": "/uploads/Site-wide/icon-email.png"
   },
   "volunteerHeading": "Volunteer with us!",
-  "volunteerText": "Looking for a way to get involved with the Pollinator Pathways Project? We’d love your contribution. We’re currently looking for builders, writers, and gardeners. Email us to get started!",
+  "volunteerText": "Looking for a way to get involved with the Pollinator Pathways Project? We’d love your contribution. We’re currently looking for growers, writers, and gardeners. Email us to get started!",
   "volunteerOpportunities": [
     {
       "title": "Writers",
@@ -15,7 +15,7 @@
     },
     {
       "title": "Growers",
-      "text": "We're looking for growers who can be responsible for over-winter and sprint seedlings."
+      "text": "We're looking for growers who can be responsible for over-winter and spring seedlings."
     },
     {
       "title": "Gardeners",
