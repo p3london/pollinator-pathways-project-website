@@ -39,26 +39,6 @@
       "file": "/uploads/resources/open-plant-guide-spanish.pdf"
     }
   ],
-  "videoSectionTitle": "Our videos",
-  "youtubeIds": [
-    "https://youtu.be/eGa1DW_gtcY",
-    "https://www.youtube.com/watch?v=m9Ajgsd4Xp4",
-    "https://youtu.be/k3xot4p0k20",
-    "https://youtu.be/DJZ4u5iNUH4"
-  ],
-  "blogsTitle": "On the blog",
-  "blogsSubtitle": "Check out our recent blog posts related to tips, tricks, and treats for helping you in the garden.",
-  "blogReferenceList": [
-    {
-      "blogReference": "content/blog/six-bees-to-look-out-for-this-spring-summer.md"
-    },
-    {
-      "blogReference": "content/blog/dutch-ingenuity-leads-the-way-saving-pollinators-in-urban-environments.md"
-    },
-    {
-      "blogReference": "content/blog/monarch-butterflies-in-the-city.md"
-    }
-  ],
   "otherCitiesTitle": "Other cities",
   "otherCitiesSubtitle": "Questioning whether this is a global trend already? Have a look at what these cities are doing to help pollinators...",
   "otherCitiesList": [
@@ -122,5 +102,14 @@
       "url": "https://diamondsci.com/blog/greening-cities-can-help-save-bees/",
       "image": "/uploads/resources/cities/amsterdam.jpg"
     }
-  ]
+  ],
+  "videoSectionTitle": "Our videos",
+  "youtubeIds": [
+    "https://youtu.be/eGa1DW_gtcY",
+    "https://www.youtube.com/watch?v=m9Ajgsd4Xp4",
+    "https://youtu.be/k3xot4p0k20",
+    "https://youtu.be/DJZ4u5iNUH4"
+  ],
+  "blogsTitle": "",
+  "blogsSubtitle": ""
 }
