@@ -1,7 +1,7 @@
 ---
 title: The Westminster Pollinator Garden Project
 coverImage: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00001.jpeg
-date: 2025-01-03T14:55:20.952Z
+date: 2025-01-01T14:55:20.952Z
 dateString: 2025/2026
 projectStatus: past
 shortDescription: 'Nine Pollinator Pathways Project (P3) volunteer growers were able to grow over 1,400 seedlings. These seedlings have been planted in the gardens of the 2 participating residents in Westminster, the 3 schools participating in our 2025/2026 school project, and distributed to the 30 residents who took advantage of our first ever FREE Seedlings event at the Western Fair.'
