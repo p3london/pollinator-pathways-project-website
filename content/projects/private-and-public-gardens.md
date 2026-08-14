@@ -1,6 +1,8 @@
 ---
 title: Private and Public Gardens
 coverImage: /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00001.jpg
+date: 2022-01-01T14:56:31.878Z
+dateString: ''
 projectStatus: past
 images:
   - /uploads/projects/photos-private-and-public-garden-photos/photos-private-and-public-garden-photos-00001.jpg
