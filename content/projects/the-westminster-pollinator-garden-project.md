@@ -1,5 +1,6 @@
 ---
 title: The Westminster Pollinator Garden Project
+coverImage: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00001.jpeg
 date: 2024-01-01T14:55:20.952Z
 dateString: 2024/2025
 projectStatus: past

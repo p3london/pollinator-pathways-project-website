@@ -1,6 +1,7 @@
 ---
 title: Hamilton Road Pollinator Garden
 date: 2025-01-01T14:56:10.123Z
+coverImage: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00001.jpeg
 dateString: 2024/2025
 projectStatus: past
 shortDescription: ''

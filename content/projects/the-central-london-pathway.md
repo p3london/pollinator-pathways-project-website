@@ -1,5 +1,6 @@
 ---
 title: The Central London Pathway
+coverImage: /uploads/projects/photos-the-central-london-pathway/central-london-00001.jpeg
 date: 2023-01-01T14:55:45.139Z
 dateString: 2023/2024
 projectStatus: past
