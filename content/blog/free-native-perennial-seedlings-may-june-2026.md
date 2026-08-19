@@ -5,7 +5,7 @@ author: Queen Bee
 shortDescription: Request up to 24 native perennial seedlings from Pollinator Pathways Project.
 ---
 
-You can request up to 24 native perennial seedlings from Pollinator Pathways Project (P3). There will be 3 types of seedlings available:
+Until June 5, 2026, you can request up to 24 native perennial seedlings from Pollinator Pathways Project (P3). There will be 3 types of seedlings available:
 
 * [Anise Hyssop](https://www.thespruce.com/anise-hyssop-plant-profile-5118429)
 * [Black Eyed Susan](https://www.thespruce.com/choosing-and-growing-black-eyed-susan-1402860)
