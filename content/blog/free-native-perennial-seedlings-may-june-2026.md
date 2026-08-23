@@ -2,7 +2,7 @@
 title: Free native perennial seedlings
 date: 2026-05-25T18:03:36.523Z
 author: Queen Bee
-shortDescription: Request up to 24 native perennial seedlings from Pollinator Pathways Project.
+shortDescription: 'Until June 5, 2026, you can request up to 24 native perennial seedlings from Pollinator Pathways Project.'
 ---
 
 Until June 5, 2026, you can request up to 24 native perennial seedlings from Pollinator Pathways Project (P3). There will be 3 types of seedlings available:
