@@ -12,7 +12,7 @@ London’s recently updated (June 23, 2026) Yard and Maintenance Bylaw PW-15 has
 * No Prohibited Plants (see Schedule “A” below for the current list of prohibited plants)
 * The garden may not create a public health or safety hazard, or a nuisance.
 
-![](/uploads/blog/how-are-perennial-flower-gardens-impacted-by-london-s-yard-maintenance-bylaw/driveway-visibility-triangle.jpg)
+![](/uploads/blog/how-are-perennial-flower-gardens-impacted-by-london-s-yard-maintenance-bylaw/driveway-visibility-triangle-02.jpg)
 
 If you are found guilty of contravening any of these conditions, you are subject to a fine. If you don’t correct the situation, the city can make the corrections and charge you for the expense (typically on your tax bill).
 
