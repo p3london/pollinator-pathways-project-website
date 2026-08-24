@@ -8,11 +8,11 @@ shortDescription: London has recently updated the Yard and Maintenance Bylaw. Th
 
 London’s recently updated (June 23, 2026) Yard and Maintenance Bylaw PW-15 has the following restrictions on Perennial Flower Gardens:
 
-* Height does not exceed 0.9m (3 feet) within any Corner Visibility Triangle or Driveway
-* Visibility Triangle.(see definitions and sketches for these below)
+* Height does not exceed 0.9m (3 feet) within any Corner Visibility Triangle or Driveway Visibility Triangle (see definitions and sketches for these below).
 * No Prohibited Plants (see Schedule “A” below for the current list of prohibited plants)
+* The garden may not create a public health or safety hazard, or a nuisance.
 
-The garden may not create a public health or safety hazard, or a nuisance.
+![](/uploads/blog/how-are-perennial-flower-gardens-impacted-by-london-s-yard-maintenance-bylaw/driveway-visibility-triangle.jpg)
 
 If you are found guilty of contravening any of these conditions, you are subject to a fine. If you don’t correct the situation, the city can make the corrections and charge you for the expense (typically on your tax bill).
 
