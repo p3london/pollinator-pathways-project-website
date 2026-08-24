@@ -16,47 +16,46 @@ London’s recently updated (June 23, 2026) Yard and Maintenance Bylaw PW-15 has
 
 If you are found guilty of contravening any of these conditions, you are subject to a fine. If you don’t correct the situation, the city can make the corrections and charge you for the expense (typically on your tax bill).
 
-Following are excerpt from the bylaw that apply to perennial flower garden, with the highlighted areas being most relevant:
+Following are excerpt from the bylaw that apply to perennial flower garden, with the most relevant in ***italics and bolded***
 
 ## Excerpts from the Yard and Maintenance Bylaw – PW-15, June 23, 2026 version
 
-**“Corner Visibility Triangle”** means a triangular area formed within a corner lot by the
+***“Corner Visibility Triangle” means a triangular area formed within a corner lot by the
 intersecting lot lines abutting two streets, or the projections thereof, and a straight line
-connecting them 5.4 metres (17.7 feet) from their point of intersection.
+connecting them 5.4 metres (17.7 feet) from their point of intersection.***
 
-**“Driveway Visibility Triangle”** means a triangular area formed by the intersection of the lateral
+***“Driveway Visibility Triangle” means a triangular area formed by the intersection of the lateral
 limit of the travelled portion of a driveway and the street line or sidewalk (if existing) or the
 projections thereof, and a straight line connecting them 2.7 metres (8.9 feet) from their point
-of intersection.
+of intersection.***
 
-**“Vegetative Growth”** means a plant garden and includes, without limiting the generality of the
+***“Vegetative Growth” means a plant garden and includes, without limiting the generality of the
 foregoing, an annual or perennial flower garden, food garden, rain garden, hedge, shrub,
-plant, vine, and groundcover, but does not include trees or Lawn.
+plant, vine, and groundcover, but does not include trees or Lawn.***
 
 ### 2.2 Removal of Refuse, Prohibited Plants, and Graffiti
 
-1. An Owner shall remove any Refuse from their Land so that it is left in a clean and clear condition.
-2. An Owner shall ensure their Land is kept clean, clear, and free from objects or conditions, that may create a public health or safety hazard, or a nuisance.
-3. An Owner shall ensure their Land is kept free and clear of any Prohibited Plants.
-4. An Owner shall keep their Land, including any buildings, structures, fences, and surfaces free and clear of Graffiti.
+1. ***An Owner shall remove any Refuse from their Land so that it is left in a clean and clear condition.***
+2. ***An Owner shall ensure their Land is kept clean, clear, and free from objects or conditions, that may create a public health or safety hazard, or a nuisance.***
+3. ***An Owner shall ensure their Land is kept free and clear of any Prohibited Plants.***
 
 ### 2.3 Vegetative Growth & Lawn
 
 1. An Owner shall ensure Lawn on their Land does not exceed 20cm (8 inches) in height or length.
-2. An Owner shall ensure Vegetative Growth on their Land does not exceed 0.9m (3 feet) in height within any Corner Visibility Triangle or Driveway Visibility Triangle.
-3. An Owner shall ensure that Vegetative Growth or Lawn on their Land do not create a public health or safety hazard, or a nuisance.
+2. ***An Owner shall ensure Vegetative Growth on their Land does not exceed 0.9m (3 feet) in height within any Corner Visibility Triangle or Driveway Visibility Triangle.***
+3. ***An Owner shall ensure that Vegetative Growth or Lawn on their Land do not create a public health or safety hazard, or a nuisance.***
 
 ### 3.3 Vegetative Growth and Lawn – fail to maintain - prohibited
 
-No Owner shall fail to maintain Vegetative Growth or Lawn on their Land in accordance with the provisions of this by-law.
+***No Owner shall fail to maintain Vegetative Growth or Lawn on their Land in accordance with the provisions of this by-law.***
 
 ### 5.1 Offence – fine for contravention
 
-Any person who contravenes any provision of this by-law is, upon conviction, guilty of an offence and is liable to any penalty as provided in the Provincial Offences Act.
+***Any person who contravenes any provision of this by-law is, upon conviction, guilty of an offence and is liable to any penalty as provided in the Provincial Offences Act***.
 
 ### 5.3 Default – not remedied – fee
 
-Where anything required or directed to be done in accordance with this by-law is not done, the Director may upon such notice as they deem suitable, do such thing at the expense of the Owner, and in so doing may charge an administrative fee as provided in the City of London ***Fees and Charges By-law*.**. Any expenses and fees incurred by the City that are not paid by the Owner may be recovered by action or by adding the costs to the municipal tax roll and collecting them in the same manner as property taxes.
+***Where anything required or directed to be done in accordance with this by-law is not done, the Director may upon such notice as they deem suitable, do such thing at the expense of the Owner, and in so doing may charge an administrative fee as provided in the City of London Fees and Charges By-law\..*** ***Any expenses and fees incurred by the City that are not paid by the Owner may be recovered by action or by adding the costs to the municipal tax roll and collecting them in the same manner as property taxes.***
 
 ### 5.4 Removal - immediate disposal
 
@@ -68,7 +67,7 @@ An Officer designated to perform inspections pursuant to this by-law may, at all
 
 ### 5.6 City – bring property to compliance
 
-Where the City proceeds pursuant to section 5.3 of this by-law, an Officer may enter onto jLand accompanied by any person under their direction and with the appropriate equipment as required to bring the property into compliance with this by-law.
+Where the City proceeds pursuant to section 5.3 of this by-law, an Officer may enter onto Land accompanied by any person under their direction and with the appropriate equipment as required to bring the property into compliance with this by-law.
 
 ### 5.7 Order to Discontinue Activity
 
