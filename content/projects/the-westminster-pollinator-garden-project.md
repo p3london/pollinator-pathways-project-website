@@ -18,6 +18,11 @@ It was disappointing that there were only 2 Westminster residents who signed up 
 
 While it is clear that we are more successful with some plant types, like Black Eyed Susan and Wild Bergamot, there are some that we have problems with, such as Blanket Flower, White Yarrow, and Lanceleaf Coreopsis. In the future, these last 3 plants will probably be left off our list of plants to grow, and we'll need to try some other varieties.
 
+Nine volunteers grew the seedlings using 2 growing methods:
+
+1. Overwinter Seedlings - Seeds are placed in seed starting cells, covered with a humidity dome, and left outside over winter. The temperature and humidity variations over the winter causes the protective seed coat layer to be broken, allowing the seeds to germinate with the warmer spring temperatures
+2. Spring Seedlings - Seeds, that have been subjected to a stratification process to break down the protective seed coating layer, are placed in seed starting cells, which are then placed in a mini greenhouse, with grow lights, in late March. The seeds germinate and when the seedlings are over 3" they are put through a one-to-two week Hardening Off process to gradually acclimate the seedlings to outdoor conditions.
+
 The overall success rate for the 2 growing methods is almost the same at 35%. In the future, we'll have confidence that either method is capable of providing results.
 
 Our success rate this year is significantly better than it was for last year's Hamilton Road project, where the overall success rate for the Overwinter Seedlings method was 18%, and the Spring Seedlings method was 17.4%. The combined success rate for the Overwinter and Spring Seedling methods in the Hamilton Road project was 17.7%. So, with a success rate of 35% with the Westminster project, we've achieved a 100% improvement, quite remarkable really.
