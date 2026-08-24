@@ -80,7 +80,9 @@ If an Officer is satisfied that a contravention of the by-law has occurred, the 
 
 ### Schedule "A” - Prohibited Plants
 
-| January 15, 2025          |                          |
+January 15, 2025
+
+|                           |                          |
 | ------------------------- | ------------------------ |
 | Common buckthorn          | Rhamnus cathartica       |
 | Glossy buckthorn          | Frangula alnus           |
