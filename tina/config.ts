@@ -8,6 +8,7 @@ import {
 } from "@/app/projects/tina-config";
 import { tinaConfigConnect } from "@/app/connect/tina-config";
 import { tinaConfigResourcesPage } from "@/app/resources/tina-config";
+import { tinaConfigMap } from "@/app/map/tina-config";
 
 // Your hosting provider likely exposes this as an environment variable
 const branch =
@@ -48,6 +49,7 @@ export default defineConfig({
       tinaConfigProjects,
       tinaConfigConnect,
       tinaConfigResourcesPage,
+      tinaConfigMap,
     ],
   },
 });

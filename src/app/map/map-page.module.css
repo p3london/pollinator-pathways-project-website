@@ -1,0 +1,39 @@
+.subheading {
+	color: var(--color-neutral-700);
+	max-width: 32em;
+	margin: 1rem auto;
+	padding: 0 var(--content-padding-x);
+	font-size: 1.125rem;
+	text-align: center;
+}
+
+/* MAP */
+
+.mapEmbed {
+	border: 0;
+	display: block;
+	height: max(50vh, 300px);
+	width: 100%;
+	max-width: var(--content-max-width);
+	margin: 0 auto;
+}
+
+/* PARTICIPATE */
+
+.participate_contents {
+	margin: 0 auto;
+	max-width: var(--content-max-width);
+	padding: 0 var(--content-padding-x);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.participate_heading {
+	font-size: 2.25rem;
+}
+
+.videoContainer {
+	max-width: 480px;
+	width: 100%;
+}

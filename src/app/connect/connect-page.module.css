@@ -1,57 +1,59 @@
 /* CONNECT WITH US */
 
 .connectWithUs_contents {
-  margin: 0 auto;
-  max-width: var(--content-max-width);
-  padding: 0 var(--content-padding-x);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+	margin: 0 auto;
+	max-width: var(--content-max-width);
+	padding: 0 var(--content-padding-x);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
 
 .connectWithUs_text {
-  font-size: 1.125rem;
-  margin: 0 auto;
-  max-width: 36em;
-  text-align: center;
+	color: var(--color-neutral-700);
+	max-width: 32em;
+	margin: 1rem auto;
+	padding: 0 var(--content-padding-x);
+	font-size: 1.125rem;
+	text-align: center;
 }
 
 .connectWithUs_button_iconAndText {
-  display: flex;
-  gap: 12px;
-  min-height: 32px;
-  align-items: center;
+	display: flex;
+	gap: 12px;
+	min-height: 32px;
+	align-items: center;
 }
 
 .connectWithUs_button_icon {
-  display: block;
-  width: 24px;
-  height: 24px;
+	display: block;
+	width: 24px;
+	height: 24px;
 }
 
 /* VOLUNTEER OPPORTUNITIES */
 
 .volunteerOpportunities {
-  /*background: var(--yellow-primary-faded);*/
-  background: var(--color-green-200);
+	/*background: var(--yellow-primary-faded);*/
+	background: var(--color-green-200);
 }
 
 .volunteerOpportunities_contents {
-  margin: 0 auto;
-  max-width: var(--content-max-width);
-  padding: 3rem var(--content-padding-x) 0rem 0;
+	margin: 0 auto;
+	max-width: var(--content-max-width);
+	padding: 3rem var(--content-padding-x) 0rem 0;
 }
 
 .volunteerOpportunities_heading {
-  font-family: var(--font-display);
-  font-size: 2.25rem;
-  text-align: center;
+	font-family: var(--font-display);
+	font-size: 2.25rem;
+	text-align: center;
 }
 
 .volunteerOpportunities_text {
-  font-size: 1.125rem;
-  margin: 0 auto;
-  max-width: 36em;
-  text-align: center;
+	font-size: 1.125rem;
+	margin: 0 auto;
+	max-width: 36em;
+	text-align: center;
 }
