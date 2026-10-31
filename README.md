@@ -70,3 +70,4 @@ This site uses [TinaCMS](https://pollinator-pathways-project-website.vercel.app/
 
 - [Central London Pathway](https://www.google.com/maps/d/u/0/viewer?mid=1aIPgbjac3YiVZggXbno0U4Mf1JaEsYE&ehbc=2E312F&ll=42.98727062882328%2C-81.23761494999998&z=16) map
 - [Participatory Map](https://www.google.com/maps/d/u/0/viewer?mid=16MEC2s6Poc1CXqyB0v0wRINtjc9VQDkR&ll=42.99879305728126%2C-81.2673045034648&z=12)
+- [Participatory Map Tutorial](https://www.youtube.com/watch?v=soPTLfnK7p8)
