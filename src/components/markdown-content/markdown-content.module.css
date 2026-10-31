@@ -74,6 +74,14 @@
     padding: 1em;
     border-left: 5px solid var(--green-primary);
     background-color: var(--color-green-100);
+
+    & p:first-child {
+      margin-top: 0;
+    }
+
+    & p:last-child {
+      margin-bottom: 0;
+    }
   }
 
   /* Tables */
