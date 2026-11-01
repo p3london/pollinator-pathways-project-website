@@ -5,11 +5,19 @@ import { createPortal } from "react-dom";
 import s from "./style.module.css";
 import clsx from "clsx";
 
-export function ImageGrid({ images }: { images: (string | null)[] }) {
+export type ImageGridImage = { src: string; caption?: string | null };
+
+export function ImageGrid({
+  images,
+}: {
+  images: (ImageGridImage | null | undefined)[];
+}) {
   const [lightboxImageIdx, setLightboxImageIdx] = useState(-1);
   const closeLightbox = () => setLightboxImageIdx(-1);
 
-  const validImages = images.filter((image) => image !== null);
+  const validImages = images.filter((image): image is ImageGridImage =>
+    Boolean(image?.src)
+  );
   const imageCount = validImages.length;
 
   const lightboxNext = useCallback(() => {
@@ -47,7 +55,25 @@ export function ImageGrid({ images }: { images: (string | null)[] }) {
     };
   }, [lightboxImageIdx, lightboxPrev, lightboxNext]);
 
+  /**
+   * Block page scrolling while the lightbox is open.
+   */
+  const isLightboxOpen = lightboxImageIdx >= 0;
+  useEffect(() => {
+    if (!isLightboxOpen) {
+      return;
+    }
+    const { style } = document.documentElement;
+    const previousOverflow = style.overflow;
+    style.overflow = "hidden";
+    return () => {
+      style.overflow = previousOverflow;
+    };
+  }, [isLightboxOpen]);
+
   if (imageCount === 0) return null;
+
+  const lightboxImage = validImages[lightboxImageIdx];
 
   return (
     <>
@@ -57,8 +83,8 @@ export function ImageGrid({ images }: { images: (string | null)[] }) {
             <div className={s.photoGridItem} key={idx}>
               <img
                 className={s.image}
-                src={image}
-                alt=""
+                src={image.src}
+                alt={image.caption ?? ""}
                 onClick={() => setLightboxImageIdx(idx)}
               />
             </div>
@@ -66,14 +92,21 @@ export function ImageGrid({ images }: { images: (string | null)[] }) {
         })}
       </div>
 
-      {lightboxImageIdx !== -1 && (
+      {lightboxImage && (
         <ModalPortal>
           <div className={s.lightbox}>
-            <img
-              className={clsx(s.lightboxImage)}
-              src={validImages[lightboxImageIdx]}
-              alt=""
-            />
+            <figure className={s.lightboxFigure}>
+              <img
+                className={clsx(s.lightboxImage)}
+                src={lightboxImage.src}
+                alt={lightboxImage.caption ?? ""}
+              />
+              {lightboxImage.caption ? (
+                <figcaption className={s.lightboxCaption}>
+                  {lightboxImage.caption}
+                </figcaption>
+              ) : null}
+            </figure>
             <button
               className={clsx(s.lightboxButton, s.lightboxClose)}
               onClick={closeLightbox}

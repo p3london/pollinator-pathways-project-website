@@ -5,6 +5,8 @@ import { slugifyForTina } from "../../lib/slugify-for-tina";
 // Types
 import type { Collection } from "tinacms";
 import { fetchProjectsList } from "./utils/fetch-projects-list";
+// Custom Tina editing components
+import { ImageListField } from "../../../tina/custom-content-editing-components/image-list-field";
 
 /**
  * Fetch data for this specific page. Varies from page to page.
@@ -135,10 +137,46 @@ export const tinaConfigProjects: Collection = {
 			isBody: true,
 		},
 		{
-			type: "image",
+			type: "object",
 			label: "Images",
 			name: "images",
 			list: true,
+			ui: {
+				// Show an image thumbnail and caption for each item in the list,
+				// so editors can tell images apart without opening each one.
+				component: ImageListField,
+				// Block saving while any item has no image selected. The `src`
+				// field's own `required` check only runs once an item is opened,
+				// so an item that's added and never opened would otherwise save
+				// as an empty image.
+				// Tina types `ui.validate` as if this were a string list field, so
+				// we accept a loosely-typed value and cast it to the actual shape.
+				validate: (value: unknown) => {
+					const images = value as ({ src?: string } | null)[] | undefined;
+					const emptyCount = images?.filter((image) => !image?.src).length ?? 0;
+					if (emptyCount === 1) {
+						return "1 image has no file selected. Select an image, or delete the empty item.";
+					} else if (emptyCount > 1) {
+						return `${emptyCount} images have no file selected. Select images, or delete the empty items.`;
+					}
+				},
+			},
+			fields: [
+				{
+					type: "image",
+					name: "src",
+					label: "Image",
+					required: true,
+				},
+				{
+					type: "string",
+					name: "caption",
+					label: "Caption",
+					description:
+						"Shown below the image when it is enlarged. Also used as the image description for screen readers.",
+					required: false,
+				},
+			],
 		},
 	],
 	ui: {

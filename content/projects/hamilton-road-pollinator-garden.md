@@ -6,16 +6,16 @@ dateString: 2024/2025
 projectStatus: past
 shortDescription: ''
 images:
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00001.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00002.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00003.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00004.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00005.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00006.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00007.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00008.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00009.jpeg
-  - /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00010.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00001.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00002.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00003.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00004.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00005.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00006.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00007.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00008.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00009.jpeg
+  - src: /uploads/projects/photos-hamilton-road-pollinator-garden/hamilton-00010.jpeg
 ---
 
 With the assistance of funding from the London Environmental Network’s “Environmental Action Incubator Fund”, Pollinator Pathways Project (P3) provided the garden design, garden preparation, native perennial seedlings, and planting assistance to 14 residents and institutions of the Hamilton Road Community.

@@ -6,23 +6,20 @@ dateString: 2025/2026
 projectStatus: past
 shortDescription: 'Over the 2025/2026 school year, Pollinator Pathways Project volunteers conducted a pollinator garden project with 4 TVDSB elementary schools. The project is a hands-on, educational gardening program that introduced entire classes of students in each school to the fundamentals of plant growth, garden design, 3 methods of growing native perennial plants from seeds, and environmental stewardship.'
 images:
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00001.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00002.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00004.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00003.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00005.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00006.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00009.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
-  - /uploads/20260331_140959.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
-  - /uploads/1000035845.jpg
-  - /uploads/26RS207%20Don%20Whitred%20-%20Seedlings%20in%20Greenhouse.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00010.jpg
-  - /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00011.jpg
-  - ''
-  - ''
-  - ''
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00001.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00002.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00004.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00003.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00005.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00006.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00009.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
+  - src: /uploads/20260331_140959.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
+  - src: /uploads/1000035845.jpg
+  - src: /uploads/26RS207%20Don%20Whitred%20-%20Seedlings%20in%20Greenhouse.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00010.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00011.jpg
 ---
 
 With the assistance of funding from the City of London’s Grassroot Grant (administered by the London Environmental Network), and the Jane Goodall Canada foundation’s A.P.E. grant, Pollinator Pathways Project (P3) volunteers conducted 7 workshops at 4 TVDSB elementary schools. The 4 schools, and their teacher coordinators, are:

@@ -6,12 +6,12 @@ dateString: 2025/2026
 projectStatus: past
 shortDescription: 'Nine Pollinator Pathways Project (P3) volunteer growers were able to grow over 1,400 seedlings. These seedlings have been planted in the gardens of the 2 participating residents in Westminster, the 3 schools participating in our 2025/2026 school project, and distributed to the 30 residents who took advantage of our first ever FREE Seedlings event at the Western Fair.'
 images:
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00001.jpeg
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00002.jpeg
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00003.jpeg
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00004.jpeg
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00005.jpeg
-  - /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00006.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00001.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00002.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00003.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00004.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00005.jpeg
+  - src: /uploads/projects/photos-the-westminster-pollinator-garden-project/westminster-00006.jpeg
 ---
 
 It was disappointing that there were only 2 Westminster residents who signed up to get pollinator gardens, but this is offset by the success of our first ever free seedling event at the Grove in Western Fair where over 30 people attended and took away over 900 seedlings. We'll have to consider that this may be a more effective way to get native perennial plants into the community.
