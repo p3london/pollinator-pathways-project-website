@@ -135,10 +135,33 @@ export const tinaConfigProjects: Collection = {
 			isBody: true,
 		},
 		{
-			type: "image",
+			type: "object",
 			label: "Images",
 			name: "images",
 			list: true,
+			ui: {
+				// Show the caption (or filename) in the list, so editors
+				// can tell images apart without opening each one.
+				itemProps: (item) => ({
+					label: item?.caption || item?.src?.split("/").pop() || "New image",
+				}),
+			},
+			fields: [
+				{
+					type: "image",
+					name: "src",
+					label: "Image",
+					required: true,
+				},
+				{
+					type: "string",
+					name: "caption",
+					label: "Caption",
+					description:
+						"Shown below the image when it is enlarged. Also used as the image description for screen readers.",
+					required: false,
+				},
+			],
 		},
 	],
 	ui: {

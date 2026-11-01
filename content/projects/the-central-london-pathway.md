@@ -6,14 +6,14 @@ dateString: 2023/2024
 projectStatus: past
 shortDescription: 'With funding provided by Lush Cosmetics “Charity Pot Grant”, Pollinator Pathways Project (P3) was able to install 100 permanent in-ground pollinator gardens and 69 planter gardens in 13 London Communities.'
 images:
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00001.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00002.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00003.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00004.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00005.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00006.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00007.jpeg
-  - /uploads/projects/photos-the-central-london-pathway/central-london-00008.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00001.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00002.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00003.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00004.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00005.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00006.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00007.jpeg
+  - src: /uploads/projects/photos-the-central-london-pathway/central-london-00008.jpeg
 ---
 
 The original goals of the project were modified significantly when we were not able to obtain the total funding needed. The original project’s projected cost was approximately $45,000, but only the Lush Cosmetics funding of $15,000 was obtained. Instead of targeting 8-10 institutional permanent gardens and 250 small planters, we revised the project to target 100 residential permanent gardens and 85 small & medium sized planters.
