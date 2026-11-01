@@ -145,6 +145,21 @@ export const tinaConfigProjects: Collection = {
 				// Show an image thumbnail and caption for each item in the list,
 				// so editors can tell images apart without opening each one.
 				component: ImageListField,
+				// Block saving while any item has no image selected. The `src`
+				// field's own `required` check only runs once an item is opened,
+				// so an item that's added and never opened would otherwise save
+				// as an empty image.
+				// Tina types `ui.validate` as if this were a string list field, so
+				// we accept a loosely-typed value and cast it to the actual shape.
+				validate: (value: unknown) => {
+					const images = value as ({ src?: string } | null)[] | undefined;
+					const emptyCount = images?.filter((image) => !image?.src).length ?? 0;
+					if (emptyCount === 1) {
+						return "1 image has no file selected. Select an image, or delete the empty item.";
+					} else if (emptyCount > 1) {
+						return `${emptyCount} images have no file selected. Select images, or delete the empty items.`;
+					}
+				},
 			},
 			fields: [
 				{
