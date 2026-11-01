@@ -8,35 +8,38 @@ shortDescription: 'Over the 2025/2026 school year, Pollinator Pathways Project v
 images:
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00001.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00002.jpg
-  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00003.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00004.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00003.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00005.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00006.jpg
-  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
-  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00009.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
+  - src: /uploads/20260331_140959.jpg
+  - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
+  - src: /uploads/1000035845.jpg
+  - src: /uploads/26RS207%20Don%20Whitred%20-%20Seedlings%20in%20Greenhouse.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00010.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00011.jpg
 ---
 
 With the assistance of funding from the City of London’s Grassroot Grant (administered by the London Environmental Network), and the Jane Goodall Canada foundation’s A.P.E. grant, Pollinator Pathways Project (P3) volunteers conducted 7 workshops at 4 TVDSB elementary schools. The 4 schools, and their teacher coordinators, are:
 
-- Rick Hansen PS - Steve Cassidy coordinator – Grade 5/6
-- Arthur Ford PS – Alexandra Arcese and Alisa Murphey Smith coordinators – Grade 3
-- Louise Arbour FIPS – Angela Efstratudakis coordinator – Grade 8
-- Sir Isaac Brock PS – Averil Novak and Jenny Harper coordinators – Grade 2/3
+* Rick Hansen PS - Steve Cassidy coordinator – Grade 5/6
+* Arthur Ford PS – Alexandra Arcese and Alisa Murphey Smith coordinators – Grade 3
+* Louise Arbour FIPS – Angela Efstratudakis coordinator – Grade 8
+* Sir Isaac Brock PS – Averil Novak and Jenny Harper coordinators – Grade 2/3
 
 Through a series of 7 workshops with the 4 classes at the participating schools by P3 volunteers, students gained practical knowledge and experience by growing native perennial plants from seed and collaboratively creating a pollinator garden in their schoolyards. The funding for the program provided the equipment, materials and expertise needed to educate the students on planting pollinator gardens for the local environment. The equipment provided to the schools, and the workshop instructions, will allow the coordinators at each school to conduct similar projects in future years, growing the size of their pollinator gardens and continuing to provide hands-on educational opportunities for future students
 
 The 7 workshops were conducted over the school year as follows:
 
-- Late Sept/25 - a presentation on how the pollination process improves local biodiversity
-- Early Oct/25 - preparation of the pollinator garden site - black plastic and wooden surround
-- Late Oct/25 - Direct Sowing method - seeds in soil cubes prepared by students
-- Early Nov/25 - students planting the soil cubes prepared using the Direct Sowing method
-- Early Dec/25 - Overwinter Seedling method
-- Late Mar/26 - Spring Seedling method
-- Late May/26 - planting Overwinter and Spring seedlings
+* Late Sept/25 - a presentation on how the pollination process improves local biodiversity
+* Early Oct/25 - preparation of the pollinator garden site - black plastic and wooden surround
+* Late Oct/25 - Direct Sowing method - seeds in soil cubes prepared by students
+* Early Nov/25 - students planting the soil cubes prepared using the Direct Sowing method
+* Early Dec/25 - Overwinter Seedling method
+* Late Mar/26 - Spring Seedling method
+* Late May/26 - planting Overwinter and Spring seedlings
 
 In order to measure the impact of the project, several of the teacher coordinators sent in the following testimonials:
 
@@ -62,15 +65,15 @@ In order to measure the impact of the project, several of the teacher coordinato
 
 ## Results Achieved
 
-- Number of students participating – there were 108 students participating in the workshops at the 4 schools
-- Number of seedlings grown – there were 237 seedlings grown to a level that they could be planted in the 4 gardens, with 104 grown using the Overwinter Seedling method and 135 using the Spring Seedling method. For the Direct Sow method, we’ll have to wait until the spring of 2027 to see their success rate as the direct sow seeds don’t typically develop into plants until the second season.
+* Number of students participating – there were 108 students participating in the workshops at the 4 schools
+* Number of seedlings grown – there were 237 seedlings grown to a level that they could be planted in the 4 gardens, with 104 grown using the Overwinter Seedling method and 135 using the Spring Seedling method. For the Direct Sow method, we’ll have to wait until the spring of 2027 to see their success rate as the direct sow seeds don’t typically develop into plants until the second season.
 
 There were 7 P3 volunteers who helped make this project a success:
 
-- Shelley Garner
-- Amber Giffen
-- Helene MacKenzie
-- Luna Olin
-- Shane Oneill
-- Wendy Sperry
-- Don Whitred
+* Shelley Garner
+* Amber Giffen
+* Helene MacKenzie
+* Luna Olin
+* Shane Oneill
+* Wendy Sperry
+* Don Whitred
