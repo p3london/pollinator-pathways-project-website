@@ -5,6 +5,8 @@ import { slugifyForTina } from "../../lib/slugify-for-tina";
 // Types
 import type { Collection } from "tinacms";
 import { fetchProjectsList } from "./utils/fetch-projects-list";
+// Custom Tina editing components
+import { ImageListField } from "../../../tina/custom-content-editing-components/image-list-field";
 
 /**
  * Fetch data for this specific page. Varies from page to page.
@@ -140,11 +142,9 @@ export const tinaConfigProjects: Collection = {
 			name: "images",
 			list: true,
 			ui: {
-				// Show the caption (or filename) in the list, so editors
-				// can tell images apart without opening each one.
-				itemProps: (item) => ({
-					label: item?.caption || item?.src?.split("/").pop() || "New image",
-				}),
+				// Show an image thumbnail and caption for each item in the list,
+				// so editors can tell images apart without opening each one.
+				component: ImageListField,
 			},
 			fields: [
 				{

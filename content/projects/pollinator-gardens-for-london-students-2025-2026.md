@@ -12,7 +12,6 @@ images:
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00004.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00005.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00006.jpg
-    caption: Example caption. It can take up multiple lines. You can describe what's happening in the photo.
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00009.jpg
