@@ -2,7 +2,7 @@
 import PrimaryButtonLink from "@/components/primary-button-link";
 import Spacer from "@/components/spacer";
 import { PageTitle } from "@/components/page-title";
-import { AspectContainer } from "../resources/components/aspect-container";
+import VideoPlayer from "@/components/video-player";
 // Styles
 import s from "./map-page.module.css";
 import { MapPageQuery } from "../../../tina/__generated__/types";
@@ -14,7 +14,6 @@ export default function MapPage({ data }: { data: MapPageQuery }) {
 		googleMapsId,
 		participateHeading,
 		participateSubheading,
-		youtubeVideoId,
 		participateButtonText,
 		participateButtonUrl,
 	} = data.mapPage;
@@ -44,18 +43,12 @@ export default function MapPage({ data }: { data: MapPageQuery }) {
 				) : null}
 				<Spacer h="1rem" />
 				<div className={s.videoContainer}>
-					<AspectContainer aspectRatio={9 / 16}>
-						<iframe
-							width="100%"
-							height="100%"
-							src={`https://www.youtube.com/embed/${youtubeVideoId}`}
-							title="YouTube video player"
-							frameBorder="0"
-							allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-							referrerPolicy="strict-origin-when-cross-origin"
-							allowFullScreen
-						></iframe>
-					</AspectContainer>
+					<VideoPlayer
+						videoSrc="/map-participate-tutorial.mp4"
+						width={1920}
+						height={896}
+						title="How to add your garden to the map"
+					/>
 				</div>
 				<Spacer h="2rem" />
 				<PrimaryButtonLink href={participateButtonUrl} target="_blank">

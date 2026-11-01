@@ -63,14 +63,6 @@ export const tinaConfigMap: Collection = {
     },
     {
       type: "string",
-      label: "YouTube Video ID",
-      name: "youtubeVideoId",
-      description:
-        "The `v` value from the YouTube video link, e.g. https://www.youtube.com/watch?v=<ID>",
-      required: true,
-    },
-    {
-      type: "string",
       label: "Participate Button Text",
       name: "participateButtonText",
       required: true,
