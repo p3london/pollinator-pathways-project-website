@@ -17,7 +17,6 @@ images:
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00007.jpg
   - src: /uploads/20260331_140959.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00008.jpg
-  - src: /uploads/1000035845.jpg
   - src: /uploads/26RS207%20Don%20Whitred%20-%20Seedlings%20in%20Greenhouse.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00010.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00011.jpg
