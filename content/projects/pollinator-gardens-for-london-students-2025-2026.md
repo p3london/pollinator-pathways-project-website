@@ -9,6 +9,7 @@ images:
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00001.jpg
     caption: Rick Hansen PS Pollinator Garden Sign
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00002.jpg
+    caption: Louise Arbour Pollinator Garden Sign
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00004.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00003.jpg
   - src: /uploads/projects/photos-pollinator-gardens-for-london-students-2025-2026/pollinator-gardens-for-london-students-00005.jpg
