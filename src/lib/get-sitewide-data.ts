@@ -1,4 +1,4 @@
-import client from "../../tina/__generated__/client";
+import client from "@/lib/tina-client";
 
 export default async function getSitewideData() {
 	const { data } = await client.queries.sitewide({

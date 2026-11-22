@@ -1,5 +1,5 @@
 // Tina CMS Client
-import client from "../../../tina/__generated__/client";
+import client from "@/lib/tina-client";
 // Utils
 import { slugifyForTina } from "../../lib/slugify-for-tina";
 // Types

@@ -1,4 +1,4 @@
-import client from "@/../tina/__generated__/client";
+import client from "@/lib/tina-client";
 
 import PageClient from "./page-client";
 import PageServer from "./page-server";
