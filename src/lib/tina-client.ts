@@ -27,13 +27,22 @@ function rewriteTinaAssetUrls<T>(data: T): T {
 }
 
 /**
+ * Note: `baseClient` is only read lazily, inside the proxy handlers, never at
+ * module load. `tina/config.ts` imports this file indirectly, and during
+ * `tinacms build` the config is loaded before `tina/__generated__` exists, so
+ * `baseClient` is a stub at that point. Touching it at import time would break
+ * the Tina build.
+ */
+
+/**
  * For all queries, rewrite URLs in the data retrieved from
  * those queries, swapping in local `/uploads` URLs.
  */
 type Queries = typeof baseClient.queries;
-const queries = new Proxy(baseClient.queries, {
-	get(target, prop, receiver) {
-		const query = Reflect.get(target, prop, receiver);
+const queries = new Proxy({} as Queries, {
+	get(_target, prop) {
+		const target = baseClient.queries;
+		const query = Reflect.get(target, prop);
 		if (USE_TINA_ASSETS_CDN || typeof query !== "function") {
 			return query;
 		}
@@ -42,15 +51,17 @@ const queries = new Proxy(baseClient.queries, {
 			return { ...res, data: rewriteTinaAssetUrls(res.data) };
 		};
 	},
-}) as Queries;
+});
 
 /**
  * Proxy the default Tina client,
  * but swap in the rewritten local `/uploads` URLs.
  */
-const client = new Proxy(baseClient, {
-	get(target, prop, receiver) {
-		return prop === "queries" ? queries : Reflect.get(target, prop, receiver);
+const client = new Proxy({} as typeof baseClient, {
+	get(_target, prop) {
+		if (prop === "queries") return queries;
+		const value = Reflect.get(baseClient, prop);
+		return typeof value === "function" ? value.bind(baseClient) : value;
 	},
 });
 
