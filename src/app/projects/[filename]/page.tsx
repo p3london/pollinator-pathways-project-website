@@ -1,4 +1,4 @@
-import client from "@/../tina/__generated__/client";
+import client from "@/lib/tina-client";
 
 import { notFound } from "next/navigation";
 import { fetchProjectsList } from "../utils/fetch-projects-list";

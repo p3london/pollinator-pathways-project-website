@@ -1,4 +1,4 @@
-import client from "@/../tina/__generated__/client";
+import client from "@/lib/tina-client";
 import { getTinaMarkdownExcerpt } from "@/lib/get-tina-markdown-excerpt";
 
 export async function fetchProjectsList() {
